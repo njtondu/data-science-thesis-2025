@@ -119,6 +119,26 @@ def save_to_csv(dataframe, output_path):
     print(f"Successfully saved {dataframe.shape[0]} records to {output_path}")
 
 
+def save_raw_data(dataframes, raw_data_dir="../data/raw-data/api-station-data"):
+    """
+    Optionally save raw data files for data lineage
+    """
+    print(f"Saving raw data files to {raw_data_dir}...")
+    
+    # Create raw data directory if it doesn't exist
+    if not os.path.exists(raw_data_dir):
+        os.makedirs(raw_data_dir)
+        print(f"Created directory: {raw_data_dir}")
+    
+    # Save each raw dataframe
+    for name, df in dataframes.items():
+        file_path = os.path.join(raw_data_dir, f"{name}.csv")
+        df.to_csv(file_path, index=False)
+        print(f"Saved {name}.csv: {df.shape[0]} rows, {df.shape[1]} columns")
+    
+    print("Raw data files saved successfully")
+
+
 def main():
     """
     Main function to orchestrate the ETL process
@@ -127,11 +147,14 @@ def main():
         # Step 1: Connect to TFL API
         dataframes = connect_to_tfl_api()
         
-        # Step 2: Transform the data
+        # Step 2: Save raw data (optional - for data lineage)
+        save_raw_data(dataframes)
+        
+        # Step 3: Transform the data
         stations_dim_df = transform_station_data(dataframes)
         
-        # Step 3: Save to CSV
-        output_path = "data/stations_dimension_table.csv"
+        # Step 4: Save to CSV in the processed data directory
+        output_path = "../data/processed/stations_dimension_table.csv"
         save_to_csv(stations_dim_df, output_path)
         
         print("\nETL process completed successfully!")

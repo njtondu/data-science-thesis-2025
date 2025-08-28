@@ -1,0 +1,399 @@
+StationUniqueId,Id,IsAccessible,HasBabyChanging,IsInsideGateLine,Location,IsFeeCharged,Type,IsManagedByTfL
+910GACTONML,1,TRUE,False,True,Located in ticket hall,False,Unisex,True
+910GBHILLPK,1,FALSE,False,True,,False,Male,True
+910GBHILLPK,2,FALSE,False,True,,False,Female,True
+910GBHILLPK,3,TRUE,True,True,,False,Unisex,True
+910GBNHAM,1,FALSE,False,True,Located on platform 2,False,Male,True
+910GBNHAM,2,FALSE,False,True,Located on platform 2,False,Female,True
+910GBNHAM,3,TRUE,True,True,Located on platform 2,False,Unisex,True
+910GBRTWOOD,1,FALSE,False,True,"Located on platforms 2,3,4",False,Male,True
+910GBRTWOOD,2,FALSE,True,True,"Located on platforms 2,3,4",False,Female,True
+910GBRTWOOD,3,TRUE,False,True,"Located on platforms 2,3,4",False,Unisex,True
+910GCHDWLHT,1,TRUE,False,True,Located in ticket hall,False,Unisex,True
+910GCHESHNT,1,FALSE,False,False,Located in ticket hall,False,Male,False
+910GCHESHNT,2,FALSE,False,False,Located in ticket hall,False,Female,False
+910GCHESHNT,3,TRUE,False,False,Located in ticket hall,False,Unisex,False
+910GCHINGFD,1,FALSE,False,True,,False,Male,True
+910GCHINGFD,2,FALSE,False,True,,False,Female,True
+910GCHINGFD,3,TRUE,True,True,,False,Unisex,True
+910GDALS,1,TRUE,False,True,,False,Unisex,True
+910GDENMRKH,1,TRUE,False,True,Located behind ticket office,False,Unisex,False
+910GENFLDTN,1,FALSE,False,True,,False,Male,True
+910GENFLDTN,2,FALSE,False,True,,False,Female,True
+910GENFLDTN,3,TRUE,True,True,,False,Unisex,True
+910GFRSTGT,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+910GGIDEAPK,1,FALSE,False,True,Located on platforms 3 & 4,False,Male,True
+910GGIDEAPK,2,FALSE,False,True,Located on platforms 3 & 4,False,Female,True
+910GGIDEAPK,3,TRUE,False,True,Located on platforms 3 & 4,False,Unisex,True
+910GGODMAYS,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+910GGOSPLOK,1,FALSE,False,True,,False,Male,True
+910GGOSPLOK,2,FALSE,False,True,,False,Female,True
+910GGOSPLOK,3,TRUE,True,True,,False,Unisex,True
+910GHAGGERS,1,TRUE,False,True,,False,Unisex,True
+910GHANWELL,1,TRUE,False,True,Located on platform 3,False,Unisex,True
+910GHAYESAH,1,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GHAYESAH,2,FALSE,False,True,Located on platform 4,False,Male,True
+910GHAYESAH,3,FALSE,False,True,Located on platform 4,False,Female,True
+910GHOXTON,1,TRUE,False,True,,False,Unisex,True
+910GHRLDWOD,1,FALSE,False,True,Located on platform 3,False,Male,True
+910GHRLDWOD,2,FALSE,False,True,Located on platform 3,False,Female,True
+910GHRLDWOD,3,TRUE,False,True,Located on platform 3,False,Unisex,True
+910GILFORD,1,FALSE,False,True,Located on platform 3,False,Male,True
+910GILFORD,2,FALSE,False,True,Located on platform 3,False,Female,True
+910GILFORD,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GIVER,1,TRUE,False,True,,False,Unisex,True
+910GLANGLEY,1,FALSE,False,False,Located outside station entrance,False,Male,True
+910GLANGLEY,2,FALSE,False,False,Located outside station entrance,False,Female,True
+910GLANGLEY,3,TRUE,False,False,Located outside station entrance,False,Unisex,True
+910GMANRPK,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+910GMRYLAND,1,TRUE,False,True,Located in ticket hall,False,Unisex,True
+910GMDNHEAD,1,FALSE,False,True,Located on platform 4,False,Male,True
+910GMDNHEAD,2,FALSE,False,True,Located on platform 4,False,Female,True
+910GMDNHEAD,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GPENEW,1,FALSE,False,True,,False,Male,True
+910GPENEW,2,FALSE,True,True,,False,Female,True
+910GPENEW,3,TRUE,False,True,,False,Unisex,True
+910GRDNGSTN,1,FALSE,False,True,,False,Male,True
+910GRDNGSTN,2,FALSE,False,True,,False,Female,True
+910GRDNGSTN,3,TRUE,True,True,,False,Unisex,True
+910GROMFORD,1,FALSE,False,True,Located on platform 4,False,Male,True
+910GROMFORD,2,FALSE,False,True,Located on platform 4,False,Female,True
+910GROMFORD,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GSHENFLD,1,FALSE,False,True,,False,Male,True
+910GSHENFLD,2,FALSE,False,True,,False,Female,True
+910GSHENFLD,3,TRUE,False,True,,False,Unisex,True
+910GSHRDHST,1,TRUE,False,True,,False,Unisex,True
+910GSLOUGH,1,FALSE,False,True,Located on platforms 1 & 5,False,Male,True
+910GSLOUGH,2,FALSE,False,True,Located on platforms 1 & 5,False,Female,True
+910GSLOUGH,3,TRUE,False,True,Located on platforms 1 & 5,False,Unisex,True
+910GSTHALL,1,FALSE,False,True,Located in ticket hall,False,Male,True
+910GSTHALL,2,FALSE,False,True,Located in ticket hall,False,Female,True
+910GSTHALL,3,TRUE,True,True,Located in ticket hall,False,Unisex,True
+910GSVNKNGS,1,TRUE,False,True,Located on Footbridge,False,Unisex,True
+910GTAPLOW,1,FALSE,False,True,Located on platform 4,False,Male,True
+910GTAPLOW,2,FALSE,False,True,Located on platform 4,False,Female,True
+910GTAPLOW,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GTWYFORD,1,FALSE,False,True,Located on platform 4,False,Male,True
+910GTWYFORD,2,FALSE,False,True,Located on platform 4,False,Female,True
+910GTWYFORD,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GWDRYTON,1,FALSE,False,True,Located on platform 4,False,Male,True
+910GWDRYTON,2,FALSE,False,True,Located on platform 4,False,Female,True
+910GWDRYTON,3,TRUE,False,True,Located on platform 4,False,Unisex,True
+910GWEALING,1,TRUE,False,True,,False,Unisex,True
+910GWHHRTLA,1,TRUE,False,True,,False,Unisex,True
+910GWHMDSTD,1,FALSE,False,False,,False,Male,True
+910GWHMDSTD,2,FALSE,False,True,,False,Female,True
+910GWHMDSTD,3,TRUE,True,True,,False,Unisex,True
+940GZZDLSIT,1,FALSE,False,False,Located in National Rail station,False,Male,False
+940GZZDLSIT,2,FALSE,True,False,Located in National Rail station,False,Female,False
+940GZZDLSIT,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+940GZZLUACT,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUACT,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUACT,3,TRUE,True,False,Located in ticket hall,False,Unisex,True
+940GZZLUALP,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUALP,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUBEC,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUBEC,2,FALSE,True,True,Located on platform 1,False,Female,True
+940GZZLUBKE,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUBKE,2,FALSE,True,True,Located on platform 1,False,Female,True
+940GZZLUBKH,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUBKH,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUBOS,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUBOS,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUBSC,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUBSC,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUBST,1,FALSE,False,True,Located in corridor to platform 5,False,Male,True
+940GZZLUBST,2,FALSE,True,False,Located in Metropolitan line ticket hall,False,Female,True
+940GZZLUCKS,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUCKS,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUCPK,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUCPK,2,FALSE,True,True,Located in ticket hall,False,Female,True
+940GZZLUCPK,3,TRUE,False,True,Located in ticket hall,False,Unisex,True
+940GZZLUCSM,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUCSM,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUCWL,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUCWL,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUCXY,1,FALSE,False,True,Located on platforms 1 & 2,False,Male,True
+940GZZLUCXY,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUDBN,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUDBN,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUDGE,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUDGE,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUDGY,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUDGY,2,FALSE,False,True,Located on platform,False,Female,True
+940GZZLUDGY,3,TRUE,False,True,Located on platform,False,Unisex,True
+940GZZLUDOH,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUDOH,2,FALSE,True,True,Located on platform,False,Female,True
+940GZZLUDOH,3,TRUE,False,True,Located on platform,False,Unisex,True
+940GZZLUECM,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUECM,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUEPG,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUEPG,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUEPG,3,TRUE,True,True,Located on platform 2,False,Unisex,True
+940GZZLUEPK,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUEPK,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUEPK,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+940GZZLUFLP,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUFLP,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUFYC,3,TRUE,False,True,Located on platform 3,False,Unisex,True
+940GZZLUFYR,1,TRUE,True,True,Located in ticket hall,False,Male,True
+940GZZLUFYR,2,TRUE,True,True,Located in ticket hall,False,Female,True
+940GZZLUGGH,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUGGH,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUGPK,1,FALSE,False,False,Toilets in subway closed for refurbishment until Winter 2025,True,Male,False
+940GZZLUGPK,2,FALSE,False,False,Toilets in subway closed for refurbishment until Winter 2025,True,Female,False
+940GZZLUHBT,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUHBT,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUHBT,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+940GZZLUHCH,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUHCH,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUHCL,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+940GZZLUHGD,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUHGD,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUHGD,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+940GZZLUHGR,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUHGR,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUHLT,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+940GZZLUHWC,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUHWC,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUHWE,1,TRUE,True,True,Located in ticket hall,False,Unisex,True
+940GZZLUKBN,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUKBN,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUKBN,3,TRUE,True,True,Located on platform,False,Unisex,True
+940GZZLUKBY,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUKBY,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUKBY,3,TRUE,True,True,Located in ticket hall,False,Unisex,True
+940GZZLULGN,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLULGN,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLULYN,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLULYN,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLULYS,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLULYS,2,FALSE,False,True,Located on platform 3,False,Female,True
+940GZZLUMPK,1,FALSE,False,True,Located on platform 4,False,Male,True
+940GZZLUMPK,2,FALSE,False,True,Located on platform 4,False,Female,True
+940GZZLUNBP,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUNBP,2,FALSE,True,True,Located on platforms 1 & 2,False,Female,True
+940GZZLUNEN,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUNEN,2,FALSE,True,False,Located in ticket hall,False,Female,True
+940GZZLUNFD,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUNFD,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUNHA,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUNHA,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUNHT,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUNHT,2,FALSE,True,False,Located in ticket hall,False,Female,True
+940GZZLUNKP,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUNKP,2,FALSE,False,True,Located on platform,False,Female,True
+940GZZLUNOW,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUNOW,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUNWH,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUNWH,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUOAK,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUOAK,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUOSY,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUOSY,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUPCC,1,FALSE,False,False,Toilets in subway closed for refurbishment until Autumn 2025,True,Male,False
+940GZZLUPCC,2,FALSE,False,False,Toilets in subway closed for refurbishment until Autumn 2025,True,Female,False
+940GZZLUPKR,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUPKR,2,FALSE,True,True,Located in ticket hall,False,Female,True
+940GZZLUPNR,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUPNR,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUPNR,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+940GZZLUPRD,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUPRD,2,FALSE,False,True,Located on platform,False,Female,True
+940GZZLUPVL,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUPVL,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUQBY,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUQBY,2,FALSE,True,False,Located in ticket hall,False,Female,True
+940GZZLUQBY,3,TRUE,False,False,Located in ticket hall,False,Unisex,True
+940GZZLURBG,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLURBG,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLURSG,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+940GZZLURSM,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLURSM,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLURSP,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLURSP,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLURVY,1,FALSE,False,False,Located on platform 2,False,Male,True
+940GZZLURVY,2,FALSE,False,False,Located on platform 2,False,Female,True
+940GZZLUSFB,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUSFB,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUSJW,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUSJW,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUSJW,3,TRUE,True,False,Located in ticket hall,False,Unisex,True
+940GZZLUSNB,1,FALSE,False,True,Located on platforms 1 & 2,False,Male,True
+940GZZLUSNB,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUSTM,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUSTM,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUSTM,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+940GZZLUSUH,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUSUH,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUSUT,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUSUT,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUTAW,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUTAW,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUTHB,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUTHB,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUUPB,1,FALSE,False,True,Located on platform 1,False,Male,True
+940GZZLUUPB,2,FALSE,False,True,Located on platform 1,False,Female,True
+940GZZLUUPY,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUUPY,2,FALSE,False,True,Located on platform,False,Female,True
+940GZZLUUXB,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUUXB,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUUXB,3,TRUE,True,False,Located in ticket hall,False,Unisex,True
+940GZZLUWAF,1,FALSE,False,True,Located on platform,False,Male,True
+940GZZLUWAF,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUWCY,1,FALSE,False,True,Located in ticket hall,False,Male,True
+940GZZLUWCY,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUWFN,1,FALSE,True,True,Located on platform 1,False,Male,True
+940GZZLUWFN,2,FALSE,True,True,Located on platform 1,False,Female,True
+940GZZLUWHW,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUWHW,2,FALSE,False,True,Located in ticket hall,False,Female,True
+940GZZLUWHW,3,TRUE,True,True,Located in ticket hall,False,Unisex,True
+940GZZLUWIG,1,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUWIG,2,TRUE,False,False,Located in ticket hall,False,Unisex,True
+940GZZLUWLA,1,TRUE,True,True,Located in ticket hall,False,Unisex,True
+940GZZLUWOF,1,FALSE,False,True,Located on platform 2/3,False,Male,True
+940GZZLUWOF,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUWOP,1,FALSE,False,True,Located on platform 2,False,Male,True
+940GZZLUWOP,2,FALSE,False,True,Located on platform 2,False,Female,True
+940GZZLUWTA,1,FALSE,False,False,Located in ticket hall,False,Male,True
+940GZZLUWTA,2,FALSE,False,False,Located in ticket hall,False,Female,True
+940GZZLUWYP,1,FALSE,True,True,Located on platform 2,False,Male,True
+940GZZLUWYP,2,FALSE,True,True,Located on platform 1,False,Female,True
+940GZZLUWYP,3,TRUE,False,True,Located on platform 1,False,Unisex,True
+HUBABW,1,FALSE,False,True,Located in ticket hall,False,Male,True
+HUBABW,2,FALSE,False,True,Located in ticket hall,False,Female,True
+HUBABW,3,    TRUE ,False,True,Located in ticket hall,False,Unisex,True
+HUBAMR,1,FALSE,False,True,Located on platform 1/2,False,Male,True
+HUBAMR,2,FALSE,False,True,Located on platform 3,False,Female,True
+HUBBEK,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBBEK,2,FALSE,False,False,Located in National Rail station,False,Female,False
+HUBBEK,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBBFR,1,FALSE,False,False,Located in National Rail station,True,Male,False
+HUBBFR,2,FALSE,True,False,Located in National Rail station,True,Female,False
+HUBBFR,3,TRUE,False,False,Located in National Rail station,True,Unisex,False
+HUBBKG,1,FALSE,False,True,"Located in walkway, inside gateline",False,Male,False
+HUBBKG,2,FALSE,True,True,"Located in walkway, inside gateline",False,Female,False
+HUBBKG,3,TRUE,False,True,"Located in walkway, inside gateline",False,Unisex,False
+HUBCAW,1,FALSE,False,False,Located in ticket hall,False,Male,True
+HUBCAW,2,FALSE,False,False,Located in ticket hall,False,Female,True
+HUBCAW,3,TRUE,False,False,Located in ticket hall,False,Unisex,True
+HUBCFO,1,FALSE,False,True,Located on platform 1,False,Male,True
+HUBCFO,2,FALSE,False,True,Located on platform 1,False,Female,True
+HUBCHX,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBCHX,2,FALSE,False,False,Located in National Rail station,False,Female,False
+HUBCHX,3,TRUE,True,False,Located in National Rail station,False,Unisex,False
+HUBCLJ,1,FALSE,False,True,Located in Brighton Yard ticket hall,True,Male,False
+HUBCLJ,2,FALSE,True,True,Located in Brighton Yard ticket hall,True,Female,False
+HUBCLJ,3,TRUE,False,True,Located in Brighton Yard ticket hall,True,Unisex,False
+HUBCLW,1,FALSE,False,True,Located on platform 2,False,Male,True
+HUBCLW,2,FALSE,False,True,Located on platform 2,False,Female,True
+HUBCST,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBCST,2,FALSE,True,False,Located in National Rail station,False,Female,False
+HUBCST,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBCUS,1,TRUE,True,True,,False,Unisex,True
+HUBCYP,1,FALSE,False,True,,False,Male,True
+HUBCYP,2,FALSE,True,True,,False,Female,True
+HUBCYP,3,TRUE,False,True,,False,Unisex,True
+HUBEAL,1,FALSE,False,True,,False,Male,False
+HUBEAL,2,FALSE,True,True,,False,Female,False
+HUBEAL,3,TRUE,False,True,Changing Places available,False,Unisex,False
+HUBELM,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBEUS,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBEUS,2,FALSE,True,False,Located in National Rail station. Baby changing is standalone area,False,Female,False
+HUBEUS,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBH13,1,FALSE,False,False,Located at street level,False,Male,False
+HUBH13,2,FALSE,True,False,Located at street level. Baby changing is standalone area,False,Female,False
+HUBH13,3,TRUE,False,False,Located at street level,False,Unisex,False
+HUBHOH,1,FALSE,False,False,Located in ticket hall,False,Male,True
+HUBHOH,2,FALSE,True,False,Located in ticket hall,False,Female,True
+HUBHX4,1,FALSE,False,False,Located in airport,False,Male,False
+HUBHX4,2,FALSE,False,False,Located in airport,False,Female,False
+HUBHX4,3,TRUE,False,False,Located in airport,False,Unisex,False
+HUBHX5,1,FALSE,False,True,Located on lower concourse,False,Male,False
+HUBHX5,2,FALSE,True,True,Located on lower concourse,False,Female,False
+HUBHX5,3,TRUE,False,True,Located on lower concourse,False,Unisex,False
+HUBKGX,1,FALSE,True,False,Located in King's Cross National Rail station,False,Male,False
+HUBKGX,2,FALSE,True,False,Located in King's Cross National Rail station,False,Female,False
+HUBKGX,3,TRUE,True,False,Located in King's Cross National Rail station. Changing Places and standalone baby changing area available.,False,Unisex,False
+HUBKPA,1,FALSE,False,True,,False,Male,True
+HUBKPA,2,FALSE,True,True,,False,Female,True
+HUBKPA,3,TRUE,False,True,,False,Unisex,True
+HUBKWG,1,FALSE,False,True,Located in Eastbound ticket hall,False,Male,True
+HUBKWG,2,FALSE,False,True,Located in Eastbound ticket hall,False,Female,True
+HUBLBG,1,FALSE,True,False,Located in National Rail station,False,Male,False
+HUBLBG,2,FALSE,True,False,Located in National Rail station,False,Female,False
+HUBLBG,3,TRUE,True,False,Located in National Rail station,False,Unisex,False
+HUBLEW,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBLEW,2,FALSE,False,False,Located in National Rail station,False,Female,False
+HUBLEW,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBLST,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBLST,2,FALSE,False,False,Located in National Rail station,False,Female,False
+HUBLST,3,TRUE,True,False,Located in National Rail station,False,Unisex,False
+HUBMJT,1,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBMYB,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBMYB,2,FALSE,False,False,Located in National Rail station,False,Female,False
+HUBMYB,3,TRUE,True,False,Located in National Rail station. Baby changing is standalone area,False,Unisex,False
+HUBNWD,1,FALSE,False,True,,False,Male,True
+HUBNWD,2,FALSE,True,True,,False,Female,True
+HUBNWD,3,TRUE,False,True,,False,Unisex,True
+HUBNWX,1,FALSE,False,True,Located on platform C,False,Male,False
+HUBNWX,2,FALSE,False,True,Located on platform C,False,Female,False
+HUBNWX,3,TRUE,False,True,Located on platform C,False,Unisex,False
+HUBPAD,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBPAD,2,FALSE,True,False,Located in National Rail station,False,Female,False
+HUBPAD,3,TRUE,False,False,Located in National Rail station. Baby changing is standalone area and Changing Places toilet available.,False,Unisex,False
+HUBRIC,1,FALSE,False,True,Located on platform 2,False,Male,True
+HUBRIC,2,FALSE,False,True,Located on platform 2,False,Female,True
+HUBRMD,1,FALSE,False,False,Located on lower concourse,True,Male,False
+HUBRMD,2,FALSE,False,False,Located on lower concourse,True,Female,False
+HUBRMD,3,TRUE,True,False,Located on lower concourse,True,Unisex,False
+HUBSRA,1,FALSE,False,True,"Located in Southern ticket hall, paid side",False,Male,True
+HUBSRA,2,FALSE,False,True,"Located in Southern ticket hall, paid side",False,Female,True
+HUBSRA,3,TRUE,True,True,"Located in Southern ticket hall, paid side. Baby changing standalone area",False,Unisex,True
+HUBSRA,4,TRUE,False,True,Adjacent to DLR platform 16.,False,Unisex,True
+HUBSRU,1,TRUE,False,True,Located in ticket hall,False,Unisex,True
+HUBSVS,1,FALSE,False,True,Located on National Rail platform 2,False,Male,True
+HUBSVS,2,FALSE,False,True,Located on National Rail platform 2,False,Female,True
+HUBTCR,1,TRUE,False,False,Located in ticket hall,False,Unisex,True
+HUBTOM,1,FALSE,False,False,Located on platform 2,False,Male,False
+HUBTOM,2,FALSE,False,False,Located on platform 2,False,Female,False
+HUBTOM,3,TRUE,False,False,,True,Unisex,True
+HUBUPM,1,FALSE,False,True,Located on platform 1,False,Male,False
+HUBUPM,2,FALSE,False,True,Located on platform 1,False,Female,False
+HUBUPM,3,TRUE,False,True,Located on platform 1,False,Unisex,False
+HUBVIC,1,FALSE,False,True,Located in National Rail station,False,Male,False
+HUBVIC,2,FALSE,False,True,Located in National Rail station,False,Female,False
+HUBVIC,3,TRUE,False,True,Located in National Rail station,False,Unisex,False
+HUBVIC,4,FALSE,True,True,Located in North ticket hall,False,Male,False
+HUBVIC,5,FALSE,True,True,Located in North ticket hall,False,Female,False
+HUBVIC,6,TRUE,False,True,Located in North ticket hall,False,Unisex,False
+HUBVXH,1,FALSE,False,False,Located in bus station,False,Male,True
+HUBVXH,2,FALSE,False,False,Located in bus station,False,Female,True
+HUBWAT,1,FALSE,False,False,Located in National Rail station,False,Male,False
+HUBWAT,2,FALSE,True,False,Located in National Rail station,False,Female,False
+HUBWAT,3,TRUE,False,False,Located in National Rail station,False,Unisex,False
+HUBWFJ,1,FALSE,False,True,Located in waiting area on platform 6,False,Male,False
+HUBWFJ,2,FALSE,True,False,,False,Female,False
+HUBWFJ,3,FALSE,True,True,Located in waiting area on platform 6,False,Female,False
+HUBWFJ,4,TRUE,False,False,Located in ticket hall,False,Unisex,False
+HUBWIJ,1,FALSE,False,True,Located on platform 3,False,Male,True
+HUBWIJ,2,FALSE,True,True,Located on platform 3,False,Female,True
+HUBWIJ,3,TRUE,False,True,Located on platform 3,False,Unisex,True
+HUBWIM,1,FALSE,False,True,Located in National Rail station,False,Male,False
+HUBWIM,2,FALSE,False,True,Located in National Rail station,False,Female,False
+HUBWIM,3,TRUE,True,True,Located in National Rail station,False,Unisex,False
+HUBWMB,1,FALSE,False,True,Located in ticket hall,False,Male,True
+HUBWMB,2,FALSE,False,True,Located in ticket hall,False,Female,True
+HUBWMB,3,TRUE,False,True,Located in ticket hall,False,Unisex,True
+HUBWRU,1,FALSE,False,False,Located in ticket hall,False,Male,True
+HUBWRU,2,FALSE,False,False,Located in ticket hall,False,Female ,True
+HUBWSM,1,FALSE,False,False,Toilets in subway closed for refurbishment until Summer 2025,True,Male,False
+HUBWSM,2,FALSE,False,False,Toilets in subway closed for refurbishment until Summer 2026,True,Female,False
+HUBZFD,1,TRUE,True,True,Located on National Rail platform 4,False,Unisex,True
+HUBZFD,2,FALSE,False,True,Located on National Rail platform 4,False,Male,True
+HUBZFD,3,FALSE,False,True,Located on National Rail platform 4,False,Female,True
+HUBZFD,4,TRUE,False,True,Located in Cowcross Street ticket hall,False,Unisex,True
+HUBZWL,1,TRUE,True,True,,False,Unisex,True
+940GZZNEUGST,1,TRUE,True,True,Located in ticket hall,False,Unisex,True
+940GZZBPSUST,1,TRUE,True,True,Located in ticket hall,False,Unisex,True
+910GBKRVS,1,TRUE,True,True,,False,Unisex,True
