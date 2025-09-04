@@ -1,0 +1,12 @@
+line_id,line_name,severity_code,status,reason,timestamp
+hammersmith-city,Hammersmith & City,3,Part Suspended,"Hammersmith and City Line: No service between Edgware Road and Barking, and SEVERE DELAYS on the rest of the line while we fix a points failure at Barking. Tickets are being accepted on London Buses.  ",2025-08-27 18:13:48.238370
+central,Central,5,Part Closure,"CENTRAL LINE: Wednesday 27 to Sunday 31 August, no service between Newbury Park and Woodford (via Hainault), including Friday and Saturday Night Tube. Limited daytime replacement bus services operate: Service CL6: Hainault - Grange Hill - Chigwell - Roding Valley (Monkhams Inn) - Woodford; Service CL9: Newbury Park - Barkingside - Fairlop (Fullwell Cross) - Hainault. London Buses connections on Routes 150 167 169 and 462 are also available between Ilford (for Elizabeth line), Gants Hill (not 169), Barkingside, Hainault (150 only), Fairlop (462 only), Grange Hill (462 only) and Chigwell (167 only). During Friday and Saturday Night Tube, please use Night Bus N8 between Gants Hill, Barkingside (High Street), Fairlop (Fullwell Cross) and Hainault.",2025-08-27 18:13:48.238370
+district,District,6,Severe Delays,"District Line: Severe delays between Upminster and Tower Hill westbound while we fix a points failure at Barking. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, C2C and DLR services via reasonable routes. ",2025-08-27 18:13:48.238370
+jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays whilst we fix an electrical fault at Westminster. Tickets are being accepted on London Buses, Thameslink, Southeastern, C2C, London Buses, Mildmay line, DLR and Elizabeth line.  ",2025-08-27 18:13:48.238370
+piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Terminal 5 due to an earlier faulty train at Hounslow East. MINOR DELAYS on the rest of the line due to an earlier obstruction on the track at South Kensington.  ,2025-08-27 18:13:48.238370
+bakerloo,Bakerloo,10,Good Service,No issues,2025-08-27 18:13:48.238370
+circle,Circle,10,Good Service,No issues,2025-08-27 18:13:48.238370
+metropolitan,Metropolitan,10,Good Service,No issues,2025-08-27 18:13:48.238370
+northern,Northern,10,Good Service,No issues,2025-08-27 18:13:48.238370
+victoria,Victoria,10,Good Service,No issues,2025-08-27 18:13:48.238370
+waterloo-city,Waterloo & City,10,Good Service,No issues,2025-08-27 18:13:48.238370
