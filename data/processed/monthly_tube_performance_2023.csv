@@ -1,0 +1,173 @@
+year,month,mes_nombre,line_name,service_operated_allweek_pct,service_operated_weekday_pct,service_operated_weekend_pct,kilometres_operated
+2023,1,Enero,Bakerloo,86.9,86.4,88.5,40374.0
+2023,2,Febrero,Bakerloo,89.9,91.0,86.9,65276.0
+2023,3,Marzo,Bakerloo,94.1,95.1,91.0,57196.0
+2023,3,Marzo,Bakerloo,94.1,95.1,91.0,60434.0
+2023,3,Marzo,Bakerloo,87.1,90.2,78.3,57196.0
+2023,3,Marzo,Bakerloo,87.1,90.2,78.3,60434.0
+2023,4,Abril,Bakerloo,89.3,90.4,86.1,60165.0
+2023,5,Mayo,Bakerloo,91.9,92.9,89.2,64960.0
+2023,6,Junio,Bakerloo,88.9,89.6,87.0,65521.0
+2023,7,Julio,Bakerloo,91.8,92.1,90.8,67506.0
+2023,8,Agosto,Bakerloo,89.8,90.9,86.6,44893.0
+2023,9,Septiembre,Bakerloo,91.7,93.5,87.1,67551.0
+2023,10,Octubre,Bakerloo,93.3,93.8,92.0,64976.0
+2023,11,Noviembre,Bakerloo,91.6,92.6,89.0,64981.0
+2023,12,Diciembre,Bakerloo,92.5,94.6,86.7,65234.0
+2023,1,Enero,C&H,,,,51443.0
+2023,2,Febrero,C&H,,,,71882.0
+2023,3,Marzo,C&H,,,,74855.0
+2023,3,Marzo,C&H,,,,70454.0
+2023,4,Abril,C&H,,,,74765.0
+2023,5,Mayo,C&H,,,,68279.0
+2023,6,Junio,C&H,,,,69052.0
+2023,7,Julio,C&H,,,,68925.0
+2023,8,Agosto,C&H,,,,70302.0
+2023,9,Septiembre,C&H,,,,67697.0
+2023,10,Octubre,C&H,,,,69197.0
+2023,11,Noviembre,C&H,,,,71352.0
+2023,12,Diciembre,C&H,,,,69013.0
+2023,1,Enero,Central,73.9,75.7,68.0,201878.0
+2023,2,Febrero,Central,89.7,89.5,90.2,239812.0
+2023,3,Marzo,Central,89.4,89.9,87.9,244484.0
+2023,3,Marzo,Central,89.4,89.9,87.9,234913.0
+2023,3,Marzo,Central,90.9,91.0,90.7,244484.0
+2023,3,Marzo,Central,90.9,91.0,90.7,234913.0
+2023,4,Abril,Central,88.6,91.0,82.3,244808.0
+2023,5,Mayo,Central,92.5,92.2,93.3,241326.0
+2023,6,Junio,Central,91.1,91.5,90.1,236503.0
+2023,7,Julio,Central,93.2,94.1,90.7,239909.0
+2023,8,Agosto,Central,89.6,90.8,86.5,229000.0
+2023,9,Septiembre,Central,85.4,88.3,78.0,221887.0
+2023,10,Octubre,Central,86.2,89.2,78.5,227484.0
+2023,11,Noviembre,Central,91.0,91.2,90.3,230342.0
+2023,12,Diciembre,Central,82.6,84.1,78.4,211048.0
+2023,1,Enero,Circle Hammersmith & City,82.8,86.7,72.8,
+2023,2,Febrero,Circle Hammersmith & City,91.4,93.3,85.9,
+2023,3,Marzo,Circle Hammersmith & City,92.5,93.2,90.7,
+2023,3,Marzo,Circle Hammersmith & City,94.6,94.3,95.4,
+2023,4,Abril,Circle Hammersmith & City,92.3,94.2,87.8,
+2023,5,Mayo,Circle Hammersmith & City,88.9,89.3,87.7,
+2023,6,Junio,Circle Hammersmith & City,93.9,95.4,89.8,
+2023,7,Julio,Circle Hammersmith & City,92.2,93.7,87.9,
+2023,8,Agosto,Circle Hammersmith & City,92.5,93.7,89.1,
+2023,9,Septiembre,Circle Hammersmith & City,92.6,93.5,89.1,
+2023,10,Octubre,Circle Hammersmith & City,92.4,93.9,88.1,
+2023,11,Noviembre,Circle Hammersmith & City,94.9,95.6,92.9,
+2023,12,Diciembre,Circle Hammersmith & City,91.6,92.7,88.8,
+2023,1,Enero,District,90.2,93.0,80.8,165295.0
+2023,2,Febrero,District,92.1,92.2,91.6,200382.0
+2023,3,Marzo,District,96.5,96.8,95.6,208831.0
+2023,3,Marzo,District,96.5,96.8,95.6,189514.0
+2023,3,Marzo,District,94.6,95.8,90.8,208831.0
+2023,3,Marzo,District,94.6,95.8,90.8,189514.0
+2023,4,Abril,District,95.2,95.1,95.6,188292.0
+2023,5,Mayo,District,93.2,92.0,96.8,183562.0
+2023,6,Junio,District,94.4,94.9,92.8,191899.0
+2023,7,Julio,District,92.4,93.4,89.7,190751.0
+2023,8,Agosto,District,94.3,96.3,87.9,196651.0
+2023,9,Septiembre,District,94.6,93.9,96.8,191342.0
+2023,10,Octubre,District,90.9,91.6,88.5,180170.0
+2023,11,Noviembre,District,94.8,94.3,96.3,188601.0
+2023,12,Diciembre,District,93.9,93.9,93.7,191940.0
+2023,1,Enero,Jubilee,82.8,83.1,82.1,171008.0
+2023,2,Febrero,Jubilee,85.4,84.6,88.0,185254.0
+2023,3,Marzo,Jubilee,79.1,77.5,84.3,171198.0
+2023,3,Marzo,Jubilee,79.1,77.5,84.3,152202.0
+2023,3,Marzo,Jubilee,75.4,74.5,77.9,171198.0
+2023,3,Marzo,Jubilee,75.4,74.5,77.9,152202.0
+2023,4,Abril,Jubilee,84.8,84.0,86.8,173330.0
+2023,5,Mayo,Jubilee,85.9,85.2,87.6,183771.0
+2023,6,Junio,Jubilee,87.7,89.8,82.3,181790.0
+2023,7,Julio,Jubilee,87.6,89.0,84.1,180437.0
+2023,8,Agosto,Jubilee,86.5,87.9,83.1,178342.0
+2023,9,Septiembre,Jubilee,83.9,84.9,81.5,168063.0
+2023,10,Octubre,Jubilee,86.7,88.2,82.8,177189.0
+2023,11,Noviembre,Jubilee,83.5,85.4,78.5,171551.0
+2023,12,Diciembre,Jubilee,89.8,91.0,87.0,182604.0
+2023,1,Enero,Metropolitan,85.2,87.2,78.2,148390.0
+2023,2,Febrero,Metropolitan,88.3,89.4,82.8,169678.0
+2023,3,Marzo,Metropolitan,90.8,91.5,88.4,170905.0
+2023,3,Marzo,Metropolitan,90.8,91.5,88.4,160650.0
+2023,3,Marzo,Metropolitan,89.1,91.3,81.8,170905.0
+2023,3,Marzo,Metropolitan,89.1,91.3,81.8,160650.0
+2023,4,Abril,Metropolitan,88.2,90.4,81.4,159642.0
+2023,5,Mayo,Metropolitan,88.5,90.6,82.1,164644.0
+2023,6,Junio,Metropolitan,85.2,85.9,83.2,163716.0
+2023,7,Julio,Metropolitan,88.3,89.2,85.5,168397.0
+2023,8,Agosto,Metropolitan,85.2,85.6,84.2,163828.0
+2023,9,Septiembre,Metropolitan,90.6,91.9,86.4,171172.0
+2023,10,Octubre,Metropolitan,82.5,81.6,85.4,161255.0
+2023,11,Noviembre,Metropolitan,89.1,90.7,83.8,173433.0
+2023,12,Diciembre,Metropolitan,90.5,93.1,82.3,174067.0
+2023,1,Enero,Network,86.0,87.1,82.6,
+2023,2,Febrero,Network,91.7,91.9,90.9,
+2023,3,Marzo,Network,91.7,91.9,90.9,
+2023,3,Marzo,Network,90.3,90.9,88.5,
+2023,4,Abril,Network,91.4,92.3,89.1,
+2023,5,Mayo,Network,92.4,92.7,91.5,
+2023,6,Junio,Network,91.8,92.6,89.6,
+2023,7,Julio,Network,92.7,93.5,90.5,
+2023,8,Agosto,Network,91.7,92.5,89.4,
+2023,9,Septiembre,Network,91.0,92.3,87.1,
+2023,10,Octubre,Network,90.7,91.4,88.9,
+2023,11,Noviembre,Network,92.0,92.8,89.8,
+2023,12,Diciembre,Network,91.2,92.4,87.8,
+2023,1,Enero,Northern,94.4,94.5,93.9,277773.0
+2023,2,Febrero,Northern,97.7,97.6,97.8,306601.0
+2023,3,Marzo,Northern,97.5,97.6,97.2,305530.0
+2023,3,Marzo,Northern,97.5,97.6,97.2,289180.0
+2023,3,Marzo,Northern,96.2,96.0,96.5,305530.0
+2023,3,Marzo,Northern,96.2,96.0,96.5,289180.0
+2023,4,Abril,Northern,97.8,98.3,96.7,305410.0
+2023,5,Mayo,Northern,95.7,96.5,93.6,299690.0
+2023,6,Junio,Northern,95.7,96.4,94.0,303352.0
+2023,7,Julio,Northern,96.1,96.2,95.8,303566.0
+2023,8,Agosto,Northern,97.5,97.9,96.4,309572.0
+2023,9,Septiembre,Northern,95.9,97.6,91.3,304758.0
+2023,10,Octubre,Northern,95.3,95.5,94.8,300385.0
+2023,11,Noviembre,Northern,95.4,95.9,94.2,299311.0
+2023,12,Diciembre,Northern,93.9,95.0,90.9,292774.0
+2023,1,Enero,Piccadilly,84.5,84.9,83.3,196661.0
+2023,2,Febrero,Piccadilly,85.2,86.8,81.1,216841.0
+2023,3,Marzo,Piccadilly,84.5,85.7,81.0,216594.0
+2023,3,Marzo,Piccadilly,84.5,85.7,81.0,206120.0
+2023,3,Marzo,Piccadilly,86.7,87.1,85.3,216594.0
+2023,3,Marzo,Piccadilly,86.7,87.1,85.3,206120.0
+2023,4,Abril,Piccadilly,85.4,85.4,85.3,215928.0
+2023,5,Mayo,Piccadilly,91.4,91.3,91.6,229118.0
+2023,6,Junio,Piccadilly,86.1,86.6,84.7,218930.0
+2023,7,Julio,Piccadilly,91.6,92.6,89.1,234829.0
+2023,8,Agosto,Piccadilly,86.1,86.6,84.6,218206.0
+2023,9,Septiembre,Piccadilly,84.4,84.1,85.5,210983.0
+2023,10,Octubre,Piccadilly,88.9,88.9,89.2,220661.0
+2023,11,Noviembre,Piccadilly,87.1,87.5,85.9,215918.0
+2023,12,Diciembre,Piccadilly,85.1,85.4,84.2,204631.0
+2023,1,Enero,Victoria,85.6,86.5,82.6,138268.0
+2023,2,Febrero,Victoria,96.5,96.0,97.8,168842.0
+2023,3,Marzo,Victoria,95.8,96.2,94.7,168878.0
+2023,3,Marzo,Victoria,95.8,96.2,94.7,152454.0
+2023,3,Marzo,Victoria,94.1,94.4,93.2,168878.0
+2023,3,Marzo,Victoria,94.1,94.4,93.2,152454.0
+2023,4,Abril,Victoria,93.4,95.1,89.5,161903.0
+2023,5,Mayo,Victoria,96.4,96.8,95.2,165363.0
+2023,6,Junio,Victoria,96.0,96.2,95.6,167600.0
+2023,7,Julio,Victoria,95.2,95.6,94.0,167687.0
+2023,8,Agosto,Victoria,94.9,94.8,95.0,166737.0
+2023,9,Septiembre,Victoria,93.8,95.8,88.1,166007.0
+2023,10,Octubre,Victoria,93.6,93.3,94.5,164829.0
+2023,11,Noviembre,Victoria,96.2,97.0,94.1,167651.0
+2023,12,Diciembre,Victoria,96.0,96.8,93.9,166518.0
+2023,1,Enero,Waterloo & City,,,,7740.0
+2023,2,Febrero,Waterloo & City,,,,9442.0
+2023,3,Marzo,Waterloo & City,,,,9431.0
+2023,3,Marzo,Waterloo & City,,,,8985.0
+2023,4,Abril,Waterloo & City,,,,8728.0
+2023,5,Mayo,Waterloo & City,,,,8488.0
+2023,6,Junio,Waterloo & City,,,,9200.0
+2023,7,Julio,Waterloo & City,,,,9616.0
+2023,8,Agosto,Waterloo & City,,,,9518.0
+2023,9,Septiembre,Waterloo & City,,,,9130.0
+2023,10,Octubre,Waterloo & City,,,,9534.0
+2023,11,Noviembre,Waterloo & City,,,,9509.0
+2023,12,Diciembre,Waterloo & City,,,,9528.0
