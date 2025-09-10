@@ -92,12 +92,18 @@ def transform_station_data(dataframes):
     
     # Step 5: Add toilet information
     stations_dim_df = station_line_joined_df.merge(
-        toilets_df[["StationUniqueId", "IsAccessible", "IsFeeCharged", "Id"]],
+        toilets_df[["StationUniqueId", "IsAccessible", "IsFeeCharged", "Id", "Type"]],
         left_on="UniqueId",
         right_on="StationUniqueId",
         how="left"
     )
     print(f"Step 5: Added toilet information, final table has {stations_dim_df.shape[0]} records and {stations_dim_df.shape[1]} columns")
+    print(f"Columns after toilet merge: {list(stations_dim_df.columns)}")
+    
+    # Step 6: Clean up BlueBadgeCarParking/BlueBadgeCarParkSpaces relationship
+    # When BlueBadgeCarParking is False, set BlueBadgeCarParkSpaces to 0
+    stations_dim_df.loc[stations_dim_df['BlueBadgeCarParking'] == False, 'BlueBadgeCarParkSpaces'] = 0
+    print(f"Step 6: Cleaned up BlueBadgeCarParking/BlueBadgeCarParkSpaces relationship")
     
     return stations_dim_df
 
@@ -115,6 +121,7 @@ def save_to_csv(dataframe, output_path):
         print(f"Created directory: {output_dir}")
     
     # Save to CSV
+    print(f"Columns being saved: {list(dataframe.columns)}")
     dataframe.to_csv(output_path, index=False)
     print(f"Successfully saved {dataframe.shape[0]} records to {output_path}")
 
@@ -154,7 +161,7 @@ def main():
         stations_dim_df = transform_station_data(dataframes)
         
         # Step 4: Save to CSV in the processed data directory
-        output_path = "../data/processed/stations_dimension_table.csv"
+        output_path = "/Users/nicoletondu/Desktop/data-science-thesis-2025/data/processed/stations_dimension_table.csv"
         save_to_csv(stations_dim_df, output_path)
         
         print("\nETL process completed successfully!")

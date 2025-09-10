@@ -1,10 +1,10 @@
 import pandas as pd
 from pathlib import Path
 
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+DATA_DIR = Path(__file__).resolve().parents[2] / "data"
 PROCESSED_DIR = DATA_DIR / "processed"
 
-RAW_EVENTS_FILE = PROCESSED_DIR / "raw_event_sessions_2023.csv"
+RAW_EVENTS_FILE = DATA_DIR / "raw-data" / "eda_data" / "raw_event_impact_2023.csv"
 OUTPUT_FILE = PROCESSED_DIR / "event_sessions_2023.csv"
 
 

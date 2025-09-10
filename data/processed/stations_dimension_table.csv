@@ -1,947 +1,947 @@
-StopAreaNaptanCode,Mode,Line,UniqueId,Name,FareZones,HubNaptanCode,Wifi,AirportInterchange,BlueBadgeCarParking,BlueBadgeCarParkSpaces,StationUniqueId,IsAccessible,IsFeeCharged,Id
-910GABWD,nationalRail,national-rail,,,,,,,,,,,,
-910GABWD,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GACTNCTL,overground,mildmay,910GACTNCTL,Acton Central,3,,True,,False,,,,,
-910GACTONML,elizabeth-line,elizabeth,910GACTONML,Acton Main Line,3,,False,,False,,910GACTONML,TRUE,False,1.0
-910GANERLEY,overground,windrush,910GANERLEY,Anerley,4,,True,,False,,,,,
-910GANERLEY,nationalRail,national-rail,910GANERLEY,Anerley,4,,True,,False,,,,,
-910GBCKNHMH,nationalRail,national-rail,910GBCKNHMH,Beckenham Hill,4,,False,,False,,,,,
-910GBELNGHM,nationalRail,national-rail,910GBELNGHM,Bellingham,3,,False,,False,,,,,
-910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,FALSE,False,1.0
-910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,FALSE,False,2.0
-910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,TRUE,False,3.0
-910GBICKLEY,nationalRail,national-rail,910GBICKLEY,Bickley,5,,False,,False,,,,,
-910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,FALSE,False,1.0
-910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,FALSE,False,2.0
-910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,TRUE,False,3.0
-910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,FALSE,False,1.0
-910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,FALSE,False,2.0
-910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,,910GBNHAM,TRUE,False,3.0
-910GBRBYPK,overground,mildmay,910GBRBYPK,Brondesbury Park,2,,False,,False,,,,,
-910GBRBY,overground,mildmay,910GBRBY,Brondesbury,2,,True,,False,,,,,
-910GBRENTX,nationalRail,national-rail,910GBRENTX,Brent Cross West Station,3,,False,,False,,,,,
-910GBROCKLY,overground,windrush,910GBROCKLY,Brockley,2,,True,,False,,,,,
-910GBROCKLY,nationalRail,national-rail,910GBROCKLY,Brockley,2,,True,,False,,,,,
-910GBROMLYS,nationalRail,national-rail,910GBROMLYS,Bromley South,5,,False,,False,,,,,
-910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,FALSE,False,1.0
-910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,FALSE,False,2.0
-910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,TRUE,False,3.0
-910GBRUCGRV,overground,weaver,910GBRUCGRV,Bruce Grove,3,,True,,False,,,,,
-910GBTHNLGR,overground,weaver,910GBTHNLGR,Bethnal Green,2,,True,,False,,,,,
-910GCAMHTH,overground,weaver,910GCAMHTH,Cambridge Heath,2,,False,,False,,,,,
-910GCATFORD,nationalRail,national-rail,910GCATFORD,Catford,3,,False,,False,,,,,
-910GCFPK,nationalRail,national-rail,910GCFPK,Crofton Park,3,,False,,False,,,,,
-910GCHDWLHT,elizabeth-line,elizabeth,910GCHDWLHT,Chadwell Heath,5,,False,,False,,910GCHDWLHT,TRUE,False,1.0
-910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,1.0
-910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,2.0
-910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,TRUE,False,3.0
-910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,1.0
-910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,2.0
-910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,TRUE,False,3.0
-910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,FALSE,False,1.0
-910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,FALSE,False,2.0
-910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,TRUE,False,3.0
-910GCLAPTON,overground,weaver,910GCLAPTON,Clapton,2|3,,True,,False,,,,,
-910GCLDNNRB,overground,mildmay,910GCLDNNRB,Caledonian Road & Barnsbury,2,,False,,False,,,,,
-910GCLPHHS,overground,windrush,910GCLPHHS,Clapham High Street,2,,False,,False,,,,,
-910GCMDNRD,overground,mildmay,910GCMDNRD,Camden Road,2,,True,,False,,,,,
-910GCNNB,overground,windrush,910GCNNB,Canonbury,2,,False,,False,,,,,
-910GCNNB,overground,mildmay,910GCNNB,Canonbury,2,,False,,False,,,,,
-910GCOLSDNS,nationalRail,national-rail,910GCOLSDNS,Coulsdon South,6,,True,,False,,,,,
-910GCRKLWD,nationalRail,national-rail,910GCRKLWD,Cricklewood,3,,True,,False,,,,,
-910GCRLN,nationalRail,national-rail,910GCRLN,Charlton,3,,False,,False,,,,,
-910GCROUCHH,overground,suffragette,910GCROUCHH,Crouch Hill,3,,False,,False,,,,,
-910GCRPNDPK,overground,lioness,910GCRPNDPK,Carpenders Park,7,,True,,False,,,,,
-910GCRSHLTN,nationalRail,national-rail,910GCRSHLTN,Carshalton,5,,True,,False,,,,,
-910GCTMSLNK,nationalRail,national-rail,910GCTMSLNK,City Thameslink,1,,True,,False,,,,,
-910GDALSKLD,overground,mildmay,910GDALSKLD,Dalston Kingsland,2,,False,,False,,,,,
-910GDALS,overground,windrush,910GDALS,Dalston Junction,2,,False,,False,,910GDALS,TRUE,False,1.0
-910GDARTFD,nationalRail,national-rail,910GDARTFD,Dartford,8,,False,,False,,,,,
-910GDENMRKH,overground,windrush,910GDENMRKH,Denmark Hill,2,,True,,False,,910GDENMRKH,TRUE,False,1.0
-910GDENMRKH,nationalRail,national-rail,910GDENMRKH,Denmark Hill,2,,True,,False,,910GDENMRKH,TRUE,False,1.0
-910GDEPTFD,nationalRail,national-rail,910GDEPTFD,Deptford,2,,False,,False,,,,,
-910GEDMNGRN,overground,weaver,910GEDMNGRN,Edmonton Green,4,,True,,False,,,,,
-910GELTR,nationalRail,national-rail,910GELTR,Elstree & Borehamwood,6,,True,,False,,,,,
-910GEMRSPKH,overground,liberty,910GEMRSPKH,Emerson Park,6,,False,,False,,,,,
-910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,,910GENFLDTN,FALSE,False,1.0
-910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,,910GENFLDTN,FALSE,False,2.0
-910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,,910GENFLDTN,TRUE,False,3.0
-910GESTFLDS,nationalRail,national-rail,910GESTFLDS,Mitcham Eastfields,3,,False,,False,,,,,
-910GFNCHLYR,overground,mildmay,910GFNCHLYR,Finchley Road & Frognal,2,,True,,False,,,,,
-910GFORESTH,overground,windrush,910GFORESTH,Forest Hill,3,,False,,True,1.0,,,,
-910GFORESTH,nationalRail,national-rail,910GFORESTH,Forest Hill,3,,False,,True,1.0,,,,
-910GFRSTGT,elizabeth-line,elizabeth,910GFRSTGT,Forest Gate,3,,False,,False,,910GFRSTGT,TRUE,False,1.0
-910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,,910GGIDEAPK,FALSE,False,1.0
-910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,,910GGIDEAPK,FALSE,False,2.0
-910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,,910GGIDEAPK,TRUE,False,3.0
-910GGODMAYS,elizabeth-line,elizabeth,910GGODMAYS,Goodmayes,4,,True,,False,,910GGODMAYS,TRUE,False,1.0
-910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,FALSE,False,1.0
-910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,FALSE,False,2.0
-910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,TRUE,False,3.0
-910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,FALSE,False,1.0
-910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,FALSE,False,2.0
-910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,,910GGOSPLOK,TRUE,False,3.0
-910GHACKNYC,overground,mildmay,910GHACKNYC,Hackney Central,2,,True,,False,,,,,
-910GHACKNYW,overground,mildmay,910GHACKNYW,Hackney Wick,2,,False,,False,,,,,
-910GHAGGERS,overground,windrush,910GHAGGERS,Haggerston,2,,False,,False,,910GHAGGERS,TRUE,False,1.0
-910GHAKNYNM,overground,weaver,910GHAKNYNM,Hackney Downs,2,,True,,False,,,,,
-910GHAKNYNM,nationalRail,national-rail,910GHAKNYNM,Hackney Downs,2,,True,,False,,,,,
-910GHANWELL,elizabeth-line,elizabeth,910GHANWELL,Hanwell,4,,False,,False,,910GHANWELL,TRUE,False,1.0
-910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,TRUE,False,1.0
-910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,FALSE,False,2.0
-910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,FALSE,False,3.0
-910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,TRUE,False,1.0
-910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,FALSE,False,2.0
-910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,,910GHAYESAH,FALSE,False,3.0
-910GHDON,nationalRail,national-rail,910GHDON,Hendon,3|4,,True,,False,,,,,
-910GHEDSTNL,overground,lioness,910GHEDSTNL,Headstone Lane,5,,True,,False,,,,,
-910GHERNEH,nationalRail,national-rail,910GHERNEH,Herne Hill,2|3,,False,,False,,,,,
-910GHGHMSPK,overground,weaver,910GHGHMSPK,Highams Park,4,,True,,True,2.0,,,,
-910GHKBG,nationalRail,national-rail,910GHKBG,Hackbridge,4,,False,,False,,,,,
-910GHMPSTDH,overground,mildmay,910GHMPSTDH,Hampstead Heath,2,,True,,False,,,,,
-910GHOMRTON,overground,mildmay,910GHOMRTON,Homerton,2,,True,,False,,,,,
-910GHONROPK,overground,windrush,910GHONROPK,Honor Oak Park,3,,True,,False,,,,,
-910GHONROPK,nationalRail,national-rail,910GHONROPK,Honor Oak Park,3,,True,,False,,,,,
-910GHOXTON,overground,windrush,910GHOXTON,Hoxton,1|2,,False,,False,,910GHOXTON,TRUE,False,1.0
-910GHRGYGL,overground,suffragette,910GHRGYGL,Harringay Green Lanes,3,,False,,False,,,,,
-910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,FALSE,False,1.0
-910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,FALSE,False,2.0
-910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,TRUE,False,3.0
-910GHTCHEND,overground,lioness,910GHTCHEND,Hatch End,6,,False,,True,2.0,,,,
-910GHYDNSRD,nationalRail,national-rail,910GHYDNSRD,Haydons Road,3,,False,,False,,,,,
-910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,,910GILFORD,FALSE,False,1.0
-910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,,910GILFORD,FALSE,False,2.0
-910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,,910GILFORD,TRUE,False,3.0
-910GIVER,elizabeth-line,elizabeth,910GIVER,Iver,Outside,,False,,False,,910GIVER,TRUE,False,1.0
-910GIVER,nationalRail,national-rail,910GIVER,Iver,Outside,,False,,False,,910GIVER,TRUE,False,1.0
-910GKENR,overground,mildmay,910GKENR,Kensal Rise,2,,True,,False,,,,,
-910GKLBRNHR,overground,lioness,910GKLBRNHR,Kilburn High Road,2,,True,,False,,,,,
-910GKNTSHTW,overground,mildmay,910GKNTSHTW,Kentish Town West,2,,False,,False,,,,,
-910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,FALSE,False,1.0
-910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,FALSE,False,2.0
-910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,TRUE,False,3.0
-910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,FALSE,False,1.0
-910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,FALSE,False,2.0
-910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,,910GLANGLEY,TRUE,False,3.0
-910GLBGHJN,nationalRail,national-rail,910GLBGHJN,Loughborough Junction,2,,True,,False,,,,,
-910GLEYTNMR,overground,suffragette,910GLEYTNMR,Leyton Midland Road,3,,True,,False,,,,,
-910GLONFLDS,overground,weaver,910GLONFLDS,London Fields,2,,True,,False,,,,,
-910GLYTNSHR,overground,suffragette,910GLYTNSHR,Leytonstone High Road,3,,False,,False,,,,,
-910GMANRPK,elizabeth-line,elizabeth,910GMANRPK,Manor Park,3|4,,True,,False,,910GMANRPK,TRUE,False,1.0
-910GMAZEH,nationalRail,national-rail,910GMAZEH,Maze Hill,3,,False,,False,,,,,
-910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,FALSE,False,1.0
-910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,FALSE,False,2.0
-910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,TRUE,False,3.0
-910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,FALSE,False,1.0
-910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,FALSE,False,2.0
-910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,,910GMDNHEAD,TRUE,False,3.0
-910GMLHB,nationalRail,national-rail,910GMLHB,Mill Hill Broadway,4,,True,,False,,,,,
-910GMORDENS,nationalRail,national-rail,910GMORDENS,Morden South,4,,False,,False,,,,,
-910GMRYLAND,elizabeth-line,elizabeth,910GMRYLAND,Maryland,3,,True,,False,,910GMRYLAND,TRUE,False,1.0
-910GNBARNET,nationalRail,national-rail,910GNBARNET,New Barnet,5,,True,,False,,,,,
-910GNEWSGAT,nationalRail,national-rail,910GNEWSGAT,New Southgate,4,,False,,False,,,,,
-910GNUNHEAD,nationalRail,national-rail,910GNUNHEAD,Nunhead,2,,False,,False,,,,,
-910GOKLGHPK,nationalRail,national-rail,910GOKLGHPK,Oakleigh Park,4,,True,,False,,,,,
-910GORPNGTN,nationalRail,national-rail,910GORPNGTN,Orpington,6,,False,,False,,,,,
-910GPCKHMQD,overground,windrush,910GPCKHMQD,Queens Road Peckham,2,,True,,False,,,,,
-910GPCKHMQD,nationalRail,national-rail,910GPCKHMQD,Queens Road Peckham,2,,True,,False,,,,,
-910GPCKHMRY,overground,windrush,910GPCKHMRY,Peckham Rye,2,,False,,False,,,,,
-910GPCKHMRY,nationalRail,national-rail,910GPCKHMRY,Peckham Rye,2,,False,,False,,,,,
-910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,1.0
-910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,2.0
-910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,TRUE,False,3.0
-910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,1.0
-910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,2.0
-910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,TRUE,False,3.0
-910GPETSWD,nationalRail,national-rail,910GPETSWD,Petts Wood,5,,False,,False,,,,,
-910GPLMS,nationalRail,national-rail,910GPLMS,Plumstead,4,,False,,False,,,,,
-910GPURLEY,nationalRail,national-rail,910GPURLEY,Purley,6,,True,,False,,,,,
-910GRBRN,nationalRail,national-rail,910GRBRN,Ravensbourne,4,,False,,False,,,,,
-910GRCTRYRD,overground,weaver,910GRCTRYRD,Rectory Road,2,,True,,False,,,,,
-910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,FALSE,False,1.0
-910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,FALSE,False,2.0
-910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,TRUE,False,3.0
-910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,FALSE,False,1.0
-910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,FALSE,False,2.0
-910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,,910GRDNGSTN,TRUE,False,3.0
-910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,1.0
-910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,2.0
-910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,TRUE,False,3.0
-910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,1.0
-910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,2.0
-910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,TRUE,False,3.0
-910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,1.0
-910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,FALSE,False,2.0
-910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,,910GROMFORD,TRUE,False,3.0
-910GRTHERHI,overground,windrush,910GRTHERHI,Rotherhithe,2,,False,,False,,,,,
-910GSACTON,overground,mildmay,910GSACTON,South Acton,3,,True,,False,,,,,
-910GSBURY,overground,weaver,910GSBURY,Southbury,5,,True,,False,,,,,
-910GSCROYDN,nationalRail,national-rail,910GSCROYDN,South Croydon,5,,True,,False,,,,,
-910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,FALSE,False,1.0
-910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,FALSE,False,2.0
-910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,TRUE,False,3.0
-910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,FALSE,False,1.0
-910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,FALSE,False,2.0
-910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,,910GSHENFLD,TRUE,False,3.0
-910GSHLIER,nationalRail,national-rail,910GSHLIER,St Helier (London),4,,False,,False,,,,,
-910GSHMPSTD,overground,lioness,910GSHMPSTD,South Hampstead,2,,False,,False,,,,,
-910GSHRDHST,overground,windrush,910GSHRDHST,Shoreditch High Street,1,,False,,False,,910GSHRDHST,TRUE,False,1.0
-910GSHRTLND,nationalRail,national-rail,910GSHRTLND,Shortlands,4,,False,,False,,,,,
-910GSIVRST,overground,weaver,910GSIVRST,Silver Street,4,,True,,False,,,,,
-910GSLADEGN,nationalRail,national-rail,910GSLADEGN,Slade Green,6,,False,,False,,,,,
-910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,FALSE,False,1.0
-910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,FALSE,False,2.0
-910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,TRUE,False,3.0
-910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,FALSE,False,1.0
-910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,FALSE,False,2.0
-910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,,910GSLOUGH,TRUE,False,3.0
-910GSMERTON,nationalRail,national-rail,910GSMERTON,South Merton,4,,False,,False,,,,,
-910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,FALSE,False,1.0
-910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,FALSE,False,2.0
-910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,TRUE,False,3.0
-910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,FALSE,False,1.0
-910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,FALSE,False,2.0
-910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,,910GSTHALL,TRUE,False,3.0
-910GSTJMSST,overground,weaver,910GSTJMSST,St James Street,3,,True,,False,,,,,
-910GSTKNWNG,overground,weaver,910GSTKNWNG,Stoke Newington,2,,True,,False,,,,,
-910GSTMFDHL,overground,weaver,910GSTMFDHL,Stamford Hill,3,,True,,False,,,,,
-910GSTMRYC,nationalRail,national-rail,910GSTMRYC,St Mary Cray,6,,False,,False,,,,,
-910GSTOTNHM,overground,suffragette,910GSTOTNHM,South Tottenham,3,,False,,False,,,,,
-910GSTPXBOX,nationalRail,national-rail,,,,,,,,,,,,
-910GSTPADOM,nationalRail,national-rail,,,,,,,,,,,,
-910GSTRETHM,nationalRail,national-rail,910GSTRETHM,Streatham,3,,True,,False,,,,,
-910GSURREYQ,overground,windrush,910GSURREYQ,Surrey Quays,2,,False,,False,,,,,
-910GSUTTONC,nationalRail,national-rail,910GSUTTONC,Sutton Common,4,,False,,False,,,,,
-910GSUTTON,nationalRail,national-rail,910GSUTTON,Sutton,5,,True,,False,,,,,
-910GSVNKNGS,elizabeth-line,elizabeth,910GSVNKNGS,Seven Kings,4,,True,,False,,910GSVNKNGS,TRUE,False,1.0
-910GSVNKNGS,nationalRail,national-rail,910GSVNKNGS,Seven Kings,4,,True,,False,,910GSVNKNGS,TRUE,False,1.0
-910GSWLY,nationalRail,national-rail,910GSWLY,Swanley,8,,False,,False,,,,,
-910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,FALSE,False,1.0
-910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,FALSE,False,2.0
-910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,TRUE,False,3.0
-910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,FALSE,False,1.0
-910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,FALSE,False,2.0
-910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,,910GTAPLOW,TRUE,False,3.0
-910GTHBLDSG,overground,weaver,910GTHBLDSG,Theobalds Grove,7,,True,,False,,,,,
-910GTOOTING,nationalRail,national-rail,910GTOOTING,Tooting,3,,True,,False,,,,,
-910GTULSEH,nationalRail,national-rail,910GTULSEH,Tulse Hill,3,,True,,False,,,,,
-910GTURKYST,overground,weaver,910GTURKYST,Turkey Street,6,,True,,False,,,,,
-910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,FALSE,False,1.0
-910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,FALSE,False,2.0
-910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,TRUE,False,3.0
-910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,FALSE,False,1.0
-910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,FALSE,False,2.0
-910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,,910GTWYFORD,TRUE,False,3.0
-910GUPRHLWY,overground,suffragette,910GUPRHLWY,Upper Holloway,2,,False,,False,,,,,
-910GWAPPING,overground,windrush,910GWAPPING,Wapping,2,,False,,False,,,,,
-910GWATFDHS,overground,lioness,910GWATFDHS,Watford High Street,8,,True,,False,,,,,
-910GWCOMBEP,nationalRail,national-rail,910GWCOMBEP,Westcombe Park,3,,False,,False,,,,,
-910GWDGRNPK,overground,suffragette,910GWDGRNPK,Woodgrange Park,3|4,,True,,False,,,,,
-910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,FALSE,False,1.0
-910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,FALSE,False,2.0
-910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,TRUE,False,3.0
-910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,FALSE,False,1.0
-910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,FALSE,False,2.0
-910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,,910GWDRYTON,TRUE,False,3.0
-910GWDST,overground,weaver,910GWDST,Wood Street,4,,True,,False,,,,,
-910GWEALING,elizabeth-line,elizabeth,910GWEALING,West Ealing,3,,False,,False,,910GWEALING,TRUE,False,1.0
-910GWEALING,nationalRail,national-rail,910GWEALING,West Ealing,3,,False,,False,,910GWEALING,TRUE,False,1.0
-910GWHHRTLA,overground,weaver,910GWHHRTLA,White Hart Lane,3,,True,,False,,910GWHHRTLA,TRUE,False,1.0
-910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,,910GWHMDSTD,FALSE,False,1.0
-910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,,910GWHMDSTD,FALSE,False,2.0
-910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,,910GWHMDSTD,TRUE,False,3.0
-910GWHMPSTM,nationalRail,national-rail,910GWHMPSTM,West Hampstead Thameslink,2,HUBWHD,True,,False,,,,,
-910GWIMLCHS,nationalRail,national-rail,910GWIMLCHS,Wimbledon Chase,3,,False,,False,,,,,
-910GWLTHQRD,overground,suffragette,910GWLTHQRD,Walthamstow Queen's Road,3,,False,,False,,,,,
-910GWNDSWRD,overground,windrush,910GWNDSWRD,Wandsworth Road,2,,False,,False,,,,,
-910GWNSTDPK,overground,suffragette,910GWNSTDPK,Wanstead Park,3,,False,,False,,,,,
-910GWSUTTON,nationalRail,national-rail,910GWSUTTON,West Sutton,5,,False,,False,,,,,
-910GWOLWXR,elizabeth-line,elizabeth,910GWOLWXR,Woolwich,4,910GWOLWXR,True,,False,,,,,
-940GZZALGWP,cableCar,london-cable-car,940GZZALGWP,IFS Cloud Greenwich Peninsula,Outside,HUBNGW,False,,False,,,,,
-940GZZALRDK,cableCar,london-cable-car,940GZZALRDK,IFS Cloud Royal Docks,Outside,HUBRVC,False,,False,,,,,
-940GZZCRADD,tram,tram,940GZZCRADD,Addiscombe,Trams fare zone,,False,,False,,,,,
-940GZZCRADV,tram,tram,940GZZCRADV,Addington Village,Trams fare zone,,False,,False,,,,,
-940GZZCRAMP,tram,tram,940GZZCRAMP,Ampere Way,Trams fare zone,,False,,False,,,,,
-940GZZCRARA,tram,tram,940GZZCRARA,Arena,Trams fare zone,,False,,False,,,,,
-940GZZCRAVE,tram,tram,940GZZCRAVE,Avenue Road,Trams fare zone,,False,,False,,,,,
-940GZZCRBED,tram,tram,940GZZCRBED,Beddington Lane,Trams fare zone,,False,,False,,,,,
-940GZZCRBGV,tram,tram,940GZZCRBGV,Belgrave Walk,Trams fare zone,,False,,False,,,,,
-940GZZCRBLA,tram,tram,940GZZCRBLA,Blackhorse Lane,Trams fare zone,,False,,False,,,,,
-940GZZCRBRD,tram,tram,940GZZCRBRD,Beckenham Road,Trams fare zone,,False,,False,,,,,
-940GZZCRCEN,tram,tram,940GZZCRCEN,George Street,Trams fare zone,,False,,False,,,,,
-940GZZCRCHR,tram,tram,940GZZCRCHR,Church Street,Trams fare zone,,False,,False,,,,,
-940GZZCRCOO,tram,tram,940GZZCRCOO,Coombe Lane,Trams fare zone,,False,,False,,,,,
-940GZZCRCTR,tram,tram,940GZZCRCTR,Centrale,Trams fare zone,,False,,False,,,,,
-940GZZCRDDR,tram,tram,940GZZCRDDR,Dundonald Road,Trams fare zone,,False,,False,,,,,
-940GZZCRFLD,tram,tram,940GZZCRFLD,Fieldway,Trams fare zone,,False,,False,,,,,
-940GZZCRGRA,tram,tram,940GZZCRGRA,Gravel Hill,Trams fare zone,,False,,False,,,,,
-940GZZCRHAR,tram,tram,940GZZCRHAR,Harrington Road,Trams fare zone,,False,,False,,,,,
-940GZZCRKGH,tram,tram,940GZZCRKGH,King Henry's Drive,Trams fare zone,,False,,False,,,,,
-940GZZCRLEB,tram,tram,940GZZCRLEB,Lebanon Road,Trams fare zone,,False,,False,,,,,
-940GZZCRLOY,tram,tram,940GZZCRLOY,Lloyd Park,Trams fare zone,,False,,False,,,,,
-940GZZCRMCH,tram,tram,940GZZCRMCH,Mitcham,Trams fare zone,,False,,False,,,,,
-940GZZCRMDN,tram,tram,940GZZCRMDN,Morden Road,Trams fare zone,,False,,False,,,,,
-940GZZCRMTP,tram,tram,940GZZCRMTP,Merton Park,Trams fare zone,,False,,False,,,,,
-940GZZCRNWA,tram,tram,940GZZCRNWA,New Addington,Trams fare zone,,False,,False,,,,,
-940GZZCRPHI,tram,tram,940GZZCRPHI,Phipps Bridge,Trams fare zone,,False,,False,,,,,
-940GZZCRRVC,tram,tram,940GZZCRRVC,Reeves Corner,Trams fare zone,,False,,False,,,,,
-940GZZCRSAN,tram,tram,940GZZCRSAN,Sandilands,Trams fare zone,,False,,False,,,,,
-940GZZCRTPA,tram,tram,940GZZCRTPA,Therapia Lane,Trams fare zone,,False,,False,,,,,
-940GZZCRWAD,tram,tram,940GZZCRWAD,Waddon Marsh,Trams fare zone,,False,,False,,,,,
-940GZZCRWAN,tram,tram,940GZZCRWAN,Wandle Park,Trams fare zone,,False,,False,,,,,
-940GZZCRWEL,tram,tram,940GZZCRWEL,Wellesley Road,Trams fare zone,,False,,False,,,,,
-940GZZCRWOD,tram,tram,940GZZCRWOD,Woodside,Trams fare zone,,False,,False,,,,,
-940GZZDLABR,dlr,dlr,940GZZDLABR,Abbey Road,2|3,,False,,False,,,,,
-940GZZDLALL,dlr,dlr,940GZZDLALL,All Saints,2,,False,,False,,,,,
-940GZZDLBEC,dlr,dlr,940GZZDLBEC,Beckton,3,,False,,False,,,,,
-940GZZDLBLA,dlr,dlr,940GZZDLBLA,Blackwall,2,,False,,False,,,,,
-940GZZDLBOW,dlr,dlr,940GZZDLBOW,Bow Church,2,,False,,False,,,,,
-940GZZDLBPK,dlr,dlr,940GZZDLBPK,Beckton Park,3,,False,,False,,,,,
-940GZZDLCLA,dlr,dlr,940GZZDLCLA,Crossharbour,2,,False,,False,,,,,
-910GCSTMHSXR,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZDLCUS,dlr,dlr,,,,,,,,,,,,
-940GZZDLCYP,dlr,dlr,940GZZDLCYP,Cyprus,3,,False,,False,,,,,
-940GZZDLDEP,dlr,dlr,940GZZDLDEP,Deptford Bridge,2|3,,False,,False,,,,,
-940GZZDLDEV,dlr,dlr,940GZZDLDEV,Devons Road,2,,False,,False,,,,,
-940GZZDLEIN,dlr,dlr,940GZZDLEIN,East India,2|3,,False,,False,,,,,
-940GZZDLELV,dlr,dlr,940GZZDLELV,Elverson Road,2|3,,False,,False,,,,,
-940GZZDLGAL,dlr,dlr,940GZZDLGAL,Gallions Reach,3,,False,,False,,,,,
-940GZZDLHEQ,dlr,dlr,940GZZDLHEQ,Heron Quays,2,,False,,False,,,,,
-940GZZDLISL,dlr,dlr,940GZZDLISL,Island Gardens,2,,False,,False,,,,,
-940GZZDLKGV,dlr,dlr,940GZZDLKGV,King George V,3,,False,,False,,,,,
-940GZZDLLDP,dlr,dlr,940GZZDLLDP,Langdon Park,2,,False,,False,,,,,
-940GZZDLMUD,dlr,dlr,940GZZDLMUD,Mudchute,2,,False,,False,,,,,
-940GZZDLPDK,dlr,dlr,940GZZDLPDK,Pontoon Dock,3,,False,,False,,,,,
-940GZZDLPOP,dlr,dlr,940GZZDLPOP,Poplar,2,,False,,False,,,,,
-940GZZDLPRE,dlr,dlr,940GZZDLPRE,Prince Regent,3,,False,,False,,,,,
-940GZZDLPUD,dlr,dlr,940GZZDLPUD,Pudding Mill Lane,2|3,,False,,False,,,,,
-940GZZDLRAL,dlr,dlr,940GZZDLRAL,Royal Albert,3,,False,,False,,,,,
-940GZZDLRVC,dlr,dlr,940GZZDLRVC,Royal Victoria,3,HUBRVC,False,,False,,,,,
-940GZZDLSHS,dlr,dlr,940GZZDLSHS,Stratford High Street,2|3,,False,,False,,,,,
-940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,,940GZZDLSIT,FALSE,False,1.0
-940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,,940GZZDLSIT,FALSE,False,2.0
-940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,,940GZZDLSIT,TRUE,False,3.0
-940GZZDLSOQ,dlr,dlr,940GZZDLSOQ,South Quay,2,,False,,False,,,,,
-940GZZDLSTL,dlr,dlr,940GZZDLSTL,Star Lane,2|3,,False,,False,,,,,
-940GZZDLWFE,dlr,dlr,940GZZDLWFE,Westferry,2,,False,,False,,,,,
-940GZZDLWIQ,dlr,dlr,940GZZDLWIQ,West India Quay,2,,False,,False,,,,,
-940GZZDLWSV,dlr,dlr,940GZZDLWSV,West Silvertown,3,,False,,False,,,,,
-940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,FALSE,False,1.0
-940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,FALSE,False,2.0
-940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,TRUE,False,3.0
-940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,FALSE,False,1.0
-940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,FALSE,False,2.0
-940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,,940GZZLUACT,TRUE,False,3.0
-940GZZLUACY,tube,northern,940GZZLUACY,Archway,2|3,,True,,False,,,,,
-940GZZLUADE,tube,district,940GZZLUADE,Aldgate East,1,,True,,False,,,,,
-940GZZLUADE,tube,hammersmith-city,940GZZLUADE,Aldgate East,1,,True,,False,,,,,
-940GZZLUAGL,tube,northern,940GZZLUAGL,Angel,1,,True,,False,,,,,
-940GZZLUALD,tube,circle,940GZZLUALD,Aldgate,1,,True,,False,,,,,
-940GZZLUALD,tube,metropolitan,940GZZLUALD,Aldgate,1,,True,,False,,,,,
-940GZZLUALP,tube,piccadilly,940GZZLUALP,Alperton,4,,True,,False,,940GZZLUALP,FALSE,False,1.0
-940GZZLUALP,tube,piccadilly,940GZZLUALP,Alperton,4,,True,,False,,940GZZLUALP,FALSE,False,2.0
-940GZZLUASG,tube,piccadilly,940GZZLUASG,Arnos Grove,4,,True,,False,,,,,
-940GZZLUASL,tube,piccadilly,940GZZLUASL,Arsenal,2,,True,,False,,,,,
-940GZZLUBBB,tube,district,940GZZLUBBB,Bromley-by-Bow,2|3,,True,,False,,,,,
-940GZZLUBBB,tube,hammersmith-city,940GZZLUBBB,Bromley-by-Bow,2|3,,True,,False,,,,,
-940GZZLUBBN,tube,circle,940GZZLUBBN,Barbican,1,,True,,False,,,,,
-940GZZLUBBN,tube,hammersmith-city,940GZZLUBBN,Barbican,1,,True,,False,,,,,
-940GZZLUBBN,tube,metropolitan,940GZZLUBBN,Barbican,1,,True,,False,,,,,
-940GZZLUBDS,tube,piccadilly,940GZZLUBDS,Bounds Green,3|4,,True,,False,,,,,
-940GZZLUBEC,tube,district,940GZZLUBEC,Becontree,5,,True,,False,,940GZZLUBEC,FALSE,False,1.0
-940GZZLUBEC,tube,district,940GZZLUBEC,Becontree,5,,True,,False,,940GZZLUBEC,FALSE,False,2.0
-940GZZLUBKE,tube,central,940GZZLUBKE,Barkingside,4,,True,,True,2.0,940GZZLUBKE,FALSE,False,1.0
-940GZZLUBKE,tube,central,940GZZLUBKE,Barkingside,4,,True,,True,2.0,940GZZLUBKE,FALSE,False,2.0
-940GZZLUBKH,tube,central,940GZZLUBKH,Buckhurst Hill,5,,True,,True,,940GZZLUBKH,FALSE,False,1.0
-940GZZLUBKH,tube,central,940GZZLUBKH,Buckhurst Hill,5,,True,,True,,940GZZLUBKH,FALSE,False,2.0
-940GZZLUBLG,tube,central,940GZZLUBLG,Bethnal Green,2,,True,,False,,,,,
-940GZZLUBMY,tube,jubilee,940GZZLUBMY,Bermondsey,2,,True,,False,,,,,
-940GZZLUBND,tube,central,,,,,,,,,,,,
-940GZZLUBND,tube,jubilee,,,,,,,,,,,,
-910GBONDST,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZLUBOR,tube,northern,940GZZLUBOR,Borough,1,,True,,False,,,,,
-940GZZLUBOS,tube,piccadilly,940GZZLUBOS,Boston Manor,4,,True,,False,,940GZZLUBOS,FALSE,False,1.0
-940GZZLUBOS,tube,piccadilly,940GZZLUBOS,Boston Manor,4,,True,,False,,940GZZLUBOS,FALSE,False,2.0
-940GZZLUBSC,tube,district,940GZZLUBSC,Barons Court,2,,True,,False,,940GZZLUBSC,FALSE,False,1.0
-940GZZLUBSC,tube,district,940GZZLUBSC,Barons Court,2,,True,,False,,940GZZLUBSC,FALSE,False,2.0
-940GZZLUBSC,tube,piccadilly,940GZZLUBSC,Barons Court,2,,True,,False,,940GZZLUBSC,FALSE,False,1.0
-940GZZLUBSC,tube,piccadilly,940GZZLUBSC,Barons Court,2,,True,,False,,940GZZLUBSC,FALSE,False,2.0
-940GZZLUBST,tube,metropolitan,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,1.0
-940GZZLUBST,tube,metropolitan,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,2.0
-940GZZLUBST,tube,circle,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,1.0
-940GZZLUBST,tube,circle,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,2.0
-940GZZLUBST,tube,hammersmith-city,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,1.0
-940GZZLUBST,tube,hammersmith-city,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,2.0
-940GZZLUBST,tube,jubilee,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,1.0
-940GZZLUBST,tube,jubilee,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,2.0
-940GZZLUBST,tube,bakerloo,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,1.0
-940GZZLUBST,tube,bakerloo,940GZZLUBST,Baker Street,1,,True,,False,,940GZZLUBST,FALSE,False,2.0
-940GZZLUBTK,tube,northern,940GZZLUBTK,Burnt Oak,4,,True,,False,,,,,
-940GZZLUBTX,tube,northern,940GZZLUBTX,Brent Cross,3,,True,,False,,,,,
-940GZZLUBWR,tube,district,940GZZLUBWR,Bow Road,2,,False,,False,,,,,
-940GZZLUBWR,tube,hammersmith-city,940GZZLUBWR,Bow Road,2,,False,,False,,,,,
-940GZZLUBWT,tube,circle,940GZZLUBWT,Bayswater,1,,True,,False,,,,,
-940GZZLUBWT,tube,district,940GZZLUBWT,Bayswater,1,,True,,False,,,,,
-940GZZLUBZP,tube,northern,940GZZLUBZP,Belsize Park,2,,True,,False,,,,,
-940GZZLUCAR,tube,piccadilly,940GZZLUCAR,Caledonian Road,2,,True,,False,,,,,
-940GZZLUCFM,tube,northern,940GZZLUCFM,Chalk Farm,2,,True,,False,,,,,
-940GZZLUCGN,tube,piccadilly,940GZZLUCGN,Covent Garden,1,,True,,False,,,,,
-940GZZLUCHL,tube,central,940GZZLUCHL,Chancery Lane,1,,True,,False,,,,,
-940GZZLUCKS,tube,piccadilly,940GZZLUCKS,Cockfosters,5,,True,,False,,940GZZLUCKS,FALSE,False,1.0
-940GZZLUCKS,tube,piccadilly,940GZZLUCKS,Cockfosters,5,,True,,False,,940GZZLUCKS,FALSE,False,2.0
-940GZZLUCND,tube,northern,940GZZLUCND,Colindale,4,,True,,False,,,,,
-940GZZLUCPC,tube,northern,940GZZLUCPC,Clapham Common,2,,True,,False,,,,,
-940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,,940GZZLUCPK,FALSE,False,1.0
-940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,,940GZZLUCPK,FALSE,False,2.0
-940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,,940GZZLUCPK,TRUE,False,3.0
-940GZZLUCPN,tube,northern,940GZZLUCPN,Clapham North,2,,True,,False,,,,,
-940GZZLUCPS,tube,northern,940GZZLUCPS,Clapham South,2|3,,True,,False,,,,,
-940GZZLUCSD,tube,northern,940GZZLUCSD,Colliers Wood,3,,True,,False,,,,,
-940GZZLUCSM,tube,metropolitan,940GZZLUCSM,Chesham,9,,True,,True,4.0,940GZZLUCSM,FALSE,False,1.0
-940GZZLUCSM,tube,metropolitan,940GZZLUCSM,Chesham,9,,True,,True,4.0,940GZZLUCSM,FALSE,False,2.0
-940GZZLUCTN,tube,northern,940GZZLUCTN,Camden Town,2,,True,,False,,,,,
-940GZZLUCWL,tube,central,940GZZLUCWL,Chigwell,4,,True,,False,,940GZZLUCWL,FALSE,False,1.0
-940GZZLUCWL,tube,central,940GZZLUCWL,Chigwell,4,,True,,False,,940GZZLUCWL,FALSE,False,2.0
-940GZZLUCWP,tube,district,940GZZLUCWP,Chiswick Park,3,,True,,False,,,,,
-940GZZLUCXY,tube,metropolitan,940GZZLUCXY,Croxley,7,,True,,False,,940GZZLUCXY,FALSE,False,1.0
-940GZZLUCXY,tube,metropolitan,940GZZLUCXY,Croxley,7,,True,,False,,940GZZLUCXY,FALSE,False,2.0
-940GZZLUDBN,tube,central,940GZZLUDBN,Debden,6,,True,,True,3.0,940GZZLUDBN,FALSE,False,1.0
-940GZZLUDBN,tube,central,940GZZLUDBN,Debden,6,,True,,True,3.0,940GZZLUDBN,FALSE,False,2.0
-940GZZLUDGE,tube,district,940GZZLUDGE,Dagenham East,5,,True,,False,,940GZZLUDGE,FALSE,False,1.0
-940GZZLUDGE,tube,district,940GZZLUDGE,Dagenham East,5,,True,,False,,940GZZLUDGE,FALSE,False,2.0
-940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,,940GZZLUDGY,FALSE,False,1.0
-940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,,940GZZLUDGY,FALSE,False,2.0
-940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,,940GZZLUDGY,TRUE,False,3.0
-940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,,940GZZLUDOH,FALSE,False,1.0
-940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,,940GZZLUDOH,FALSE,False,2.0
-940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,,940GZZLUDOH,TRUE,False,3.0
-940GZZLUEAE,tube,metropolitan,940GZZLUEAE,Eastcote,5,,False,,False,,,,,
-940GZZLUEAE,tube,piccadilly,940GZZLUEAE,Eastcote,5,,False,,False,,,,,
-940GZZLUEAN,tube,central,940GZZLUEAN,East Acton,2,,True,,False,,,,,
-940GZZLUECM,tube,district,940GZZLUECM,Ealing Common,3,,True,,False,,940GZZLUECM,FALSE,False,1.0
-940GZZLUECM,tube,district,940GZZLUECM,Ealing Common,3,,True,,False,,940GZZLUECM,FALSE,False,2.0
-940GZZLUECM,tube,piccadilly,940GZZLUECM,Ealing Common,3,,True,,False,,940GZZLUECM,FALSE,False,1.0
-940GZZLUECM,tube,piccadilly,940GZZLUECM,Ealing Common,3,,True,,False,,940GZZLUECM,FALSE,False,2.0
-940GZZLUECT,tube,district,940GZZLUECT,Earl's Court,1|2,,True,,False,,,,,
-940GZZLUECT,tube,piccadilly,940GZZLUECT,Earl's Court,1|2,,True,,False,,,,,
-940GZZLUEFY,tube,northern,940GZZLUEFY,East Finchley,3,,True,,False,,,,,
-940GZZLUEGW,tube,northern,940GZZLUEGW,Edgware,5,,True,,False,,,,,
-940GZZLUEHM,tube,district,940GZZLUEHM,East Ham,3|4,,True,,False,,,,,
-940GZZLUEHM,tube,hammersmith-city,940GZZLUEHM,East Ham,3|4,,True,,False,,,,,
-940GZZLUEMB,tube,circle,940GZZLUEMB,Embankment,1,,True,,False,,,,,
-940GZZLUEMB,tube,district,940GZZLUEMB,Embankment,1,,True,,False,,,,,
-940GZZLUEMB,tube,northern,940GZZLUEMB,Embankment,1,,True,,False,,,,,
-940GZZLUEMB,tube,bakerloo,940GZZLUEMB,Embankment,1,,True,,False,,,,,
-940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,FALSE,False,1.0
-940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,FALSE,False,2.0
-940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,TRUE,False,3.0
-940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,,940GZZLUEPK,FALSE,False,1.0
-940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,,940GZZLUEPK,FALSE,False,2.0
-940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,,940GZZLUEPK,TRUE,False,3.0
-940GZZLUEPY,tube,district,940GZZLUEPY,East Putney,2|3,,True,,False,,,,,
-940GZZLUERB,tube,bakerloo,940GZZLUERB,Edgware Road,1,,True,,False,,,,,
-940GZZLUERC,tube,circle,940GZZLUERC,Edgware Road,1,,True,,False,,,,,
-940GZZLUERC,tube,hammersmith-city,940GZZLUERC,Edgware Road,1,,True,,False,,,,,
-940GZZLUERC,tube,district,940GZZLUERC,Edgware Road,1,,True,,False,,,,,
-940GZZLUESQ,tube,circle,940GZZLUESQ,Euston Square,1,,True,,False,,,,,
-940GZZLUESQ,tube,hammersmith-city,940GZZLUESQ,Euston Square,1,,True,,False,,,,,
-940GZZLUESQ,tube,metropolitan,940GZZLUESQ,Euston Square,1,,True,,False,,,,,
-940GZZLUFBY,tube,district,940GZZLUFBY,Fulham Broadway,2,,True,,False,,,,,
-940GZZLUFLP,tube,central,940GZZLUFLP,Fairlop,4,,True,,False,,940GZZLUFLP,FALSE,False,1.0
-940GZZLUFLP,tube,central,940GZZLUFLP,Fairlop,4,,True,,False,,940GZZLUFLP,FALSE,False,2.0
-940GZZLUFYC,tube,northern,940GZZLUFYC,Finchley Central,4,,True,,True,6.0,940GZZLUFYC,TRUE,False,3.0
-940GZZLUFYR,tube,metropolitan,940GZZLUFYR,Finchley Road,2,,False,,False,,940GZZLUFYR,TRUE,False,1.0
-940GZZLUFYR,tube,metropolitan,940GZZLUFYR,Finchley Road,2,,False,,False,,940GZZLUFYR,TRUE,False,2.0
-940GZZLUFYR,tube,jubilee,940GZZLUFYR,Finchley Road,2,,False,,False,,940GZZLUFYR,TRUE,False,1.0
-940GZZLUFYR,tube,jubilee,940GZZLUFYR,Finchley Road,2,,False,,False,,940GZZLUFYR,TRUE,False,2.0
-940GZZLUGDG,tube,northern,940GZZLUGDG,Goodge Street,1,,True,,False,,,,,
-940GZZLUGGH,tube,central,940GZZLUGGH,Grange Hill,4,,True,,False,,940GZZLUGGH,FALSE,False,1.0
-940GZZLUGGH,tube,central,940GZZLUGGH,Grange Hill,4,,True,,False,,940GZZLUGGH,FALSE,False,2.0
-940GZZLUGGN,tube,northern,940GZZLUGGN,Golders Green,3,,True,,False,,,,,
-940GZZLUGHK,tube,circle,940GZZLUGHK,Goldhawk Road,2,,True,,False,,,,,
-940GZZLUGHK,tube,hammersmith-city,940GZZLUGHK,Goldhawk Road,2,,True,,False,,,,,
-940GZZLUGPK,tube,piccadilly,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,1.0
-940GZZLUGPK,tube,piccadilly,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,2.0
-940GZZLUGPK,tube,victoria,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,1.0
-940GZZLUGPK,tube,victoria,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,2.0
-940GZZLUGPK,tube,jubilee,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,1.0
-940GZZLUGPK,tube,jubilee,940GZZLUGPK,Green Park,1,,True,,False,,940GZZLUGPK,FALSE,True,2.0
-940GZZLUGPS,tube,circle,940GZZLUGPS,Great Portland Street,1,,True,,False,,,,,
-940GZZLUGPS,tube,hammersmith-city,940GZZLUGPS,Great Portland Street,1,,True,,False,,,,,
-940GZZLUGPS,tube,metropolitan,940GZZLUGPS,Great Portland Street,1,,True,,False,,,,,
-940GZZLUGTH,tube,central,940GZZLUGTH,Gants Hill,4,,True,,False,,,,,
-940GZZLUGTR,tube,district,940GZZLUGTR,Gloucester Road,1,,True,,False,,,,,
-940GZZLUGTR,tube,circle,940GZZLUGTR,Gloucester Road,1,,True,,False,,,,,
-940GZZLUGTR,tube,piccadilly,940GZZLUGTR,Gloucester Road,1,,True,,False,,,,,
-940GZZLUHBN,tube,central,940GZZLUHBN,Holborn,1,,True,,False,,,,,
-940GZZLUHBN,tube,piccadilly,940GZZLUHBN,Holborn,1,,True,,False,,,,,
-940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,FALSE,False,1.0
-940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,FALSE,False,2.0
-940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,TRUE,False,3.0
-940GZZLUHCH,tube,district,940GZZLUHCH,Hornchurch,6,,True,,False,,940GZZLUHCH,FALSE,False,1.0
-940GZZLUHCH,tube,district,940GZZLUHCH,Hornchurch,6,,True,,False,,940GZZLUHCH,FALSE,False,2.0
-940GZZLUHCL,tube,northern,940GZZLUHCL,Hendon Central,3|4,,True,,False,,940GZZLUHCL,TRUE,False,1.0
-940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,1.0
-940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,2.0
-940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,TRUE,False,3.0
-940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,1.0
-940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,2.0
-940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,TRUE,False,3.0
-940GZZLUHGR,tube,central,940GZZLUHGR,Hanger Lane,3,,False,,False,,940GZZLUHGR,FALSE,False,1.0
-940GZZLUHGR,tube,central,940GZZLUHGR,Hanger Lane,3,,False,,False,,940GZZLUHGR,FALSE,False,2.0
-940GZZLUHGT,tube,northern,940GZZLUHGT,Highgate,3,,True,,False,,,,,
-940GZZLUHLT,tube,central,940GZZLUHLT,Hainault,4,,True,,True,4.0,940GZZLUHLT,TRUE,False,1.0
-940GZZLUHNX,tube,piccadilly,940GZZLUHNX,Hatton Cross,5|6,,True,,False,,,,,
-940GZZLUHPC,tube,piccadilly,940GZZLUHPC,Hyde Park Corner,1,,True,,False,,,,,
-940GZZLUHPK,tube,central,940GZZLUHPK,Holland Park,2,,True,,False,,,,,
-940GZZLUHSK,tube,circle,940GZZLUHSK,High Street Kensington,1,,True,,False,,,,,
-940GZZLUHSK,tube,district,940GZZLUHSK,High Street Kensington,1,,True,,False,,,,,
-940GZZLUHTD,tube,northern,940GZZLUHTD,Hampstead,2|3,,True,,False,,,,,
-940GZZLUHWC,tube,piccadilly,940GZZLUHWC,Hounslow Central,4,,True,,False,,940GZZLUHWC,FALSE,False,1.0
-940GZZLUHWC,tube,piccadilly,940GZZLUHWC,Hounslow Central,4,,True,,False,,940GZZLUHWC,FALSE,False,2.0
-940GZZLUHWE,tube,piccadilly,940GZZLUHWE,Hounslow East,4,,True,,True,2.0,940GZZLUHWE,TRUE,False,1.0
-940GZZLUHWT,tube,piccadilly,940GZZLUHWT,Hounslow West,5,,True,,True,10.0,,,,
-940GZZLUHWY,tube,piccadilly,940GZZLUHWY,Holloway Road,2,,True,,False,,,,,
-940GZZLUICK,tube,metropolitan,940GZZLUICK,Ickenham,6,,True,,False,,,,,
-940GZZLUICK,tube,piccadilly,940GZZLUICK,Ickenham,6,,True,,False,,,,,
-940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,,940GZZLUKBN,FALSE,False,1.0
-940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,,940GZZLUKBN,FALSE,False,2.0
-940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,,940GZZLUKBN,TRUE,False,3.0
-940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,,940GZZLUKBY,FALSE,False,1.0
-940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,,940GZZLUKBY,FALSE,False,2.0
-940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,,940GZZLUKBY,TRUE,False,3.0
-940GZZLUKNB,tube,piccadilly,940GZZLUKNB,Knightsbridge,1,,True,,False,,,,,
-940GZZLUKNG,tube,northern,940GZZLUKNG,Kennington,1|2,,True,,False,,,,,
-940GZZLUKPK,tube,bakerloo,940GZZLUKPK,Kilburn Park,2,,True,,False,,,,,
-940GZZLULAD,tube,circle,940GZZLULAD,Ladbroke Grove,2,,True,,False,,,,,
-940GZZLULAD,tube,hammersmith-city,940GZZLULAD,Ladbroke Grove,2,,True,,False,,,,,
-940GZZLULBN,tube,bakerloo,940GZZLULBN,Lambeth North,1,,True,,False,,,,,
-940GZZLULGN,tube,central,940GZZLULGN,Loughton,6,,True,,False,,940GZZLULGN,FALSE,False,1.0
-940GZZLULGN,tube,central,940GZZLULGN,Loughton,6,,True,,False,,940GZZLULGN,FALSE,False,2.0
-940GZZLULGT,tube,central,940GZZLULGT,Lancaster Gate,1,,True,,False,,,,,
-940GZZLULRD,tube,circle,940GZZLULRD,Latimer Road,2,,True,,False,,,,,
-940GZZLULRD,tube,hammersmith-city,940GZZLULRD,Latimer Road,2,,True,,False,,,,,
-940GZZLULSQ,tube,piccadilly,940GZZLULSQ,Leicester Square,1,,True,,False,,,,,
-940GZZLULSQ,tube,northern,940GZZLULSQ,Leicester Square,1,,True,,False,,,,,
-940GZZLULYN,tube,central,940GZZLULYN,Leyton,3,,True,,False,,940GZZLULYN,FALSE,False,1.0
-940GZZLULYN,tube,central,940GZZLULYN,Leyton,3,,True,,False,,940GZZLULYN,FALSE,False,2.0
-940GZZLULYS,tube,central,940GZZLULYS,Leytonstone,3|4,,True,,False,,940GZZLULYS,FALSE,False,1.0
-940GZZLULYS,tube,central,940GZZLULYS,Leytonstone,3|4,,True,,False,,940GZZLULYS,FALSE,False,2.0
-940GZZLUMBA,tube,central,940GZZLUMBA,Marble Arch,1,,True,,False,,,,,
-940GZZLUMDN,tube,northern,940GZZLUMDN,Morden,4,,True,,False,,,,,
-940GZZLUMED,tube,central,940GZZLUMED,Mile End,2,,True,,False,,,,,
-940GZZLUMED,tube,district,940GZZLUMED,Mile End,2,,True,,False,,,,,
-940GZZLUMED,tube,hammersmith-city,940GZZLUMED,Mile End,2,,True,,False,,,,,
-940GZZLUMHL,tube,northern,940GZZLUMHL,Mill Hill East,4,,True,,False,,,,,
-940GZZLUMMT,tube,circle,940GZZLUMMT,Monument,1,,True,,False,,,,,
-940GZZLUMMT,tube,district,940GZZLUMMT,Monument,1,,True,,False,,,,,
-940GZZLUMPK,tube,metropolitan,940GZZLUMPK,Moor Park,6|7,,True,,False,,940GZZLUMPK,FALSE,False,1.0
-940GZZLUMPK,tube,metropolitan,940GZZLUMPK,Moor Park,6|7,,True,,False,,940GZZLUMPK,FALSE,False,2.0
-940GZZLUMRH,tube,piccadilly,940GZZLUMRH,Manor House,2|3,,True,,False,,,,,
-940GZZLUMSH,tube,circle,940GZZLUMSH,Mansion House,1,,True,,False,,,,,
-940GZZLUMSH,tube,district,940GZZLUMSH,Mansion House,1,,True,,False,,,,,
-940GZZLUMTC,tube,northern,940GZZLUMTC,Mornington Crescent,2,,True,,False,,,,,
-940GZZLUMVL,tube,bakerloo,940GZZLUMVL,Maida Vale,2,,True,,False,,,,,
-940GZZLUNAN,tube,central,940GZZLUNAN,North Acton,2|3,,True,,False,,,,,
-940GZZLUNBP,tube,central,940GZZLUNBP,Newbury Park,4,,True,,True,6.0,940GZZLUNBP,FALSE,False,1.0
-940GZZLUNBP,tube,central,940GZZLUNBP,Newbury Park,4,,True,,True,6.0,940GZZLUNBP,FALSE,False,2.0
-940GZZLUNDN,tube,jubilee,940GZZLUNDN,Neasden,3,,True,,False,,,,,
-940GZZLUNEN,tube,piccadilly,940GZZLUNEN,North Ealing,3,,True,,False,,940GZZLUNEN,FALSE,False,1.0
-940GZZLUNEN,tube,piccadilly,940GZZLUNEN,North Ealing,3,,True,,False,,940GZZLUNEN,FALSE,False,2.0
-940GZZLUNFD,tube,piccadilly,940GZZLUNFD,Northfields,3,,True,,False,,940GZZLUNFD,FALSE,False,1.0
-940GZZLUNFD,tube,piccadilly,940GZZLUNFD,Northfields,3,,True,,False,,940GZZLUNFD,FALSE,False,2.0
-940GZZLUNGW,tube,jubilee,940GZZLUNGW,North Greenwich,2|3,HUBNGW,True,,True,19.0,,,,
-940GZZLUNHA,tube,metropolitan,940GZZLUNHA,North Harrow,5,,True,,False,,940GZZLUNHA,FALSE,False,1.0
-940GZZLUNHA,tube,metropolitan,940GZZLUNHA,North Harrow,5,,True,,False,,940GZZLUNHA,FALSE,False,2.0
-940GZZLUNHG,tube,circle,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,,,,,
-940GZZLUNHG,tube,district,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,,,,,
-940GZZLUNHG,tube,central,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,,,,,
-940GZZLUNHT,tube,central,940GZZLUNHT,Northolt,5,,True,,False,,940GZZLUNHT,FALSE,False,1.0
-940GZZLUNHT,tube,central,940GZZLUNHT,Northolt,5,,True,,False,,940GZZLUNHT,FALSE,False,2.0
-940GZZLUNKP,tube,metropolitan,940GZZLUNKP,Northwick Park,4,,True,,False,,940GZZLUNKP,FALSE,False,1.0
-940GZZLUNKP,tube,metropolitan,940GZZLUNKP,Northwick Park,4,,True,,False,,940GZZLUNKP,FALSE,False,2.0
-940GZZLUNOW,tube,metropolitan,940GZZLUNOW,Northwood,6,,True,,False,,940GZZLUNOW,FALSE,False,1.0
-940GZZLUNOW,tube,metropolitan,940GZZLUNOW,Northwood,6,,True,,False,,940GZZLUNOW,FALSE,False,2.0
-940GZZLUNWH,tube,metropolitan,940GZZLUNWH,Northwood Hills,6,,True,,False,,940GZZLUNWH,FALSE,False,1.0
-940GZZLUNWH,tube,metropolitan,940GZZLUNWH,Northwood Hills,6,,True,,False,,940GZZLUNWH,FALSE,False,2.0
-940GZZLUOAK,tube,piccadilly,940GZZLUOAK,Oakwood,5,,True,,True,6.0,940GZZLUOAK,FALSE,False,1.0
-940GZZLUOAK,tube,piccadilly,940GZZLUOAK,Oakwood,5,,True,,True,6.0,940GZZLUOAK,FALSE,False,2.0
-940GZZLUOSY,tube,piccadilly,940GZZLUOSY,Osterley,4,,True,,False,,940GZZLUOSY,FALSE,False,1.0
-940GZZLUOSY,tube,piccadilly,940GZZLUOSY,Osterley,4,,True,,False,,940GZZLUOSY,FALSE,False,2.0
-940GZZLUOVL,tube,northern,940GZZLUOVL,Oval,2,,True,,False,,,,,
-940GZZLUOXC,tube,central,940GZZLUOXC,Oxford Circus,1,,True,,False,,,,,
-940GZZLUOXC,tube,bakerloo,940GZZLUOXC,Oxford Circus,1,,True,,False,,,,,
-940GZZLUOXC,tube,victoria,940GZZLUOXC,Oxford Circus,1,,True,,False,,,,,
-940GZZLUPCC,tube,bakerloo,940GZZLUPCC,Piccadilly Circus,1,,True,,False,,940GZZLUPCC,FALSE,True,1.0
-940GZZLUPCC,tube,bakerloo,940GZZLUPCC,Piccadilly Circus,1,,True,,False,,940GZZLUPCC,FALSE,True,2.0
-940GZZLUPCC,tube,piccadilly,940GZZLUPCC,Piccadilly Circus,1,,True,,False,,940GZZLUPCC,FALSE,True,1.0
-940GZZLUPCC,tube,piccadilly,940GZZLUPCC,Piccadilly Circus,1,,True,,False,,940GZZLUPCC,FALSE,True,2.0
-940GZZLUPCO,tube,victoria,940GZZLUPCO,Pimlico,1,,True,,False,,,,,
-940GZZLUPKR,tube,piccadilly,940GZZLUPKR,Park Royal,3,,True,,False,,940GZZLUPKR,FALSE,False,1.0
-940GZZLUPKR,tube,piccadilly,940GZZLUPKR,Park Royal,3,,True,,False,,940GZZLUPKR,FALSE,False,2.0
-940GZZLUPLW,tube,district,940GZZLUPLW,Plaistow,3,,True,,False,,,,,
-940GZZLUPLW,tube,hammersmith-city,940GZZLUPLW,Plaistow,3,,True,,False,,,,,
-940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,,940GZZLUPNR,FALSE,False,1.0
-940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,,940GZZLUPNR,FALSE,False,2.0
-940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,,940GZZLUPNR,TRUE,False,3.0
-940GZZLUPRD,tube,metropolitan,940GZZLUPRD,Preston Road,4,,True,,False,,940GZZLUPRD,FALSE,False,1.0
-940GZZLUPRD,tube,metropolitan,940GZZLUPRD,Preston Road,4,,True,,False,,940GZZLUPRD,FALSE,False,2.0
-940GZZLUPSG,tube,district,940GZZLUPSG,Parsons Green,2,,True,,False,,,,,
-940GZZLUPVL,tube,central,940GZZLUPVL,Perivale,4,,True,,False,,940GZZLUPVL,FALSE,False,1.0
-940GZZLUPVL,tube,central,940GZZLUPVL,Perivale,4,,True,,False,,940GZZLUPVL,FALSE,False,2.0
-940GZZLUPYB,tube,district,940GZZLUPYB,Putney Bridge,2,,False,,False,,,,,
-940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,,940GZZLUQBY,FALSE,False,1.0
-940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,,940GZZLUQBY,FALSE,False,2.0
-940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,,940GZZLUQBY,TRUE,False,3.0
-940GZZLUQWY,tube,central,940GZZLUQWY,Queensway,1,,True,,False,,,,,
-940GZZLURBG,tube,central,940GZZLURBG,Redbridge,4,,True,,False,,940GZZLURBG,FALSE,False,1.0
-940GZZLURBG,tube,central,940GZZLURBG,Redbridge,4,,True,,False,,940GZZLURBG,FALSE,False,2.0
-940GZZLURGP,tube,bakerloo,940GZZLURGP,Regent's Park,1,,True,,False,,,,,
-940GZZLURSG,tube,central,940GZZLURSG,Ruislip Gardens,5,,False,,False,,940GZZLURSG,TRUE,False,1.0
-940GZZLURSM,tube,metropolitan,940GZZLURSM,Ruislip Manor,6,,True,,False,,940GZZLURSM,FALSE,False,1.0
-940GZZLURSM,tube,metropolitan,940GZZLURSM,Ruislip Manor,6,,True,,False,,940GZZLURSM,FALSE,False,2.0
-940GZZLURSM,tube,piccadilly,940GZZLURSM,Ruislip Manor,6,,True,,False,,940GZZLURSM,FALSE,False,1.0
-940GZZLURSM,tube,piccadilly,940GZZLURSM,Ruislip Manor,6,,True,,False,,940GZZLURSM,FALSE,False,2.0
-940GZZLURSP,tube,metropolitan,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,1.0
-940GZZLURSP,tube,metropolitan,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,2.0
-940GZZLURSP,tube,piccadilly,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,1.0
-940GZZLURSP,tube,piccadilly,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,2.0
-940GZZLURSQ,tube,piccadilly,940GZZLURSQ,Russell Square,1,,True,,False,,,,,
-940GZZLURVP,tube,district,940GZZLURVP,Ravenscourt Park,2,,True,,False,,,,,
-940GZZLURVY,tube,central,940GZZLURVY,Roding Valley,4,,True,,False,,940GZZLURVY,FALSE,False,1.0
-940GZZLURVY,tube,central,940GZZLURVY,Roding Valley,4,,True,,False,,940GZZLURVY,FALSE,False,2.0
-940GZZLURYL,tube,metropolitan,940GZZLURYL,Rayners Lane,5,,True,,True,6.0,,,,
-940GZZLURYL,tube,piccadilly,940GZZLURYL,Rayners Lane,5,,True,,True,6.0,,,,
-940GZZLURYO,tube,circle,940GZZLURYO,Royal Oak,2,,True,,False,,,,,
-940GZZLURYO,tube,hammersmith-city,940GZZLURYO,Royal Oak,2,,True,,False,,,,,
-940GZZLUSBM,tube,circle,940GZZLUSBM,Shepherd's Bush Market,2,,True,,False,,,,,
-940GZZLUSBM,tube,hammersmith-city,940GZZLUSBM,Shepherd's Bush Market,2,,True,,False,,,,,
-940GZZLUSEA,tube,piccadilly,940GZZLUSEA,South Ealing,3,,True,,False,,,,,
-940GZZLUSFB,tube,district,940GZZLUSFB,Stamford Brook,2,,True,,False,,940GZZLUSFB,FALSE,False,1.0
-940GZZLUSFB,tube,district,940GZZLUSFB,Stamford Brook,2,,True,,False,,940GZZLUSFB,FALSE,False,2.0
-940GZZLUSFS,tube,district,940GZZLUSFS,Southfields,3,,True,,False,,,,,
-940GZZLUSGN,tube,district,940GZZLUSGN,Stepney Green,2,,True,,False,,,,,
-940GZZLUSGN,tube,hammersmith-city,940GZZLUSGN,Stepney Green,2,,True,,False,,,,,
-940GZZLUSGT,tube,piccadilly,940GZZLUSGT,Southgate,4,,True,,False,,,,,
-940GZZLUSHH,tube,piccadilly,940GZZLUSHH,South Harrow,5,,True,,False,,,,,
-940GZZLUSJP,tube,circle,940GZZLUSJP,St James's Park,1,,True,,False,,,,,
-940GZZLUSJP,tube,district,940GZZLUSJP,St James's Park,1,,True,,False,,,,,
-940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,,940GZZLUSJW,FALSE,False,1.0
-940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,,940GZZLUSJW,FALSE,False,2.0
-940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,,940GZZLUSJW,TRUE,False,3.0
-940GZZLUSKS,tube,circle,940GZZLUSKS,South Kensington,1,,True,,False,,,,,
-940GZZLUSKS,tube,district,940GZZLUSKS,South Kensington,1,,True,,False,,,,,
-940GZZLUSKS,tube,piccadilly,940GZZLUSKS,South Kensington,1,,True,,False,,,,,
-940GZZLUSKW,tube,victoria,940GZZLUSKW,Stockwell,2,,True,,False,,,,,
-940GZZLUSKW,tube,northern,940GZZLUSKW,Stockwell,2,,True,,False,,,,,
-940GZZLUSNB,tube,central,940GZZLUSNB,Snaresbrook,4,,True,,False,,940GZZLUSNB,FALSE,False,1.0
-940GZZLUSNB,tube,central,940GZZLUSNB,Snaresbrook,4,,True,,False,,940GZZLUSNB,FALSE,False,2.0
-940GZZLUSPU,tube,central,940GZZLUSPU,St Paul's,1,,True,,False,,,,,
-940GZZLUSSQ,tube,circle,940GZZLUSSQ,Sloane Square,1,,True,,False,,,,,
-940GZZLUSSQ,tube,district,940GZZLUSSQ,Sloane Square,1,,True,,False,,,,,
-940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,FALSE,False,1.0
-940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,FALSE,False,2.0
-940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,TRUE,False,3.0
-940GZZLUSUH,tube,piccadilly,940GZZLUSUH,Sudbury Hill,4,,True,,False,,940GZZLUSUH,FALSE,False,1.0
-940GZZLUSUH,tube,piccadilly,940GZZLUSUH,Sudbury Hill,4,,True,,False,,940GZZLUSUH,FALSE,False,2.0
-940GZZLUSUT,tube,piccadilly,940GZZLUSUT,Sudbury Town,4,,True,,True,3.0,940GZZLUSUT,FALSE,False,1.0
-940GZZLUSUT,tube,piccadilly,940GZZLUSUT,Sudbury Town,4,,True,,True,3.0,940GZZLUSUT,FALSE,False,2.0
-940GZZLUSWC,tube,jubilee,940GZZLUSWC,Swiss Cottage,2,,True,,False,,,,,
-940GZZLUSWF,tube,central,940GZZLUSWF,South Woodford,4,,True,,True,4.0,,,,
-940GZZLUSWK,tube,jubilee,940GZZLUSWK,Southwark,1,,True,,False,,,,,
-940GZZLUSWN,tube,northern,940GZZLUSWN,South Wimbledon,3|4,,True,,False,,,,,
-940GZZLUTAW,tube,northern,940GZZLUTAW,Totteridge & Whetstone,4,,True,,False,,940GZZLUTAW,FALSE,False,1.0
-940GZZLUTAW,tube,northern,940GZZLUTAW,Totteridge & Whetstone,4,,True,,False,,940GZZLUTAW,FALSE,False,2.0
-940GZZLUTBC,tube,northern,940GZZLUTBC,Tooting Bec,3,,True,,False,,,,,
-940GZZLUTBY,tube,northern,940GZZLUTBY,Tooting Broadway,3,,True,,False,,,,,
-940GZZLUTCR,tube,central,,,,,,,,,,,,
-940GZZLUTCR,tube,northern,,,,,,,,,,,,
-910GTOTCTRD,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZLUTFP,tube,northern,940GZZLUTFP,Tufnell Park,2,,True,,False,,,,,
-940GZZLUTHB,tube,central,940GZZLUTHB,Theydon Bois,6,,True,,True,3.0,940GZZLUTHB,FALSE,False,1.0
-940GZZLUTHB,tube,central,940GZZLUTHB,Theydon Bois,6,,True,,True,3.0,940GZZLUTHB,FALSE,False,2.0
-940GZZLUTMP,tube,circle,940GZZLUTMP,Temple,1,,True,,False,,,,,
-940GZZLUTMP,tube,district,940GZZLUTMP,Temple,1,,True,,False,,,,,
-940GZZLUTNG,tube,district,940GZZLUTNG,Turnham Green,2|3,,True,,False,,,,,
-940GZZLUTNG,tube,piccadilly,940GZZLUTNG,Turnham Green,2|3,,True,,False,,,,,
-940GZZLUTPN,tube,piccadilly,940GZZLUTPN,Turnpike Lane,3,,True,,False,,,,,
-940GZZLUTWH,tube,circle,940GZZLUTWH,Tower Hill,1,,True,,False,,,,,
-940GZZLUTWH,tube,district,940GZZLUTWH,Tower Hill,1,,True,,False,,,,,
-940GZZLUUPB,tube,district,940GZZLUUPB,Upminster Bridge,6,,True,,False,,940GZZLUUPB,FALSE,False,1.0
-940GZZLUUPB,tube,district,940GZZLUUPB,Upminster Bridge,6,,True,,False,,940GZZLUUPB,FALSE,False,2.0
-940GZZLUUPK,tube,district,940GZZLUUPK,Upton Park,3,,True,,False,,,,,
-940GZZLUUPK,tube,hammersmith-city,940GZZLUUPK,Upton Park,3,,True,,False,,,,,
-940GZZLUUPY,tube,district,940GZZLUUPY,Upney,4,,True,,False,,940GZZLUUPY,FALSE,False,1.0
-940GZZLUUPY,tube,district,940GZZLUUPY,Upney,4,,True,,False,,940GZZLUUPY,FALSE,False,2.0
-940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,FALSE,False,1.0
-940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,FALSE,False,2.0
-940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,TRUE,False,3.0
-940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,FALSE,False,1.0
-940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,FALSE,False,2.0
-940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,,940GZZLUUXB,TRUE,False,3.0
-940GZZLUWAF,tube,metropolitan,940GZZLUWAF,Watford,7,,False,,False,,940GZZLUWAF,FALSE,False,1.0
-940GZZLUWAF,tube,metropolitan,940GZZLUWAF,Watford,7,,False,,False,,940GZZLUWAF,FALSE,False,2.0
-940GZZLUWCY,tube,central,940GZZLUWCY,White City,2,,True,,False,,940GZZLUWCY,FALSE,False,1.0
-940GZZLUWCY,tube,central,940GZZLUWCY,White City,2,,True,,False,,940GZZLUWCY,FALSE,False,2.0
-940GZZLUWFN,tube,northern,940GZZLUWFN,West Finchley,4,,True,,False,,940GZZLUWFN,FALSE,False,1.0
-940GZZLUWFN,tube,northern,940GZZLUWFN,West Finchley,4,,True,,False,,940GZZLUWFN,FALSE,False,2.0
-940GZZLUWHP,tube,jubilee,940GZZLUWHP,West Hampstead,2,HUBWHD,True,,False,,,,,
-940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,,940GZZLUWHW,FALSE,False,1.0
-940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,,940GZZLUWHW,FALSE,False,2.0
-940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,,940GZZLUWHW,TRUE,False,3.0
-940GZZLUWIG,tube,metropolitan,940GZZLUWIG,Willesden Green,2|3,,True,,False,,940GZZLUWIG,FALSE,False,1.0
-940GZZLUWIG,tube,metropolitan,940GZZLUWIG,Willesden Green,2|3,,True,,False,,940GZZLUWIG,TRUE,False,2.0
-940GZZLUWIG,tube,jubilee,940GZZLUWIG,Willesden Green,2|3,,True,,False,,940GZZLUWIG,FALSE,False,1.0
-940GZZLUWIG,tube,jubilee,940GZZLUWIG,Willesden Green,2|3,,True,,False,,940GZZLUWIG,TRUE,False,2.0
-940GZZLUWIP,tube,district,940GZZLUWIP,Wimbledon Park,3,,True,,False,,,,,
-940GZZLUWKA,tube,bakerloo,940GZZLUWKA,Warwick Avenue,2,,True,,False,,,,,
-940GZZLUWKN,tube,district,940GZZLUWKN,West Kensington,2,,True,,False,,,,,
-940GZZLUWLA,tube,circle,940GZZLUWLA,Wood Lane,2,,True,,False,,940GZZLUWLA,TRUE,False,1.0
-940GZZLUWLA,tube,hammersmith-city,940GZZLUWLA,Wood Lane,2,,True,,False,,940GZZLUWLA,TRUE,False,1.0
-940GZZLUWOF,tube,central,940GZZLUWOF,Woodford,4,,True,,True,10.0,940GZZLUWOF,FALSE,False,1.0
-940GZZLUWOF,tube,central,940GZZLUWOF,Woodford,4,,True,,True,10.0,940GZZLUWOF,FALSE,False,2.0
-940GZZLUWOG,tube,piccadilly,940GZZLUWOG,Wood Green,3,,True,,False,,,,,
-940GZZLUWOP,tube,northern,940GZZLUWOP,Woodside Park,4,,True,,True,5.0,940GZZLUWOP,FALSE,False,1.0
-940GZZLUWOP,tube,northern,940GZZLUWOP,Woodside Park,4,,True,,True,5.0,940GZZLUWOP,FALSE,False,2.0
-940GZZLUWRR,tube,northern,940GZZLUWRR,Warren Street,1,,True,,False,,,,,
-940GZZLUWRR,tube,victoria,940GZZLUWRR,Warren Street,1,,True,,False,,,,,
-940GZZLUWSD,tube,central,940GZZLUWSD,Wanstead,4,,True,,False,,,,,
-940GZZLUWSP,tube,circle,940GZZLUWSP,Westbourne Park,2,,True,,False,,,,,
-940GZZLUWSP,tube,hammersmith-city,940GZZLUWSP,Westbourne Park,2,,True,,False,,,,,
-940GZZLUWTA,tube,central,940GZZLUWTA,West Acton,3,,True,,False,,940GZZLUWTA,FALSE,False,1.0
-940GZZLUWTA,tube,central,940GZZLUWTA,West Acton,3,,True,,False,,940GZZLUWTA,FALSE,False,2.0
-940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,1.0
-940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,2.0
-940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,TRUE,False,3.0
-940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,1.0
-940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,2.0
-940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,TRUE,False,3.0
-940GZZLUAMS,tube,metropolitan,,,,,,,,,,,,
-910GAMERSHM,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUBLM,tube,northern,,,,,,,,,,,,
-910GBALHAM,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUBNK,tube,northern,,,,,,,,,,,,
-940GZZLUBNK,tube,central,,,,,,,,,,,,
-940GZZLUBNK,tube,waterloo-city,,,,,,,,,,,,
-940GZZDLBNK,dlr,dlr,,,,,,,,,,,,
-940GZZCRBEK,tram,tram,,,,,,,,,,,,
-910GBCKNHMJ,nationalRail,national-rail,,,,,,,,,,,,
-910GBLFR,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUBKF,tube,circle,,,,,,,,,,,,
-940GZZLUBKF,tube,district,,,,,,,,,,,,
-940GZZLUBLR,tube,victoria,,,,,,,,,,,,
-910GBLCHSRD,overground,suffragette,,,,,,,,,,,,
-940GZZCRBIR,tram,tram,,,,,,,,,,,,
-910GBIRKBCK,nationalRail,national-rail,,,,,,,,,,,,
-910GBARKING,overground,suffragette,,,,,,,,,,,,
-940GZZLUBKG,tube,district,,,,,,,,,,,,
-940GZZLUBKG,tube,hammersmith-city,,,,,,,,,,,,
-910GBARKING,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUBXN,tube,victoria,,,,,,,,,,,,
-910GBRIXTON,nationalRail,national-rail,,,,,,,,,,,,
-910GBUSHEY,overground,lioness,,,,,,,,,,,,
-910GBUSHEY,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLCGT,dlr,dlr,,,,,,,,,,,,
-940GZZLUCGT,tube,jubilee,,,,,,,,,,,,
-940GZZDLCAN,dlr,dlr,,,,,,,,,,,,
-940GZZLUCYF,tube,jubilee,,,,,,,,,,,,
-910GCANWHRF,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZLUCAL,tube,metropolitan,,,,,,,,,,,,
-910GCHLFNAL,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUCHX,tube,bakerloo,,,,,,,,,,,,
-940GZZLUCHX,tube,northern,,,,,,,,,,,,
-910GCHRX,nationalRail,national-rail,,,,,,,,,,,,
-910GCLPHMJ1,overground,mildmay,,,,,,,,,,,,
-910GCLPHMJ1,overground,windrush,,,,,,,,,,,,
-940GZZLUCYD,tube,metropolitan,,,,,,,,,,,,
-910GCHRW,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUCST,tube,circle,,,,,,,,,,,,
-940GZZLUCST,tube,district,,,,,,,,,,,,
-910GCANONST,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLCUT,dlr,dlr,,,,,,,,,,,,
-910GCRYSTLP,overground,windrush,,,,,,,,,,,,
-910GEALINGB,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GEALINGB,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUEBY,tube,central,,,,,,,,,,,,
-940GZZLUEBY,tube,district,,,,,,,,,,,,
-940GZZCRECR,tram,tram,,,,,,,,,,,,
-910GECROYDN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZCRELM,tram,tram,,,,,,,,,,,,
-940GZZLUEAC,tube,northern,,,,,,,,,,,,
-910GELPHNAC,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUEAC,tube,bakerloo,,,,,,,,,,,,
-940GZZLUEUS,tube,northern,,,,,,,,,,,,
-940GZZLUEUS,tube,victoria,,,,,,,,,,,,
-910GEUSTON,overground,lioness,,,,,,,,,,,,
-910GEUSTON,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUFPK,tube,piccadilly,,,,,,,,,,,,
-940GZZLUFPK,tube,victoria,,,,,,,,,,,,
-910GFNPK,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUGFD,tube,central,,,,,,,,,,,,
-910GGFORD,nationalRail,national-rail,,,,,,,,,,,,
-910GGNWH,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLGRE,dlr,dlr,,,,,,,,,,,,
-940GZZLUGBY,tube,district,,,,,,,,,,,,
-910GGNRSBRY,overground,mildmay,,,,,,,,,,,,
-940GZZLUHRC,tube,piccadilly,,,,,,,,,,,,
-910GHTRWAPT,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GHTRWAPT,nationalRail,national-rail,,,,,,,,,,,,
-910GHARLSDN,overground,lioness,,,,,,,,,,,,
-940GZZLUHSN,tube,bakerloo,,,,,,,,,,,,
-910GHGHI,overground,windrush,,,,,,,,,,,,
-940GZZLUHAI,tube,victoria,,,,,,,,,,,,
-910GHGHI,overground,mildmay,,,,,,,,,,,,
-940GZZLUHSC,tube,circle,,,,,,,,,,,,
-940GZZLUHSC,tube,hammersmith-city,,,,,,,,,,,,
-940GZZLUHSD,tube,district,,,,,,,,,,,,
-940GZZLUHSD,tube,piccadilly,,,,,,,,,,,,
-940GZZLUHOH,tube,metropolitan,,,,,,,,,,,,
-910GHAROOTH,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUHAW,tube,bakerloo,,,,,,,,,,,,
-910GHROW,overground,lioness,,,,,,,,,,,,
-910GHTRWTM4,elizabeth-line,elizabeth,,,,,,,,,,,,
-9400GZLUHR41,tube,piccadilly,,,,,,,,,,,,
-910GHTRWTM5,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GHTRWTM6,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUHR5,tube,piccadilly,,,,,,,,,,,,
-910GCSEAH,overground,mildmay,,,,,,,,,,,,
-910GCSEAH,nationalRail,national-rail,,,,,,,,,,,,
-910GKNGX,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUKSX,tube,circle,,,,,,,,,,,,
-940GZZLUKSX,tube,hammersmith-city,,,,,,,,,,,,
-940GZZLUKSX,tube,metropolitan,,,,,,,,,,,,
-940GZZLUKSX,tube,victoria,,,,,,,,,,,,
-940GZZLUKSX,tube,piccadilly,,,,,,,,,,,,
-940GZZLUKSX,tube,northern,,,,,,,,,,,,
-940GZZLUKSL,tube,bakerloo,,,,,,,,,,,,
-910GKENSLG,overground,lioness,,,,,,,,,,,,
-940GZZLUKEN,tube,bakerloo,,,,,,,,,,,,
-910GKTON,overground,lioness,,,,,,,,,,,,
-940GZZLUKOY,tube,district,,,,,,,,,,,,
-910GKENOLYM,overground,mildmay,,,,,,,,,,,,
-910GKENOLYM,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUKSH,tube,northern,,,,,,,,,,,,
-910GKNTSHTN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUKWG,tube,district,,,,,,,,,,,,
-910GKEWGRDN,overground,mildmay,,,,,,,,,,,,
-940GZZLULNB,tube,northern,,,,,,,,,,,,
-940GZZLULNB,tube,jubilee,,,,,,,,,,,,
-910GLNDNBDC,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLLCA,dlr,dlr,,,,,,,,,,,,
-940GZZDLLEW,dlr,dlr,,,,,,,,,,,,
-940GZZDLLIM,dlr,dlr,,,,,,,,,,,,
-940GZZLULVT,tube,circle,,,,,,,,,,,,
-940GZZLULVT,tube,hammersmith-city,,,,,,,,,,,,
-940GZZLULVT,tube,metropolitan,,,,,,,,,,,,
-910GLIVST,overground,weaver,,,,,,,,,,,,
-910GLIVST,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLULVT,tube,central,,,,,,,,,,,,
-910GLIVST,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GLIVSTLL,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZCRMJT,tram,tram,,,,,,,,,,,,
-910GMITCHMJ,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUMYB,tube,bakerloo,,,,,,,,,,,,
-910GMARYLBN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUNWY,tube,bakerloo,,,,,,,,,,,,
-910GNWEMBLY,overground,lioness,,,,,,,,,,,,
-910GNORWDJ,overground,windrush,,,,,,,,,,,,
-910GNORWDJ,nationalRail,national-rail,,,,,,,,,,,,
-910GNWCRELL,overground,windrush,,,,,,,,,,,,
-910GNEWXGTE,overground,windrush,,,,,,,,,,,,
-940GZZLUODS,tube,northern,,,,,,,,,,,,
-910GOLDST,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUPAC,tube,circle,,,,,,,,,,,,
-940GZZLUPAC,tube,district,,,,,,,,,,,,
-940GZZLUPAC,tube,bakerloo,,,,,,,,,,,,
-910GPADTON,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GPADTON,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUPAH,tube,circle,,,,,,,,,,,,
-940GZZLUPAH,tube,hammersmith-city,,,,,,,,,,,,
-910GPADTLL,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GQPRK,overground,lioness,,,,,,,,,,,,
-940GZZLUQPS,tube,bakerloo,,,,,,,,,,,,
-940GZZLURKW,tube,metropolitan,,,,,,,,,,,,
-910GRCKMNSW,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLURMD,tube,district,,,,,,,,,,,,
-910GRICHMND,overground,mildmay,,,,,,,,,,,,
-940GZZLUSGP,tube,bakerloo,,,,,,,,,,,,
-910GSTNBGPK,overground,lioness,,,,,,,,,,,,
-940GZZDLSHA,dlr,dlr,,,,,,,,,,,,
-910GSHADWEL,overground,windrush,,,,,,,,,,,,
-940GZZLUSKT,tube,bakerloo,,,,,,,,,,,,
-910GSKENTON,overground,lioness,,,,,,,,,,,,
-910GSHPDSB,overground,mildmay,,,,,,,,,,,,
-910GSHPDSB,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUSBC,tube,central,,,,,,,,,,,,
-910GSTFD,overground,mildmay,,,,,,,,,,,,
-940GZZLUSTD,tube,central,,,,,,,,,,,,
-910GSTFD,elizabeth-line,elizabeth,,,,,,,,,,,,
-910GSTFD,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUSTD,tube,jubilee,,,,,,,,,,,,
-940GZZDLSTD,dlr,dlr,,,,,,,,,,,,
-940GZZLUSRP,tube,central,,,,,,,,,,,,
-910GSEVNSIS,overground,weaver,,,,,,,,,,,,
-910GSEVNSIS,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUSVS,tube,victoria,,,,,,,,,,,,
-910GSYDENHM,overground,windrush,,,,,,,,,,,,
-910GSYDENHM,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLTWG,dlr,dlr,,,,,,,,,,,,
-940GZZLUTMH,tube,victoria,,,,,,,,,,,,
-940GZZLUUPM,tube,district,,,,,,,,,,,,
-910GUPMNSTR,overground,liberty,,,,,,,,,,,,
-940GZZLUVIC,tube,circle,,,,,,,,,,,,
-940GZZLUVIC,tube,district,,,,,,,,,,,,
-940GZZLUVIC,tube,victoria,,,,,,,,,,,,
-940GZZLUVXL,tube,victoria,,,,,,,,,,,,
-940GZZLUWLO,tube,northern,,,,,,,,,,,,
-940GZZLUWLO,tube,bakerloo,,,,,,,,,,,,
-940GZZLUWLO,tube,jubilee,,,,,,,,,,,,
-940GZZLUWLO,tube,waterloo-city,,,,,,,,,,,,
-940GZZLUWBN,tube,district,,,,,,,,,,,,
-910GWBRMPTN,overground,mildmay,,,,,,,,,,,,
-910GWBRMPTN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZCRWCR,tram,tram,,,,,,,,,,,,
-910GWCROYDN,overground,windrush,,,,,,,,,,,,
-910GWCROYDN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUWHM,tube,district,,,,,,,,,,,,
-940GZZLUWHM,tube,hammersmith-city,,,,,,,,,,,,
-940GZZDLWHM,dlr,dlr,,,,,,,,,,,,
-940GZZLUWHM,tube,jubilee,,,,,,,,,,,,
-910GWHAMHL,nationalRail,national-rail,,,,,,,,,,,,
-910GWATFDJ,overground,lioness,,,,,,,,,,,,
-910GWLTWCEN,overground,weaver,,,,,,,,,,,,
-940GZZLUWWL,tube,victoria,,,,,,,,,,,,
-940GZZLUWJN,tube,bakerloo,,,,,,,,,,,,
-910GWLSDJHL,overground,lioness,,,,,,,,,,,,
-910GWLSDJHL,overground,mildmay,,,,,,,,,,,,
-940GZZCRWMB,tram,tram,,,,,,,,,,,,
-940GZZLUWIM,tube,district,,,,,,,,,,,,
-910GWIMBLDN,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUWYC,tube,bakerloo,,,,,,,,,,,,
-910GWMBY,overground,lioness,,,,,,,,,,,,
-910GWMBY,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUWRP,tube,central,,,,,,,,,,,,
-940GZZLUWSM,tube,circle,,,,,,,,,,,,
-940GZZLUWSM,tube,district,,,,,,,,,,,,
-940GZZLUWSM,tube,jubilee,,,,,,,,,,,,
-910GWOLWCHA,nationalRail,national-rail,,,,,,,,,,,,
-940GZZDLWLA,dlr,dlr,,,,,,,,,,,,
-940GZZLUCWR,tube,jubilee,,,,,,,,,,,,
-910GCNDAW,overground,windrush,,,,,,,,,,,,
-940GZZLUFCN,tube,circle,,,,,,,,,,,,
-940GZZLUFCN,tube,hammersmith-city,,,,,,,,,,,,
-940GZZLUFCN,tube,metropolitan,,,,,,,,,,,,
-910GFRNDNLT,nationalRail,national-rail,,,,,,,,,,,,
-910GFRNDXR,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZLUMGT,tube,circle,,,,,,,,,,,,
-940GZZLUMGT,tube,hammersmith-city,,,,,,,,,,,,
-940GZZLUMGT,tube,metropolitan,,,,,,,,,,,,
-940GZZLUMGT,tube,northern,,,,,,,,,,,,
-910GMGRT,nationalRail,national-rail,,,,,,,,,,,,
-940GZZLUWPL,tube,district,,,,,,,,,,,,
-940GZZLUWPL,tube,hammersmith-city,,,,,,,,,,,,
-910GWCHAPEL,overground,windrush,,,,,,,,,,,,
-910GWCHAPXR,elizabeth-line,elizabeth,,,,,,,,,,,,
-940GZZBPSUST,tube,northern,940GZZBPSUST,Battersea Power Station,1,,True,,False,,940GZZBPSUST,TRUE,False,1.0
-940GZZNEUGST,tube,northern,940GZZNEUGST,Nine Elms,1,,True,,False,,940GZZNEUGST,TRUE,False,1.0
-910GBKRVS,overground,suffragette,910GBKRVS,Barking Riverside,4,910GBKRVS,True,,False,,910GBKRVS,TRUE,False,1.0
+StopAreaNaptanCode,Mode,Line,UniqueId,Name,FareZones,HubNaptanCode,Wifi,AirportInterchange,BlueBadgeCarParking,BlueBadgeCarParkSpaces,StationUniqueId,IsAccessible,IsFeeCharged,Id,Type
+910GABWD,nationalRail,national-rail,,,,,,,,,,,,,
+910GABWD,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GACTNCTL,overground,mildmay,910GACTNCTL,Acton Central,3,,True,,False,0.0,,,,,
+910GACTONML,elizabeth-line,elizabeth,910GACTONML,Acton Main Line,3,,False,,False,0.0,910GACTONML,TRUE,False,1.0,Unisex
+910GANERLEY,overground,windrush,910GANERLEY,Anerley,4,,True,,False,0.0,,,,,
+910GANERLEY,nationalRail,national-rail,910GANERLEY,Anerley,4,,True,,False,0.0,,,,,
+910GBCKNHMH,nationalRail,national-rail,910GBCKNHMH,Beckenham Hill,4,,False,,False,0.0,,,,,
+910GBELNGHM,nationalRail,national-rail,910GBELNGHM,Bellingham,3,,False,,False,0.0,,,,,
+910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,FALSE,False,1.0,Male
+910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,FALSE,False,2.0,Female
+910GBHILLPK,overground,weaver,910GBHILLPK,Bush Hill Park,5,,True,,True,2.0,910GBHILLPK,TRUE,False,3.0,Unisex
+910GBICKLEY,nationalRail,national-rail,910GBICKLEY,Bickley,5,,False,,False,0.0,,,,,
+910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,FALSE,False,1.0,Male
+910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,FALSE,False,2.0,Female
+910GBNHAM,elizabeth-line,elizabeth,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,TRUE,False,3.0,Unisex
+910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,FALSE,False,1.0,Male
+910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,FALSE,False,2.0,Female
+910GBNHAM,nationalRail,national-rail,910GBNHAM,Burnham,Outside,,False,,False,0.0,910GBNHAM,TRUE,False,3.0,Unisex
+910GBRBYPK,overground,mildmay,910GBRBYPK,Brondesbury Park,2,,False,,False,0.0,,,,,
+910GBRBY,overground,mildmay,910GBRBY,Brondesbury,2,,True,,False,0.0,,,,,
+910GBRENTX,nationalRail,national-rail,910GBRENTX,Brent Cross West Station,3,,False,,False,0.0,,,,,
+910GBROCKLY,overground,windrush,910GBROCKLY,Brockley,2,,True,,False,0.0,,,,,
+910GBROCKLY,nationalRail,national-rail,910GBROCKLY,Brockley,2,,True,,False,0.0,,,,,
+910GBROMLYS,nationalRail,national-rail,910GBROMLYS,Bromley South,5,,False,,False,0.0,,,,,
+910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,FALSE,False,1.0,Male
+910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,FALSE,False,2.0,Female
+910GBRTWOOD,elizabeth-line,elizabeth,910GBRTWOOD,Brentwood,9,,True,,True,17.0,910GBRTWOOD,TRUE,False,3.0,Unisex
+910GBRUCGRV,overground,weaver,910GBRUCGRV,Bruce Grove,3,,True,,False,0.0,,,,,
+910GBTHNLGR,overground,weaver,910GBTHNLGR,Bethnal Green,2,,True,,False,0.0,,,,,
+910GCAMHTH,overground,weaver,910GCAMHTH,Cambridge Heath,2,,False,,False,0.0,,,,,
+910GCATFORD,nationalRail,national-rail,910GCATFORD,Catford,3,,False,,False,0.0,,,,,
+910GCFPK,nationalRail,national-rail,910GCFPK,Crofton Park,3,,False,,False,0.0,,,,,
+910GCHDWLHT,elizabeth-line,elizabeth,910GCHDWLHT,Chadwell Heath,5,,False,,False,0.0,910GCHDWLHT,TRUE,False,1.0,Unisex
+910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,1.0,Male
+910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,2.0,Female
+910GCHESHNT,nationalRail,national-rail,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,TRUE,False,3.0,Unisex
+910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,1.0,Male
+910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,FALSE,False,2.0,Female
+910GCHESHNT,overground,weaver,910GCHESHNT,Cheshunt,8,,True,,True,5.0,910GCHESHNT,TRUE,False,3.0,Unisex
+910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,FALSE,False,1.0,Male
+910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,FALSE,False,2.0,Female
+910GCHINGFD,overground,weaver,910GCHINGFD,Chingford,5,,True,,True,3.0,910GCHINGFD,TRUE,False,3.0,Unisex
+910GCLAPTON,overground,weaver,910GCLAPTON,Clapton,2|3,,True,,False,0.0,,,,,
+910GCLDNNRB,overground,mildmay,910GCLDNNRB,Caledonian Road & Barnsbury,2,,False,,False,0.0,,,,,
+910GCLPHHS,overground,windrush,910GCLPHHS,Clapham High Street,2,,False,,False,0.0,,,,,
+910GCMDNRD,overground,mildmay,910GCMDNRD,Camden Road,2,,True,,False,0.0,,,,,
+910GCNNB,overground,windrush,910GCNNB,Canonbury,2,,False,,False,0.0,,,,,
+910GCNNB,overground,mildmay,910GCNNB,Canonbury,2,,False,,False,0.0,,,,,
+910GCOLSDNS,nationalRail,national-rail,910GCOLSDNS,Coulsdon South,6,,True,,False,0.0,,,,,
+910GCRKLWD,nationalRail,national-rail,910GCRKLWD,Cricklewood,3,,True,,False,0.0,,,,,
+910GCRLN,nationalRail,national-rail,910GCRLN,Charlton,3,,False,,False,0.0,,,,,
+910GCROUCHH,overground,suffragette,910GCROUCHH,Crouch Hill,3,,False,,False,0.0,,,,,
+910GCRPNDPK,overground,lioness,910GCRPNDPK,Carpenders Park,7,,True,,False,0.0,,,,,
+910GCRSHLTN,nationalRail,national-rail,910GCRSHLTN,Carshalton,5,,True,,False,0.0,,,,,
+910GCTMSLNK,nationalRail,national-rail,910GCTMSLNK,City Thameslink,1,,True,,False,0.0,,,,,
+910GDALSKLD,overground,mildmay,910GDALSKLD,Dalston Kingsland,2,,False,,False,0.0,,,,,
+910GDALS,overground,windrush,910GDALS,Dalston Junction,2,,False,,False,0.0,910GDALS,TRUE,False,1.0,Unisex
+910GDARTFD,nationalRail,national-rail,910GDARTFD,Dartford,8,,False,,False,0.0,,,,,
+910GDENMRKH,overground,windrush,910GDENMRKH,Denmark Hill,2,,True,,False,0.0,910GDENMRKH,TRUE,False,1.0,Unisex
+910GDENMRKH,nationalRail,national-rail,910GDENMRKH,Denmark Hill,2,,True,,False,0.0,910GDENMRKH,TRUE,False,1.0,Unisex
+910GDEPTFD,nationalRail,national-rail,910GDEPTFD,Deptford,2,,False,,False,0.0,,,,,
+910GEDMNGRN,overground,weaver,910GEDMNGRN,Edmonton Green,4,,True,,False,0.0,,,,,
+910GELTR,nationalRail,national-rail,910GELTR,Elstree & Borehamwood,6,,True,,False,0.0,,,,,
+910GEMRSPKH,overground,liberty,910GEMRSPKH,Emerson Park,6,,False,,False,0.0,,,,,
+910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,0.0,910GENFLDTN,FALSE,False,1.0,Male
+910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,0.0,910GENFLDTN,FALSE,False,2.0,Female
+910GENFLDTN,overground,weaver,910GENFLDTN,Enfield Town,5,,True,,False,0.0,910GENFLDTN,TRUE,False,3.0,Unisex
+910GESTFLDS,nationalRail,national-rail,910GESTFLDS,Mitcham Eastfields,3,,False,,False,0.0,,,,,
+910GFNCHLYR,overground,mildmay,910GFNCHLYR,Finchley Road & Frognal,2,,True,,False,0.0,,,,,
+910GFORESTH,overground,windrush,910GFORESTH,Forest Hill,3,,False,,True,1.0,,,,,
+910GFORESTH,nationalRail,national-rail,910GFORESTH,Forest Hill,3,,False,,True,1.0,,,,,
+910GFRSTGT,elizabeth-line,elizabeth,910GFRSTGT,Forest Gate,3,,False,,False,0.0,910GFRSTGT,TRUE,False,1.0,Unisex
+910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,0.0,910GGIDEAPK,FALSE,False,1.0,Male
+910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,0.0,910GGIDEAPK,FALSE,False,2.0,Female
+910GGIDEAPK,elizabeth-line,elizabeth,910GGIDEAPK,Gidea Park,6,,True,,False,0.0,910GGIDEAPK,TRUE,False,3.0,Unisex
+910GGODMAYS,elizabeth-line,elizabeth,910GGODMAYS,Goodmayes,4,,True,,False,0.0,910GGODMAYS,TRUE,False,1.0,Unisex
+910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,FALSE,False,1.0,Male
+910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,FALSE,False,2.0,Female
+910GGOSPLOK,overground,mildmay,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,TRUE,False,3.0,Unisex
+910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,FALSE,False,1.0,Male
+910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,FALSE,False,2.0,Female
+910GGOSPLOK,overground,suffragette,910GGOSPLOK,Gospel Oak,2,,True,,False,0.0,910GGOSPLOK,TRUE,False,3.0,Unisex
+910GHACKNYC,overground,mildmay,910GHACKNYC,Hackney Central,2,,True,,False,0.0,,,,,
+910GHACKNYW,overground,mildmay,910GHACKNYW,Hackney Wick,2,,False,,False,0.0,,,,,
+910GHAGGERS,overground,windrush,910GHAGGERS,Haggerston,2,,False,,False,0.0,910GHAGGERS,TRUE,False,1.0,Unisex
+910GHAKNYNM,overground,weaver,910GHAKNYNM,Hackney Downs,2,,True,,False,0.0,,,,,
+910GHAKNYNM,nationalRail,national-rail,910GHAKNYNM,Hackney Downs,2,,True,,False,0.0,,,,,
+910GHANWELL,elizabeth-line,elizabeth,910GHANWELL,Hanwell,4,,False,,False,0.0,910GHANWELL,TRUE,False,1.0,Unisex
+910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,TRUE,False,1.0,Unisex
+910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,FALSE,False,2.0,Male
+910GHAYESAH,elizabeth-line,elizabeth,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,FALSE,False,3.0,Female
+910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,TRUE,False,1.0,Unisex
+910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,FALSE,False,2.0,Male
+910GHAYESAH,nationalRail,national-rail,910GHAYESAH,Hayes & Harlington,5,,False,,False,0.0,910GHAYESAH,FALSE,False,3.0,Female
+910GHDON,nationalRail,national-rail,910GHDON,Hendon,3|4,,True,,False,0.0,,,,,
+910GHEDSTNL,overground,lioness,910GHEDSTNL,Headstone Lane,5,,True,,False,0.0,,,,,
+910GHERNEH,nationalRail,national-rail,910GHERNEH,Herne Hill,2|3,,False,,False,0.0,,,,,
+910GHGHMSPK,overground,weaver,910GHGHMSPK,Highams Park,4,,True,,True,2.0,,,,,
+910GHKBG,nationalRail,national-rail,910GHKBG,Hackbridge,4,,False,,False,0.0,,,,,
+910GHMPSTDH,overground,mildmay,910GHMPSTDH,Hampstead Heath,2,,True,,False,0.0,,,,,
+910GHOMRTON,overground,mildmay,910GHOMRTON,Homerton,2,,True,,False,0.0,,,,,
+910GHONROPK,overground,windrush,910GHONROPK,Honor Oak Park,3,,True,,False,0.0,,,,,
+910GHONROPK,nationalRail,national-rail,910GHONROPK,Honor Oak Park,3,,True,,False,0.0,,,,,
+910GHOXTON,overground,windrush,910GHOXTON,Hoxton,1|2,,False,,False,0.0,910GHOXTON,TRUE,False,1.0,Unisex
+910GHRGYGL,overground,suffragette,910GHRGYGL,Harringay Green Lanes,3,,False,,False,0.0,,,,,
+910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,FALSE,False,1.0,Male
+910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,FALSE,False,2.0,Female
+910GHRLDWOD,elizabeth-line,elizabeth,910GHRLDWOD,Harold Wood,6,,False,,True,2.0,910GHRLDWOD,TRUE,False,3.0,Unisex
+910GHTCHEND,overground,lioness,910GHTCHEND,Hatch End,6,,False,,True,2.0,,,,,
+910GHYDNSRD,nationalRail,national-rail,910GHYDNSRD,Haydons Road,3,,False,,False,0.0,,,,,
+910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,0.0,910GILFORD,FALSE,False,1.0,Male
+910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,0.0,910GILFORD,FALSE,False,2.0,Female
+910GILFORD,elizabeth-line,elizabeth,910GILFORD,Ilford,4,,False,,False,0.0,910GILFORD,TRUE,False,3.0,Unisex
+910GIVER,elizabeth-line,elizabeth,910GIVER,Iver,Outside,,False,,False,0.0,910GIVER,TRUE,False,1.0,Unisex
+910GIVER,nationalRail,national-rail,910GIVER,Iver,Outside,,False,,False,0.0,910GIVER,TRUE,False,1.0,Unisex
+910GKENR,overground,mildmay,910GKENR,Kensal Rise,2,,True,,False,0.0,,,,,
+910GKLBRNHR,overground,lioness,910GKLBRNHR,Kilburn High Road,2,,True,,False,0.0,,,,,
+910GKNTSHTW,overground,mildmay,910GKNTSHTW,Kentish Town West,2,,False,,False,0.0,,,,,
+910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,FALSE,False,1.0,Male
+910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,FALSE,False,2.0,Female
+910GLANGLEY,elizabeth-line,elizabeth,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,TRUE,False,3.0,Unisex
+910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,FALSE,False,1.0,Male
+910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,FALSE,False,2.0,Female
+910GLANGLEY,nationalRail,national-rail,910GLANGLEY,Langley,Outside,,False,,False,0.0,910GLANGLEY,TRUE,False,3.0,Unisex
+910GLBGHJN,nationalRail,national-rail,910GLBGHJN,Loughborough Junction,2,,True,,False,0.0,,,,,
+910GLEYTNMR,overground,suffragette,910GLEYTNMR,Leyton Midland Road,3,,True,,False,0.0,,,,,
+910GLONFLDS,overground,weaver,910GLONFLDS,London Fields,2,,True,,False,0.0,,,,,
+910GLYTNSHR,overground,suffragette,910GLYTNSHR,Leytonstone High Road,3,,False,,False,0.0,,,,,
+910GMANRPK,elizabeth-line,elizabeth,910GMANRPK,Manor Park,3|4,,True,,False,0.0,910GMANRPK,TRUE,False,1.0,Unisex
+910GMAZEH,nationalRail,national-rail,910GMAZEH,Maze Hill,3,,False,,False,0.0,,,,,
+910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,FALSE,False,1.0,Male
+910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,FALSE,False,2.0,Female
+910GMDNHEAD,elizabeth-line,elizabeth,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,TRUE,False,3.0,Unisex
+910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,FALSE,False,1.0,Male
+910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,FALSE,False,2.0,Female
+910GMDNHEAD,nationalRail,national-rail,910GMDNHEAD,Maidenhead,Outside,,True,,False,0.0,910GMDNHEAD,TRUE,False,3.0,Unisex
+910GMLHB,nationalRail,national-rail,910GMLHB,Mill Hill Broadway,4,,True,,False,0.0,,,,,
+910GMORDENS,nationalRail,national-rail,910GMORDENS,Morden South,4,,False,,False,0.0,,,,,
+910GMRYLAND,elizabeth-line,elizabeth,910GMRYLAND,Maryland,3,,True,,False,0.0,910GMRYLAND,TRUE,False,1.0,Unisex
+910GNBARNET,nationalRail,national-rail,910GNBARNET,New Barnet,5,,True,,False,0.0,,,,,
+910GNEWSGAT,nationalRail,national-rail,910GNEWSGAT,New Southgate,4,,False,,False,0.0,,,,,
+910GNUNHEAD,nationalRail,national-rail,910GNUNHEAD,Nunhead,2,,False,,False,0.0,,,,,
+910GOKLGHPK,nationalRail,national-rail,910GOKLGHPK,Oakleigh Park,4,,True,,False,0.0,,,,,
+910GORPNGTN,nationalRail,national-rail,910GORPNGTN,Orpington,6,,False,,False,0.0,,,,,
+910GPCKHMQD,overground,windrush,910GPCKHMQD,Queens Road Peckham,2,,True,,False,0.0,,,,,
+910GPCKHMQD,nationalRail,national-rail,910GPCKHMQD,Queens Road Peckham,2,,True,,False,0.0,,,,,
+910GPCKHMRY,overground,windrush,910GPCKHMRY,Peckham Rye,2,,False,,False,0.0,,,,,
+910GPCKHMRY,nationalRail,national-rail,910GPCKHMRY,Peckham Rye,2,,False,,False,0.0,,,,,
+910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,1.0,Male
+910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,2.0,Female
+910GPENEW,overground,windrush,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,TRUE,False,3.0,Unisex
+910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,1.0,Male
+910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,FALSE,False,2.0,Female
+910GPENEW,nationalRail,national-rail,910GPENEW,Penge West,4,,True,,True,2.0,910GPENEW,TRUE,False,3.0,Unisex
+910GPETSWD,nationalRail,national-rail,910GPETSWD,Petts Wood,5,,False,,False,0.0,,,,,
+910GPLMS,nationalRail,national-rail,910GPLMS,Plumstead,4,,False,,False,0.0,,,,,
+910GPURLEY,nationalRail,national-rail,910GPURLEY,Purley,6,,True,,False,0.0,,,,,
+910GRBRN,nationalRail,national-rail,910GRBRN,Ravensbourne,4,,False,,False,0.0,,,,,
+910GRCTRYRD,overground,weaver,910GRCTRYRD,Rectory Road,2,,True,,False,0.0,,,,,
+910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,FALSE,False,1.0,Male
+910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,FALSE,False,2.0,Female
+910GRDNGSTN,elizabeth-line,elizabeth,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,TRUE,False,3.0,Unisex
+910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,FALSE,False,1.0,Male
+910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,FALSE,False,2.0,Female
+910GRDNGSTN,nationalRail,national-rail,910GRDNGSTN,Reading,Outside,,False,,False,0.0,910GRDNGSTN,TRUE,False,3.0,Unisex
+910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,1.0,Male
+910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,2.0,Female
+910GROMFORD,overground,liberty,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,TRUE,False,3.0,Unisex
+910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,1.0,Male
+910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,2.0,Female
+910GROMFORD,elizabeth-line,elizabeth,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,TRUE,False,3.0,Unisex
+910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,1.0,Male
+910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,FALSE,False,2.0,Female
+910GROMFORD,nationalRail,national-rail,910GROMFORD,Romford,6,,True,,False,0.0,910GROMFORD,TRUE,False,3.0,Unisex
+910GRTHERHI,overground,windrush,910GRTHERHI,Rotherhithe,2,,False,,False,0.0,,,,,
+910GSACTON,overground,mildmay,910GSACTON,South Acton,3,,True,,False,0.0,,,,,
+910GSBURY,overground,weaver,910GSBURY,Southbury,5,,True,,False,0.0,,,,,
+910GSCROYDN,nationalRail,national-rail,910GSCROYDN,South Croydon,5,,True,,False,0.0,,,,,
+910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,FALSE,False,1.0,Male
+910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,FALSE,False,2.0,Female
+910GSHENFLD,nationalRail,national-rail,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,TRUE,False,3.0,Unisex
+910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,FALSE,False,1.0,Male
+910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,FALSE,False,2.0,Female
+910GSHENFLD,elizabeth-line,elizabeth,910GSHENFLD,Shenfield,Outside,,True,,False,0.0,910GSHENFLD,TRUE,False,3.0,Unisex
+910GSHLIER,nationalRail,national-rail,910GSHLIER,St Helier (London),4,,False,,False,0.0,,,,,
+910GSHMPSTD,overground,lioness,910GSHMPSTD,South Hampstead,2,,False,,False,0.0,,,,,
+910GSHRDHST,overground,windrush,910GSHRDHST,Shoreditch High Street,1,,False,,False,0.0,910GSHRDHST,TRUE,False,1.0,Unisex
+910GSHRTLND,nationalRail,national-rail,910GSHRTLND,Shortlands,4,,False,,False,0.0,,,,,
+910GSIVRST,overground,weaver,910GSIVRST,Silver Street,4,,True,,False,0.0,,,,,
+910GSLADEGN,nationalRail,national-rail,910GSLADEGN,Slade Green,6,,False,,False,0.0,,,,,
+910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,FALSE,False,1.0,Male
+910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,FALSE,False,2.0,Female
+910GSLOUGH,nationalRail,national-rail,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,TRUE,False,3.0,Unisex
+910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,FALSE,False,1.0,Male
+910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,FALSE,False,2.0,Female
+910GSLOUGH,elizabeth-line,elizabeth,910GSLOUGH,Slough,Outside,,True,,False,0.0,910GSLOUGH,TRUE,False,3.0,Unisex
+910GSMERTON,nationalRail,national-rail,910GSMERTON,South Merton,4,,False,,False,0.0,,,,,
+910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,FALSE,False,1.0,Male
+910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,FALSE,False,2.0,Female
+910GSTHALL,elizabeth-line,elizabeth,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,TRUE,False,3.0,Unisex
+910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,FALSE,False,1.0,Male
+910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,FALSE,False,2.0,Female
+910GSTHALL,nationalRail,national-rail,910GSTHALL,Southall,4,,False,,False,0.0,910GSTHALL,TRUE,False,3.0,Unisex
+910GSTJMSST,overground,weaver,910GSTJMSST,St James Street,3,,True,,False,0.0,,,,,
+910GSTKNWNG,overground,weaver,910GSTKNWNG,Stoke Newington,2,,True,,False,0.0,,,,,
+910GSTMFDHL,overground,weaver,910GSTMFDHL,Stamford Hill,3,,True,,False,0.0,,,,,
+910GSTMRYC,nationalRail,national-rail,910GSTMRYC,St Mary Cray,6,,False,,False,0.0,,,,,
+910GSTOTNHM,overground,suffragette,910GSTOTNHM,South Tottenham,3,,False,,False,0.0,,,,,
+910GSTPXBOX,nationalRail,national-rail,,,,,,,,,,,,,
+910GSTPADOM,nationalRail,national-rail,,,,,,,,,,,,,
+910GSTRETHM,nationalRail,national-rail,910GSTRETHM,Streatham,3,,True,,False,0.0,,,,,
+910GSURREYQ,overground,windrush,910GSURREYQ,Surrey Quays,2,,False,,False,0.0,,,,,
+910GSUTTONC,nationalRail,national-rail,910GSUTTONC,Sutton Common,4,,False,,False,0.0,,,,,
+910GSUTTON,nationalRail,national-rail,910GSUTTON,Sutton,5,,True,,False,0.0,,,,,
+910GSVNKNGS,elizabeth-line,elizabeth,910GSVNKNGS,Seven Kings,4,,True,,False,0.0,910GSVNKNGS,TRUE,False,1.0,Unisex
+910GSVNKNGS,nationalRail,national-rail,910GSVNKNGS,Seven Kings,4,,True,,False,0.0,910GSVNKNGS,TRUE,False,1.0,Unisex
+910GSWLY,nationalRail,national-rail,910GSWLY,Swanley,8,,False,,False,0.0,,,,,
+910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,FALSE,False,1.0,Male
+910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,FALSE,False,2.0,Female
+910GTAPLOW,elizabeth-line,elizabeth,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,TRUE,False,3.0,Unisex
+910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,FALSE,False,1.0,Male
+910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,FALSE,False,2.0,Female
+910GTAPLOW,nationalRail,national-rail,910GTAPLOW,Taplow,Outside,,False,,False,0.0,910GTAPLOW,TRUE,False,3.0,Unisex
+910GTHBLDSG,overground,weaver,910GTHBLDSG,Theobalds Grove,7,,True,,False,0.0,,,,,
+910GTOOTING,nationalRail,national-rail,910GTOOTING,Tooting,3,,True,,False,0.0,,,,,
+910GTULSEH,nationalRail,national-rail,910GTULSEH,Tulse Hill,3,,True,,False,0.0,,,,,
+910GTURKYST,overground,weaver,910GTURKYST,Turkey Street,6,,True,,False,0.0,,,,,
+910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,FALSE,False,1.0,Male
+910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,FALSE,False,2.0,Female
+910GTWYFORD,elizabeth-line,elizabeth,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,TRUE,False,3.0,Unisex
+910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,FALSE,False,1.0,Male
+910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,FALSE,False,2.0,Female
+910GTWYFORD,nationalRail,national-rail,910GTWYFORD,Twyford,Outside,,True,,False,0.0,910GTWYFORD,TRUE,False,3.0,Unisex
+910GUPRHLWY,overground,suffragette,910GUPRHLWY,Upper Holloway,2,,False,,False,0.0,,,,,
+910GWAPPING,overground,windrush,910GWAPPING,Wapping,2,,False,,False,0.0,,,,,
+910GWATFDHS,overground,lioness,910GWATFDHS,Watford High Street,8,,True,,False,0.0,,,,,
+910GWCOMBEP,nationalRail,national-rail,910GWCOMBEP,Westcombe Park,3,,False,,False,0.0,,,,,
+910GWDGRNPK,overground,suffragette,910GWDGRNPK,Woodgrange Park,3|4,,True,,False,0.0,,,,,
+910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,FALSE,False,1.0,Male
+910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,FALSE,False,2.0,Female
+910GWDRYTON,elizabeth-line,elizabeth,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,TRUE,False,3.0,Unisex
+910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,FALSE,False,1.0,Male
+910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,FALSE,False,2.0,Female
+910GWDRYTON,nationalRail,national-rail,910GWDRYTON,West Drayton,6,,False,,False,0.0,910GWDRYTON,TRUE,False,3.0,Unisex
+910GWDST,overground,weaver,910GWDST,Wood Street,4,,True,,False,0.0,,,,,
+910GWEALING,elizabeth-line,elizabeth,910GWEALING,West Ealing,3,,False,,False,0.0,910GWEALING,TRUE,False,1.0,Unisex
+910GWEALING,nationalRail,national-rail,910GWEALING,West Ealing,3,,False,,False,0.0,910GWEALING,TRUE,False,1.0,Unisex
+910GWHHRTLA,overground,weaver,910GWHHRTLA,White Hart Lane,3,,True,,False,0.0,910GWHHRTLA,TRUE,False,1.0,Unisex
+910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,0.0,910GWHMDSTD,FALSE,False,1.0,Male
+910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,0.0,910GWHMDSTD,FALSE,False,2.0,Female
+910GWHMDSTD,overground,mildmay,910GWHMDSTD,West Hampstead,2,HUBWHD,True,,False,0.0,910GWHMDSTD,TRUE,False,3.0,Unisex
+910GWHMPSTM,nationalRail,national-rail,910GWHMPSTM,West Hampstead Thameslink,2,HUBWHD,True,,False,0.0,,,,,
+910GWIMLCHS,nationalRail,national-rail,910GWIMLCHS,Wimbledon Chase,3,,False,,False,0.0,,,,,
+910GWLTHQRD,overground,suffragette,910GWLTHQRD,Walthamstow Queen's Road,3,,False,,False,0.0,,,,,
+910GWNDSWRD,overground,windrush,910GWNDSWRD,Wandsworth Road,2,,False,,False,0.0,,,,,
+910GWNSTDPK,overground,suffragette,910GWNSTDPK,Wanstead Park,3,,False,,False,0.0,,,,,
+910GWSUTTON,nationalRail,national-rail,910GWSUTTON,West Sutton,5,,False,,False,0.0,,,,,
+910GWOLWXR,elizabeth-line,elizabeth,910GWOLWXR,Woolwich,4,910GWOLWXR,True,,False,0.0,,,,,
+940GZZALGWP,cableCar,london-cable-car,940GZZALGWP,IFS Cloud Greenwich Peninsula,Outside,HUBNGW,False,,False,0.0,,,,,
+940GZZALRDK,cableCar,london-cable-car,940GZZALRDK,IFS Cloud Royal Docks,Outside,HUBRVC,False,,False,0.0,,,,,
+940GZZCRADD,tram,tram,940GZZCRADD,Addiscombe,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRADV,tram,tram,940GZZCRADV,Addington Village,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRAMP,tram,tram,940GZZCRAMP,Ampere Way,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRARA,tram,tram,940GZZCRARA,Arena,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRAVE,tram,tram,940GZZCRAVE,Avenue Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRBED,tram,tram,940GZZCRBED,Beddington Lane,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRBGV,tram,tram,940GZZCRBGV,Belgrave Walk,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRBLA,tram,tram,940GZZCRBLA,Blackhorse Lane,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRBRD,tram,tram,940GZZCRBRD,Beckenham Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRCEN,tram,tram,940GZZCRCEN,George Street,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRCHR,tram,tram,940GZZCRCHR,Church Street,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRCOO,tram,tram,940GZZCRCOO,Coombe Lane,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRCTR,tram,tram,940GZZCRCTR,Centrale,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRDDR,tram,tram,940GZZCRDDR,Dundonald Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRFLD,tram,tram,940GZZCRFLD,Fieldway,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRGRA,tram,tram,940GZZCRGRA,Gravel Hill,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRHAR,tram,tram,940GZZCRHAR,Harrington Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRKGH,tram,tram,940GZZCRKGH,King Henry's Drive,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRLEB,tram,tram,940GZZCRLEB,Lebanon Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRLOY,tram,tram,940GZZCRLOY,Lloyd Park,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRMCH,tram,tram,940GZZCRMCH,Mitcham,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRMDN,tram,tram,940GZZCRMDN,Morden Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRMTP,tram,tram,940GZZCRMTP,Merton Park,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRNWA,tram,tram,940GZZCRNWA,New Addington,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRPHI,tram,tram,940GZZCRPHI,Phipps Bridge,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRRVC,tram,tram,940GZZCRRVC,Reeves Corner,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRSAN,tram,tram,940GZZCRSAN,Sandilands,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRTPA,tram,tram,940GZZCRTPA,Therapia Lane,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRWAD,tram,tram,940GZZCRWAD,Waddon Marsh,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRWAN,tram,tram,940GZZCRWAN,Wandle Park,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRWEL,tram,tram,940GZZCRWEL,Wellesley Road,Trams fare zone,,False,,False,0.0,,,,,
+940GZZCRWOD,tram,tram,940GZZCRWOD,Woodside,Trams fare zone,,False,,False,0.0,,,,,
+940GZZDLABR,dlr,dlr,940GZZDLABR,Abbey Road,2|3,,False,,False,0.0,,,,,
+940GZZDLALL,dlr,dlr,940GZZDLALL,All Saints,2,,False,,False,0.0,,,,,
+940GZZDLBEC,dlr,dlr,940GZZDLBEC,Beckton,3,,False,,False,0.0,,,,,
+940GZZDLBLA,dlr,dlr,940GZZDLBLA,Blackwall,2,,False,,False,0.0,,,,,
+940GZZDLBOW,dlr,dlr,940GZZDLBOW,Bow Church,2,,False,,False,0.0,,,,,
+940GZZDLBPK,dlr,dlr,940GZZDLBPK,Beckton Park,3,,False,,False,0.0,,,,,
+940GZZDLCLA,dlr,dlr,940GZZDLCLA,Crossharbour,2,,False,,False,0.0,,,,,
+910GCSTMHSXR,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZDLCUS,dlr,dlr,,,,,,,,,,,,,
+940GZZDLCYP,dlr,dlr,940GZZDLCYP,Cyprus,3,,False,,False,0.0,,,,,
+940GZZDLDEP,dlr,dlr,940GZZDLDEP,Deptford Bridge,2|3,,False,,False,0.0,,,,,
+940GZZDLDEV,dlr,dlr,940GZZDLDEV,Devons Road,2,,False,,False,0.0,,,,,
+940GZZDLEIN,dlr,dlr,940GZZDLEIN,East India,2|3,,False,,False,0.0,,,,,
+940GZZDLELV,dlr,dlr,940GZZDLELV,Elverson Road,2|3,,False,,False,0.0,,,,,
+940GZZDLGAL,dlr,dlr,940GZZDLGAL,Gallions Reach,3,,False,,False,0.0,,,,,
+940GZZDLHEQ,dlr,dlr,940GZZDLHEQ,Heron Quays,2,,False,,False,0.0,,,,,
+940GZZDLISL,dlr,dlr,940GZZDLISL,Island Gardens,2,,False,,False,0.0,,,,,
+940GZZDLKGV,dlr,dlr,940GZZDLKGV,King George V,3,,False,,False,0.0,,,,,
+940GZZDLLDP,dlr,dlr,940GZZDLLDP,Langdon Park,2,,False,,False,0.0,,,,,
+940GZZDLMUD,dlr,dlr,940GZZDLMUD,Mudchute,2,,False,,False,0.0,,,,,
+940GZZDLPDK,dlr,dlr,940GZZDLPDK,Pontoon Dock,3,,False,,False,0.0,,,,,
+940GZZDLPOP,dlr,dlr,940GZZDLPOP,Poplar,2,,False,,False,0.0,,,,,
+940GZZDLPRE,dlr,dlr,940GZZDLPRE,Prince Regent,3,,False,,False,0.0,,,,,
+940GZZDLPUD,dlr,dlr,940GZZDLPUD,Pudding Mill Lane,2|3,,False,,False,0.0,,,,,
+940GZZDLRAL,dlr,dlr,940GZZDLRAL,Royal Albert,3,,False,,False,0.0,,,,,
+940GZZDLRVC,dlr,dlr,940GZZDLRVC,Royal Victoria,3,HUBRVC,False,,False,0.0,,,,,
+940GZZDLSHS,dlr,dlr,940GZZDLSHS,Stratford High Street,2|3,,False,,False,0.0,,,,,
+940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,0.0,940GZZDLSIT,FALSE,False,1.0,Male
+940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,0.0,940GZZDLSIT,FALSE,False,2.0,Female
+940GZZDLSIT,dlr,dlr,940GZZDLSIT,Stratford International,2|3,,False,,False,0.0,940GZZDLSIT,TRUE,False,3.0,Unisex
+940GZZDLSOQ,dlr,dlr,940GZZDLSOQ,South Quay,2,,False,,False,0.0,,,,,
+940GZZDLSTL,dlr,dlr,940GZZDLSTL,Star Lane,2|3,,False,,False,0.0,,,,,
+940GZZDLWFE,dlr,dlr,940GZZDLWFE,Westferry,2,,False,,False,0.0,,,,,
+940GZZDLWIQ,dlr,dlr,940GZZDLWIQ,West India Quay,2,,False,,False,0.0,,,,,
+940GZZDLWSV,dlr,dlr,940GZZDLWSV,West Silvertown,3,,False,,False,0.0,,,,,
+940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,FALSE,False,1.0,Male
+940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,FALSE,False,2.0,Female
+940GZZLUACT,tube,district,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,TRUE,False,3.0,Unisex
+940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,FALSE,False,1.0,Male
+940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,FALSE,False,2.0,Female
+940GZZLUACT,tube,piccadilly,940GZZLUACT,Acton Town,3,,True,,False,0.0,940GZZLUACT,TRUE,False,3.0,Unisex
+940GZZLUACY,tube,northern,940GZZLUACY,Archway,2|3,,True,,False,0.0,,,,,
+940GZZLUADE,tube,district,940GZZLUADE,Aldgate East,1,,True,,False,0.0,,,,,
+940GZZLUADE,tube,hammersmith-city,940GZZLUADE,Aldgate East,1,,True,,False,0.0,,,,,
+940GZZLUAGL,tube,northern,940GZZLUAGL,Angel,1,,True,,False,0.0,,,,,
+940GZZLUALD,tube,circle,940GZZLUALD,Aldgate,1,,True,,False,0.0,,,,,
+940GZZLUALD,tube,metropolitan,940GZZLUALD,Aldgate,1,,True,,False,0.0,,,,,
+940GZZLUALP,tube,piccadilly,940GZZLUALP,Alperton,4,,True,,False,0.0,940GZZLUALP,FALSE,False,1.0,Male
+940GZZLUALP,tube,piccadilly,940GZZLUALP,Alperton,4,,True,,False,0.0,940GZZLUALP,FALSE,False,2.0,Female
+940GZZLUASG,tube,piccadilly,940GZZLUASG,Arnos Grove,4,,True,,False,0.0,,,,,
+940GZZLUASL,tube,piccadilly,940GZZLUASL,Arsenal,2,,True,,False,0.0,,,,,
+940GZZLUBBB,tube,district,940GZZLUBBB,Bromley-by-Bow,2|3,,True,,False,0.0,,,,,
+940GZZLUBBB,tube,hammersmith-city,940GZZLUBBB,Bromley-by-Bow,2|3,,True,,False,0.0,,,,,
+940GZZLUBBN,tube,circle,940GZZLUBBN,Barbican,1,,True,,False,0.0,,,,,
+940GZZLUBBN,tube,hammersmith-city,940GZZLUBBN,Barbican,1,,True,,False,0.0,,,,,
+940GZZLUBBN,tube,metropolitan,940GZZLUBBN,Barbican,1,,True,,False,0.0,,,,,
+940GZZLUBDS,tube,piccadilly,940GZZLUBDS,Bounds Green,3|4,,True,,False,0.0,,,,,
+940GZZLUBEC,tube,district,940GZZLUBEC,Becontree,5,,True,,False,0.0,940GZZLUBEC,FALSE,False,1.0,Male
+940GZZLUBEC,tube,district,940GZZLUBEC,Becontree,5,,True,,False,0.0,940GZZLUBEC,FALSE,False,2.0,Female
+940GZZLUBKE,tube,central,940GZZLUBKE,Barkingside,4,,True,,True,2.0,940GZZLUBKE,FALSE,False,1.0,Male
+940GZZLUBKE,tube,central,940GZZLUBKE,Barkingside,4,,True,,True,2.0,940GZZLUBKE,FALSE,False,2.0,Female
+940GZZLUBKH,tube,central,940GZZLUBKH,Buckhurst Hill,5,,True,,True,,940GZZLUBKH,FALSE,False,1.0,Male
+940GZZLUBKH,tube,central,940GZZLUBKH,Buckhurst Hill,5,,True,,True,,940GZZLUBKH,FALSE,False,2.0,Female
+940GZZLUBLG,tube,central,940GZZLUBLG,Bethnal Green,2,,True,,False,0.0,,,,,
+940GZZLUBMY,tube,jubilee,940GZZLUBMY,Bermondsey,2,,True,,False,0.0,,,,,
+940GZZLUBND,tube,central,,,,,,,,,,,,,
+940GZZLUBND,tube,jubilee,,,,,,,,,,,,,
+910GBONDST,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZLUBOR,tube,northern,940GZZLUBOR,Borough,1,,True,,False,0.0,,,,,
+940GZZLUBOS,tube,piccadilly,940GZZLUBOS,Boston Manor,4,,True,,False,0.0,940GZZLUBOS,FALSE,False,1.0,Male
+940GZZLUBOS,tube,piccadilly,940GZZLUBOS,Boston Manor,4,,True,,False,0.0,940GZZLUBOS,FALSE,False,2.0,Female
+940GZZLUBSC,tube,district,940GZZLUBSC,Barons Court,2,,True,,False,0.0,940GZZLUBSC,FALSE,False,1.0,Male
+940GZZLUBSC,tube,district,940GZZLUBSC,Barons Court,2,,True,,False,0.0,940GZZLUBSC,FALSE,False,2.0,Female
+940GZZLUBSC,tube,piccadilly,940GZZLUBSC,Barons Court,2,,True,,False,0.0,940GZZLUBSC,FALSE,False,1.0,Male
+940GZZLUBSC,tube,piccadilly,940GZZLUBSC,Barons Court,2,,True,,False,0.0,940GZZLUBSC,FALSE,False,2.0,Female
+940GZZLUBST,tube,metropolitan,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,1.0,Male
+940GZZLUBST,tube,metropolitan,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,2.0,Female
+940GZZLUBST,tube,circle,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,1.0,Male
+940GZZLUBST,tube,circle,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,2.0,Female
+940GZZLUBST,tube,hammersmith-city,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,1.0,Male
+940GZZLUBST,tube,hammersmith-city,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,2.0,Female
+940GZZLUBST,tube,jubilee,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,1.0,Male
+940GZZLUBST,tube,jubilee,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,2.0,Female
+940GZZLUBST,tube,bakerloo,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,1.0,Male
+940GZZLUBST,tube,bakerloo,940GZZLUBST,Baker Street,1,,True,,False,0.0,940GZZLUBST,FALSE,False,2.0,Female
+940GZZLUBTK,tube,northern,940GZZLUBTK,Burnt Oak,4,,True,,False,0.0,,,,,
+940GZZLUBTX,tube,northern,940GZZLUBTX,Brent Cross,3,,True,,False,0.0,,,,,
+940GZZLUBWR,tube,district,940GZZLUBWR,Bow Road,2,,False,,False,0.0,,,,,
+940GZZLUBWR,tube,hammersmith-city,940GZZLUBWR,Bow Road,2,,False,,False,0.0,,,,,
+940GZZLUBWT,tube,circle,940GZZLUBWT,Bayswater,1,,True,,False,0.0,,,,,
+940GZZLUBWT,tube,district,940GZZLUBWT,Bayswater,1,,True,,False,0.0,,,,,
+940GZZLUBZP,tube,northern,940GZZLUBZP,Belsize Park,2,,True,,False,0.0,,,,,
+940GZZLUCAR,tube,piccadilly,940GZZLUCAR,Caledonian Road,2,,True,,False,0.0,,,,,
+940GZZLUCFM,tube,northern,940GZZLUCFM,Chalk Farm,2,,True,,False,0.0,,,,,
+940GZZLUCGN,tube,piccadilly,940GZZLUCGN,Covent Garden,1,,True,,False,0.0,,,,,
+940GZZLUCHL,tube,central,940GZZLUCHL,Chancery Lane,1,,True,,False,0.0,,,,,
+940GZZLUCKS,tube,piccadilly,940GZZLUCKS,Cockfosters,5,,True,,False,0.0,940GZZLUCKS,FALSE,False,1.0,Male
+940GZZLUCKS,tube,piccadilly,940GZZLUCKS,Cockfosters,5,,True,,False,0.0,940GZZLUCKS,FALSE,False,2.0,Female
+940GZZLUCND,tube,northern,940GZZLUCND,Colindale,4,,True,,False,0.0,,,,,
+940GZZLUCPC,tube,northern,940GZZLUCPC,Clapham Common,2,,True,,False,0.0,,,,,
+940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,0.0,940GZZLUCPK,FALSE,False,1.0,Male
+940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,0.0,940GZZLUCPK,FALSE,False,2.0,Female
+940GZZLUCPK,tube,jubilee,940GZZLUCPK,Canons Park,5,,True,,False,0.0,940GZZLUCPK,TRUE,False,3.0,Unisex
+940GZZLUCPN,tube,northern,940GZZLUCPN,Clapham North,2,,True,,False,0.0,,,,,
+940GZZLUCPS,tube,northern,940GZZLUCPS,Clapham South,2|3,,True,,False,0.0,,,,,
+940GZZLUCSD,tube,northern,940GZZLUCSD,Colliers Wood,3,,True,,False,0.0,,,,,
+940GZZLUCSM,tube,metropolitan,940GZZLUCSM,Chesham,9,,True,,True,4.0,940GZZLUCSM,FALSE,False,1.0,Male
+940GZZLUCSM,tube,metropolitan,940GZZLUCSM,Chesham,9,,True,,True,4.0,940GZZLUCSM,FALSE,False,2.0,Female
+940GZZLUCTN,tube,northern,940GZZLUCTN,Camden Town,2,,True,,False,0.0,,,,,
+940GZZLUCWL,tube,central,940GZZLUCWL,Chigwell,4,,True,,False,0.0,940GZZLUCWL,FALSE,False,1.0,Male
+940GZZLUCWL,tube,central,940GZZLUCWL,Chigwell,4,,True,,False,0.0,940GZZLUCWL,FALSE,False,2.0,Female
+940GZZLUCWP,tube,district,940GZZLUCWP,Chiswick Park,3,,True,,False,0.0,,,,,
+940GZZLUCXY,tube,metropolitan,940GZZLUCXY,Croxley,7,,True,,False,0.0,940GZZLUCXY,FALSE,False,1.0,Male
+940GZZLUCXY,tube,metropolitan,940GZZLUCXY,Croxley,7,,True,,False,0.0,940GZZLUCXY,FALSE,False,2.0,Female
+940GZZLUDBN,tube,central,940GZZLUDBN,Debden,6,,True,,True,3.0,940GZZLUDBN,FALSE,False,1.0,Male
+940GZZLUDBN,tube,central,940GZZLUDBN,Debden,6,,True,,True,3.0,940GZZLUDBN,FALSE,False,2.0,Female
+940GZZLUDGE,tube,district,940GZZLUDGE,Dagenham East,5,,True,,False,0.0,940GZZLUDGE,FALSE,False,1.0,Male
+940GZZLUDGE,tube,district,940GZZLUDGE,Dagenham East,5,,True,,False,0.0,940GZZLUDGE,FALSE,False,2.0,Female
+940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,0.0,940GZZLUDGY,FALSE,False,1.0,Male
+940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,0.0,940GZZLUDGY,FALSE,False,2.0,Female
+940GZZLUDGY,tube,district,940GZZLUDGY,Dagenham Heathway,5,,True,,False,0.0,940GZZLUDGY,TRUE,False,3.0,Unisex
+940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,0.0,940GZZLUDOH,FALSE,False,1.0,Male
+940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,0.0,940GZZLUDOH,FALSE,False,2.0,Female
+940GZZLUDOH,tube,jubilee,940GZZLUDOH,Dollis Hill,3,,False,,False,0.0,940GZZLUDOH,TRUE,False,3.0,Unisex
+940GZZLUEAE,tube,metropolitan,940GZZLUEAE,Eastcote,5,,False,,False,0.0,,,,,
+940GZZLUEAE,tube,piccadilly,940GZZLUEAE,Eastcote,5,,False,,False,0.0,,,,,
+940GZZLUEAN,tube,central,940GZZLUEAN,East Acton,2,,True,,False,0.0,,,,,
+940GZZLUECM,tube,district,940GZZLUECM,Ealing Common,3,,True,,False,0.0,940GZZLUECM,FALSE,False,1.0,Male
+940GZZLUECM,tube,district,940GZZLUECM,Ealing Common,3,,True,,False,0.0,940GZZLUECM,FALSE,False,2.0,Female
+940GZZLUECM,tube,piccadilly,940GZZLUECM,Ealing Common,3,,True,,False,0.0,940GZZLUECM,FALSE,False,1.0,Male
+940GZZLUECM,tube,piccadilly,940GZZLUECM,Ealing Common,3,,True,,False,0.0,940GZZLUECM,FALSE,False,2.0,Female
+940GZZLUECT,tube,district,940GZZLUECT,Earl's Court,1|2,,True,,False,0.0,,,,,
+940GZZLUECT,tube,piccadilly,940GZZLUECT,Earl's Court,1|2,,True,,False,0.0,,,,,
+940GZZLUEFY,tube,northern,940GZZLUEFY,East Finchley,3,,True,,False,0.0,,,,,
+940GZZLUEGW,tube,northern,940GZZLUEGW,Edgware,5,,True,,False,0.0,,,,,
+940GZZLUEHM,tube,district,940GZZLUEHM,East Ham,3|4,,True,,False,0.0,,,,,
+940GZZLUEHM,tube,hammersmith-city,940GZZLUEHM,East Ham,3|4,,True,,False,0.0,,,,,
+940GZZLUEMB,tube,circle,940GZZLUEMB,Embankment,1,,True,,False,0.0,,,,,
+940GZZLUEMB,tube,district,940GZZLUEMB,Embankment,1,,True,,False,0.0,,,,,
+940GZZLUEMB,tube,northern,940GZZLUEMB,Embankment,1,,True,,False,0.0,,,,,
+940GZZLUEMB,tube,bakerloo,940GZZLUEMB,Embankment,1,,True,,False,0.0,,,,,
+940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,FALSE,False,1.0,Male
+940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,FALSE,False,2.0,Female
+940GZZLUEPG,tube,central,940GZZLUEPG,Epping,6,,True,,True,6.0,940GZZLUEPG,TRUE,False,3.0,Unisex
+940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,0.0,940GZZLUEPK,FALSE,False,1.0,Male
+940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,0.0,940GZZLUEPK,FALSE,False,2.0,Female
+940GZZLUEPK,tube,district,940GZZLUEPK,Elm Park,6,,True,,False,0.0,940GZZLUEPK,TRUE,False,3.0,Unisex
+940GZZLUEPY,tube,district,940GZZLUEPY,East Putney,2|3,,True,,False,0.0,,,,,
+940GZZLUERB,tube,bakerloo,940GZZLUERB,Edgware Road,1,,True,,False,0.0,,,,,
+940GZZLUERC,tube,circle,940GZZLUERC,Edgware Road,1,,True,,False,0.0,,,,,
+940GZZLUERC,tube,hammersmith-city,940GZZLUERC,Edgware Road,1,,True,,False,0.0,,,,,
+940GZZLUERC,tube,district,940GZZLUERC,Edgware Road,1,,True,,False,0.0,,,,,
+940GZZLUESQ,tube,circle,940GZZLUESQ,Euston Square,1,,True,,False,0.0,,,,,
+940GZZLUESQ,tube,hammersmith-city,940GZZLUESQ,Euston Square,1,,True,,False,0.0,,,,,
+940GZZLUESQ,tube,metropolitan,940GZZLUESQ,Euston Square,1,,True,,False,0.0,,,,,
+940GZZLUFBY,tube,district,940GZZLUFBY,Fulham Broadway,2,,True,,False,0.0,,,,,
+940GZZLUFLP,tube,central,940GZZLUFLP,Fairlop,4,,True,,False,0.0,940GZZLUFLP,FALSE,False,1.0,Male
+940GZZLUFLP,tube,central,940GZZLUFLP,Fairlop,4,,True,,False,0.0,940GZZLUFLP,FALSE,False,2.0,Female
+940GZZLUFYC,tube,northern,940GZZLUFYC,Finchley Central,4,,True,,True,6.0,940GZZLUFYC,TRUE,False,3.0,Unisex
+940GZZLUFYR,tube,metropolitan,940GZZLUFYR,Finchley Road,2,,False,,False,0.0,940GZZLUFYR,TRUE,False,1.0,Male
+940GZZLUFYR,tube,metropolitan,940GZZLUFYR,Finchley Road,2,,False,,False,0.0,940GZZLUFYR,TRUE,False,2.0,Female
+940GZZLUFYR,tube,jubilee,940GZZLUFYR,Finchley Road,2,,False,,False,0.0,940GZZLUFYR,TRUE,False,1.0,Male
+940GZZLUFYR,tube,jubilee,940GZZLUFYR,Finchley Road,2,,False,,False,0.0,940GZZLUFYR,TRUE,False,2.0,Female
+940GZZLUGDG,tube,northern,940GZZLUGDG,Goodge Street,1,,True,,False,0.0,,,,,
+940GZZLUGGH,tube,central,940GZZLUGGH,Grange Hill,4,,True,,False,0.0,940GZZLUGGH,FALSE,False,1.0,Male
+940GZZLUGGH,tube,central,940GZZLUGGH,Grange Hill,4,,True,,False,0.0,940GZZLUGGH,FALSE,False,2.0,Female
+940GZZLUGGN,tube,northern,940GZZLUGGN,Golders Green,3,,True,,False,0.0,,,,,
+940GZZLUGHK,tube,circle,940GZZLUGHK,Goldhawk Road,2,,True,,False,0.0,,,,,
+940GZZLUGHK,tube,hammersmith-city,940GZZLUGHK,Goldhawk Road,2,,True,,False,0.0,,,,,
+940GZZLUGPK,tube,piccadilly,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,1.0,Male
+940GZZLUGPK,tube,piccadilly,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,2.0,Female
+940GZZLUGPK,tube,victoria,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,1.0,Male
+940GZZLUGPK,tube,victoria,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,2.0,Female
+940GZZLUGPK,tube,jubilee,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,1.0,Male
+940GZZLUGPK,tube,jubilee,940GZZLUGPK,Green Park,1,,True,,False,0.0,940GZZLUGPK,FALSE,True,2.0,Female
+940GZZLUGPS,tube,circle,940GZZLUGPS,Great Portland Street,1,,True,,False,0.0,,,,,
+940GZZLUGPS,tube,hammersmith-city,940GZZLUGPS,Great Portland Street,1,,True,,False,0.0,,,,,
+940GZZLUGPS,tube,metropolitan,940GZZLUGPS,Great Portland Street,1,,True,,False,0.0,,,,,
+940GZZLUGTH,tube,central,940GZZLUGTH,Gants Hill,4,,True,,False,0.0,,,,,
+940GZZLUGTR,tube,district,940GZZLUGTR,Gloucester Road,1,,True,,False,0.0,,,,,
+940GZZLUGTR,tube,circle,940GZZLUGTR,Gloucester Road,1,,True,,False,0.0,,,,,
+940GZZLUGTR,tube,piccadilly,940GZZLUGTR,Gloucester Road,1,,True,,False,0.0,,,,,
+940GZZLUHBN,tube,central,940GZZLUHBN,Holborn,1,,True,,False,0.0,,,,,
+940GZZLUHBN,tube,piccadilly,940GZZLUHBN,Holborn,1,,True,,False,0.0,,,,,
+940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,FALSE,False,1.0,Male
+940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,FALSE,False,2.0,Female
+940GZZLUHBT,tube,northern,940GZZLUHBT,High Barnet,5,,True,,True,5.0,940GZZLUHBT,TRUE,False,3.0,Unisex
+940GZZLUHCH,tube,district,940GZZLUHCH,Hornchurch,6,,True,,False,0.0,940GZZLUHCH,FALSE,False,1.0,Male
+940GZZLUHCH,tube,district,940GZZLUHCH,Hornchurch,6,,True,,False,0.0,940GZZLUHCH,FALSE,False,2.0,Female
+940GZZLUHCL,tube,northern,940GZZLUHCL,Hendon Central,3|4,,True,,False,0.0,940GZZLUHCL,TRUE,False,1.0,Unisex
+940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,1.0,Male
+940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,2.0,Female
+940GZZLUHGD,tube,metropolitan,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,TRUE,False,3.0,Unisex
+940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,1.0,Male
+940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,FALSE,False,2.0,Female
+940GZZLUHGD,tube,piccadilly,940GZZLUHGD,Hillingdon,6,,True,,True,6.0,940GZZLUHGD,TRUE,False,3.0,Unisex
+940GZZLUHGR,tube,central,940GZZLUHGR,Hanger Lane,3,,False,,False,0.0,940GZZLUHGR,FALSE,False,1.0,Male
+940GZZLUHGR,tube,central,940GZZLUHGR,Hanger Lane,3,,False,,False,0.0,940GZZLUHGR,FALSE,False,2.0,Female
+940GZZLUHGT,tube,northern,940GZZLUHGT,Highgate,3,,True,,False,0.0,,,,,
+940GZZLUHLT,tube,central,940GZZLUHLT,Hainault,4,,True,,True,4.0,940GZZLUHLT,TRUE,False,1.0,Unisex
+940GZZLUHNX,tube,piccadilly,940GZZLUHNX,Hatton Cross,5|6,,True,,False,0.0,,,,,
+940GZZLUHPC,tube,piccadilly,940GZZLUHPC,Hyde Park Corner,1,,True,,False,0.0,,,,,
+940GZZLUHPK,tube,central,940GZZLUHPK,Holland Park,2,,True,,False,0.0,,,,,
+940GZZLUHSK,tube,circle,940GZZLUHSK,High Street Kensington,1,,True,,False,0.0,,,,,
+940GZZLUHSK,tube,district,940GZZLUHSK,High Street Kensington,1,,True,,False,0.0,,,,,
+940GZZLUHTD,tube,northern,940GZZLUHTD,Hampstead,2|3,,True,,False,0.0,,,,,
+940GZZLUHWC,tube,piccadilly,940GZZLUHWC,Hounslow Central,4,,True,,False,0.0,940GZZLUHWC,FALSE,False,1.0,Male
+940GZZLUHWC,tube,piccadilly,940GZZLUHWC,Hounslow Central,4,,True,,False,0.0,940GZZLUHWC,FALSE,False,2.0,Female
+940GZZLUHWE,tube,piccadilly,940GZZLUHWE,Hounslow East,4,,True,,True,2.0,940GZZLUHWE,TRUE,False,1.0,Unisex
+940GZZLUHWT,tube,piccadilly,940GZZLUHWT,Hounslow West,5,,True,,True,10.0,,,,,
+940GZZLUHWY,tube,piccadilly,940GZZLUHWY,Holloway Road,2,,True,,False,0.0,,,,,
+940GZZLUICK,tube,metropolitan,940GZZLUICK,Ickenham,6,,True,,False,0.0,,,,,
+940GZZLUICK,tube,piccadilly,940GZZLUICK,Ickenham,6,,True,,False,0.0,,,,,
+940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,0.0,940GZZLUKBN,FALSE,False,1.0,Male
+940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,0.0,940GZZLUKBN,FALSE,False,2.0,Female
+940GZZLUKBN,tube,jubilee,940GZZLUKBN,Kilburn,2,,True,,False,0.0,940GZZLUKBN,TRUE,False,3.0,Unisex
+940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,0.0,940GZZLUKBY,FALSE,False,1.0,Male
+940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,0.0,940GZZLUKBY,FALSE,False,2.0,Female
+940GZZLUKBY,tube,jubilee,940GZZLUKBY,Kingsbury,4,,True,,False,0.0,940GZZLUKBY,TRUE,False,3.0,Unisex
+940GZZLUKNB,tube,piccadilly,940GZZLUKNB,Knightsbridge,1,,True,,False,0.0,,,,,
+940GZZLUKNG,tube,northern,940GZZLUKNG,Kennington,1|2,,True,,False,0.0,,,,,
+940GZZLUKPK,tube,bakerloo,940GZZLUKPK,Kilburn Park,2,,True,,False,0.0,,,,,
+940GZZLULAD,tube,circle,940GZZLULAD,Ladbroke Grove,2,,True,,False,0.0,,,,,
+940GZZLULAD,tube,hammersmith-city,940GZZLULAD,Ladbroke Grove,2,,True,,False,0.0,,,,,
+940GZZLULBN,tube,bakerloo,940GZZLULBN,Lambeth North,1,,True,,False,0.0,,,,,
+940GZZLULGN,tube,central,940GZZLULGN,Loughton,6,,True,,False,0.0,940GZZLULGN,FALSE,False,1.0,Male
+940GZZLULGN,tube,central,940GZZLULGN,Loughton,6,,True,,False,0.0,940GZZLULGN,FALSE,False,2.0,Female
+940GZZLULGT,tube,central,940GZZLULGT,Lancaster Gate,1,,True,,False,0.0,,,,,
+940GZZLULRD,tube,circle,940GZZLULRD,Latimer Road,2,,True,,False,0.0,,,,,
+940GZZLULRD,tube,hammersmith-city,940GZZLULRD,Latimer Road,2,,True,,False,0.0,,,,,
+940GZZLULSQ,tube,piccadilly,940GZZLULSQ,Leicester Square,1,,True,,False,0.0,,,,,
+940GZZLULSQ,tube,northern,940GZZLULSQ,Leicester Square,1,,True,,False,0.0,,,,,
+940GZZLULYN,tube,central,940GZZLULYN,Leyton,3,,True,,False,0.0,940GZZLULYN,FALSE,False,1.0,Male
+940GZZLULYN,tube,central,940GZZLULYN,Leyton,3,,True,,False,0.0,940GZZLULYN,FALSE,False,2.0,Female
+940GZZLULYS,tube,central,940GZZLULYS,Leytonstone,3|4,,True,,False,0.0,940GZZLULYS,FALSE,False,1.0,Male
+940GZZLULYS,tube,central,940GZZLULYS,Leytonstone,3|4,,True,,False,0.0,940GZZLULYS,FALSE,False,2.0,Female
+940GZZLUMBA,tube,central,940GZZLUMBA,Marble Arch,1,,True,,False,0.0,,,,,
+940GZZLUMDN,tube,northern,940GZZLUMDN,Morden,4,,True,,False,0.0,,,,,
+940GZZLUMED,tube,central,940GZZLUMED,Mile End,2,,True,,False,0.0,,,,,
+940GZZLUMED,tube,district,940GZZLUMED,Mile End,2,,True,,False,0.0,,,,,
+940GZZLUMED,tube,hammersmith-city,940GZZLUMED,Mile End,2,,True,,False,0.0,,,,,
+940GZZLUMHL,tube,northern,940GZZLUMHL,Mill Hill East,4,,True,,False,0.0,,,,,
+940GZZLUMMT,tube,circle,940GZZLUMMT,Monument,1,,True,,False,0.0,,,,,
+940GZZLUMMT,tube,district,940GZZLUMMT,Monument,1,,True,,False,0.0,,,,,
+940GZZLUMPK,tube,metropolitan,940GZZLUMPK,Moor Park,6|7,,True,,False,0.0,940GZZLUMPK,FALSE,False,1.0,Male
+940GZZLUMPK,tube,metropolitan,940GZZLUMPK,Moor Park,6|7,,True,,False,0.0,940GZZLUMPK,FALSE,False,2.0,Female
+940GZZLUMRH,tube,piccadilly,940GZZLUMRH,Manor House,2|3,,True,,False,0.0,,,,,
+940GZZLUMSH,tube,circle,940GZZLUMSH,Mansion House,1,,True,,False,0.0,,,,,
+940GZZLUMSH,tube,district,940GZZLUMSH,Mansion House,1,,True,,False,0.0,,,,,
+940GZZLUMTC,tube,northern,940GZZLUMTC,Mornington Crescent,2,,True,,False,0.0,,,,,
+940GZZLUMVL,tube,bakerloo,940GZZLUMVL,Maida Vale,2,,True,,False,0.0,,,,,
+940GZZLUNAN,tube,central,940GZZLUNAN,North Acton,2|3,,True,,False,0.0,,,,,
+940GZZLUNBP,tube,central,940GZZLUNBP,Newbury Park,4,,True,,True,6.0,940GZZLUNBP,FALSE,False,1.0,Male
+940GZZLUNBP,tube,central,940GZZLUNBP,Newbury Park,4,,True,,True,6.0,940GZZLUNBP,FALSE,False,2.0,Female
+940GZZLUNDN,tube,jubilee,940GZZLUNDN,Neasden,3,,True,,False,0.0,,,,,
+940GZZLUNEN,tube,piccadilly,940GZZLUNEN,North Ealing,3,,True,,False,0.0,940GZZLUNEN,FALSE,False,1.0,Male
+940GZZLUNEN,tube,piccadilly,940GZZLUNEN,North Ealing,3,,True,,False,0.0,940GZZLUNEN,FALSE,False,2.0,Female
+940GZZLUNFD,tube,piccadilly,940GZZLUNFD,Northfields,3,,True,,False,0.0,940GZZLUNFD,FALSE,False,1.0,Male
+940GZZLUNFD,tube,piccadilly,940GZZLUNFD,Northfields,3,,True,,False,0.0,940GZZLUNFD,FALSE,False,2.0,Female
+940GZZLUNGW,tube,jubilee,940GZZLUNGW,North Greenwich,2|3,HUBNGW,True,,True,19.0,,,,,
+940GZZLUNHA,tube,metropolitan,940GZZLUNHA,North Harrow,5,,True,,False,0.0,940GZZLUNHA,FALSE,False,1.0,Male
+940GZZLUNHA,tube,metropolitan,940GZZLUNHA,North Harrow,5,,True,,False,0.0,940GZZLUNHA,FALSE,False,2.0,Female
+940GZZLUNHG,tube,circle,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,0.0,,,,,
+940GZZLUNHG,tube,district,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,0.0,,,,,
+940GZZLUNHG,tube,central,940GZZLUNHG,Notting Hill Gate,1|2,,True,,False,0.0,,,,,
+940GZZLUNHT,tube,central,940GZZLUNHT,Northolt,5,,True,,False,0.0,940GZZLUNHT,FALSE,False,1.0,Male
+940GZZLUNHT,tube,central,940GZZLUNHT,Northolt,5,,True,,False,0.0,940GZZLUNHT,FALSE,False,2.0,Female
+940GZZLUNKP,tube,metropolitan,940GZZLUNKP,Northwick Park,4,,True,,False,0.0,940GZZLUNKP,FALSE,False,1.0,Male
+940GZZLUNKP,tube,metropolitan,940GZZLUNKP,Northwick Park,4,,True,,False,0.0,940GZZLUNKP,FALSE,False,2.0,Female
+940GZZLUNOW,tube,metropolitan,940GZZLUNOW,Northwood,6,,True,,False,0.0,940GZZLUNOW,FALSE,False,1.0,Male
+940GZZLUNOW,tube,metropolitan,940GZZLUNOW,Northwood,6,,True,,False,0.0,940GZZLUNOW,FALSE,False,2.0,Female
+940GZZLUNWH,tube,metropolitan,940GZZLUNWH,Northwood Hills,6,,True,,False,0.0,940GZZLUNWH,FALSE,False,1.0,Male
+940GZZLUNWH,tube,metropolitan,940GZZLUNWH,Northwood Hills,6,,True,,False,0.0,940GZZLUNWH,FALSE,False,2.0,Female
+940GZZLUOAK,tube,piccadilly,940GZZLUOAK,Oakwood,5,,True,,True,6.0,940GZZLUOAK,FALSE,False,1.0,Male
+940GZZLUOAK,tube,piccadilly,940GZZLUOAK,Oakwood,5,,True,,True,6.0,940GZZLUOAK,FALSE,False,2.0,Female
+940GZZLUOSY,tube,piccadilly,940GZZLUOSY,Osterley,4,,True,,False,0.0,940GZZLUOSY,FALSE,False,1.0,Male
+940GZZLUOSY,tube,piccadilly,940GZZLUOSY,Osterley,4,,True,,False,0.0,940GZZLUOSY,FALSE,False,2.0,Female
+940GZZLUOVL,tube,northern,940GZZLUOVL,Oval,2,,True,,False,0.0,,,,,
+940GZZLUOXC,tube,central,940GZZLUOXC,Oxford Circus,1,,True,,False,0.0,,,,,
+940GZZLUOXC,tube,bakerloo,940GZZLUOXC,Oxford Circus,1,,True,,False,0.0,,,,,
+940GZZLUOXC,tube,victoria,940GZZLUOXC,Oxford Circus,1,,True,,False,0.0,,,,,
+940GZZLUPCC,tube,bakerloo,940GZZLUPCC,Piccadilly Circus,1,,True,,False,0.0,940GZZLUPCC,FALSE,True,1.0,Male
+940GZZLUPCC,tube,bakerloo,940GZZLUPCC,Piccadilly Circus,1,,True,,False,0.0,940GZZLUPCC,FALSE,True,2.0,Female
+940GZZLUPCC,tube,piccadilly,940GZZLUPCC,Piccadilly Circus,1,,True,,False,0.0,940GZZLUPCC,FALSE,True,1.0,Male
+940GZZLUPCC,tube,piccadilly,940GZZLUPCC,Piccadilly Circus,1,,True,,False,0.0,940GZZLUPCC,FALSE,True,2.0,Female
+940GZZLUPCO,tube,victoria,940GZZLUPCO,Pimlico,1,,True,,False,0.0,,,,,
+940GZZLUPKR,tube,piccadilly,940GZZLUPKR,Park Royal,3,,True,,False,0.0,940GZZLUPKR,FALSE,False,1.0,Male
+940GZZLUPKR,tube,piccadilly,940GZZLUPKR,Park Royal,3,,True,,False,0.0,940GZZLUPKR,FALSE,False,2.0,Female
+940GZZLUPLW,tube,district,940GZZLUPLW,Plaistow,3,,True,,False,0.0,,,,,
+940GZZLUPLW,tube,hammersmith-city,940GZZLUPLW,Plaistow,3,,True,,False,0.0,,,,,
+940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,0.0,940GZZLUPNR,FALSE,False,1.0,Male
+940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,0.0,940GZZLUPNR,FALSE,False,2.0,Female
+940GZZLUPNR,tube,metropolitan,940GZZLUPNR,Pinner,5,,True,,False,0.0,940GZZLUPNR,TRUE,False,3.0,Unisex
+940GZZLUPRD,tube,metropolitan,940GZZLUPRD,Preston Road,4,,True,,False,0.0,940GZZLUPRD,FALSE,False,1.0,Male
+940GZZLUPRD,tube,metropolitan,940GZZLUPRD,Preston Road,4,,True,,False,0.0,940GZZLUPRD,FALSE,False,2.0,Female
+940GZZLUPSG,tube,district,940GZZLUPSG,Parsons Green,2,,True,,False,0.0,,,,,
+940GZZLUPVL,tube,central,940GZZLUPVL,Perivale,4,,True,,False,0.0,940GZZLUPVL,FALSE,False,1.0,Male
+940GZZLUPVL,tube,central,940GZZLUPVL,Perivale,4,,True,,False,0.0,940GZZLUPVL,FALSE,False,2.0,Female
+940GZZLUPYB,tube,district,940GZZLUPYB,Putney Bridge,2,,False,,False,0.0,,,,,
+940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,0.0,940GZZLUQBY,FALSE,False,1.0,Male
+940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,0.0,940GZZLUQBY,FALSE,False,2.0,Female
+940GZZLUQBY,tube,jubilee,940GZZLUQBY,Queensbury,4,,True,,False,0.0,940GZZLUQBY,TRUE,False,3.0,Unisex
+940GZZLUQWY,tube,central,940GZZLUQWY,Queensway,1,,True,,False,0.0,,,,,
+940GZZLURBG,tube,central,940GZZLURBG,Redbridge,4,,True,,False,0.0,940GZZLURBG,FALSE,False,1.0,Male
+940GZZLURBG,tube,central,940GZZLURBG,Redbridge,4,,True,,False,0.0,940GZZLURBG,FALSE,False,2.0,Female
+940GZZLURGP,tube,bakerloo,940GZZLURGP,Regent's Park,1,,True,,False,0.0,,,,,
+940GZZLURSG,tube,central,940GZZLURSG,Ruislip Gardens,5,,False,,False,0.0,940GZZLURSG,TRUE,False,1.0,Unisex
+940GZZLURSM,tube,metropolitan,940GZZLURSM,Ruislip Manor,6,,True,,False,0.0,940GZZLURSM,FALSE,False,1.0,Male
+940GZZLURSM,tube,metropolitan,940GZZLURSM,Ruislip Manor,6,,True,,False,0.0,940GZZLURSM,FALSE,False,2.0,Female
+940GZZLURSM,tube,piccadilly,940GZZLURSM,Ruislip Manor,6,,True,,False,0.0,940GZZLURSM,FALSE,False,1.0,Male
+940GZZLURSM,tube,piccadilly,940GZZLURSM,Ruislip Manor,6,,True,,False,0.0,940GZZLURSM,FALSE,False,2.0,Female
+940GZZLURSP,tube,metropolitan,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,1.0,Male
+940GZZLURSP,tube,metropolitan,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,2.0,Female
+940GZZLURSP,tube,piccadilly,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,1.0,Male
+940GZZLURSP,tube,piccadilly,940GZZLURSP,Ruislip,6,,True,,True,4.0,940GZZLURSP,FALSE,False,2.0,Female
+940GZZLURSQ,tube,piccadilly,940GZZLURSQ,Russell Square,1,,True,,False,0.0,,,,,
+940GZZLURVP,tube,district,940GZZLURVP,Ravenscourt Park,2,,True,,False,0.0,,,,,
+940GZZLURVY,tube,central,940GZZLURVY,Roding Valley,4,,True,,False,0.0,940GZZLURVY,FALSE,False,1.0,Male
+940GZZLURVY,tube,central,940GZZLURVY,Roding Valley,4,,True,,False,0.0,940GZZLURVY,FALSE,False,2.0,Female
+940GZZLURYL,tube,metropolitan,940GZZLURYL,Rayners Lane,5,,True,,True,6.0,,,,,
+940GZZLURYL,tube,piccadilly,940GZZLURYL,Rayners Lane,5,,True,,True,6.0,,,,,
+940GZZLURYO,tube,circle,940GZZLURYO,Royal Oak,2,,True,,False,0.0,,,,,
+940GZZLURYO,tube,hammersmith-city,940GZZLURYO,Royal Oak,2,,True,,False,0.0,,,,,
+940GZZLUSBM,tube,circle,940GZZLUSBM,Shepherd's Bush Market,2,,True,,False,0.0,,,,,
+940GZZLUSBM,tube,hammersmith-city,940GZZLUSBM,Shepherd's Bush Market,2,,True,,False,0.0,,,,,
+940GZZLUSEA,tube,piccadilly,940GZZLUSEA,South Ealing,3,,True,,False,0.0,,,,,
+940GZZLUSFB,tube,district,940GZZLUSFB,Stamford Brook,2,,True,,False,0.0,940GZZLUSFB,FALSE,False,1.0,Male
+940GZZLUSFB,tube,district,940GZZLUSFB,Stamford Brook,2,,True,,False,0.0,940GZZLUSFB,FALSE,False,2.0,Female
+940GZZLUSFS,tube,district,940GZZLUSFS,Southfields,3,,True,,False,0.0,,,,,
+940GZZLUSGN,tube,district,940GZZLUSGN,Stepney Green,2,,True,,False,0.0,,,,,
+940GZZLUSGN,tube,hammersmith-city,940GZZLUSGN,Stepney Green,2,,True,,False,0.0,,,,,
+940GZZLUSGT,tube,piccadilly,940GZZLUSGT,Southgate,4,,True,,False,0.0,,,,,
+940GZZLUSHH,tube,piccadilly,940GZZLUSHH,South Harrow,5,,True,,False,0.0,,,,,
+940GZZLUSJP,tube,circle,940GZZLUSJP,St James's Park,1,,True,,False,0.0,,,,,
+940GZZLUSJP,tube,district,940GZZLUSJP,St James's Park,1,,True,,False,0.0,,,,,
+940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,0.0,940GZZLUSJW,FALSE,False,1.0,Male
+940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,0.0,940GZZLUSJW,FALSE,False,2.0,Female
+940GZZLUSJW,tube,jubilee,940GZZLUSJW,St John's Wood,2,,True,,False,0.0,940GZZLUSJW,TRUE,False,3.0,Unisex
+940GZZLUSKS,tube,circle,940GZZLUSKS,South Kensington,1,,True,,False,0.0,,,,,
+940GZZLUSKS,tube,district,940GZZLUSKS,South Kensington,1,,True,,False,0.0,,,,,
+940GZZLUSKS,tube,piccadilly,940GZZLUSKS,South Kensington,1,,True,,False,0.0,,,,,
+940GZZLUSKW,tube,victoria,940GZZLUSKW,Stockwell,2,,True,,False,0.0,,,,,
+940GZZLUSKW,tube,northern,940GZZLUSKW,Stockwell,2,,True,,False,0.0,,,,,
+940GZZLUSNB,tube,central,940GZZLUSNB,Snaresbrook,4,,True,,False,0.0,940GZZLUSNB,FALSE,False,1.0,Male
+940GZZLUSNB,tube,central,940GZZLUSNB,Snaresbrook,4,,True,,False,0.0,940GZZLUSNB,FALSE,False,2.0,Female
+940GZZLUSPU,tube,central,940GZZLUSPU,St Paul's,1,,True,,False,0.0,,,,,
+940GZZLUSSQ,tube,circle,940GZZLUSSQ,Sloane Square,1,,True,,False,0.0,,,,,
+940GZZLUSSQ,tube,district,940GZZLUSSQ,Sloane Square,1,,True,,False,0.0,,,,,
+940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,FALSE,False,1.0,Male
+940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,FALSE,False,2.0,Female
+940GZZLUSTM,tube,jubilee,940GZZLUSTM,Stanmore,5,,True,,True,6.0,940GZZLUSTM,TRUE,False,3.0,Unisex
+940GZZLUSUH,tube,piccadilly,940GZZLUSUH,Sudbury Hill,4,,True,,False,0.0,940GZZLUSUH,FALSE,False,1.0,Male
+940GZZLUSUH,tube,piccadilly,940GZZLUSUH,Sudbury Hill,4,,True,,False,0.0,940GZZLUSUH,FALSE,False,2.0,Female
+940GZZLUSUT,tube,piccadilly,940GZZLUSUT,Sudbury Town,4,,True,,True,3.0,940GZZLUSUT,FALSE,False,1.0,Male
+940GZZLUSUT,tube,piccadilly,940GZZLUSUT,Sudbury Town,4,,True,,True,3.0,940GZZLUSUT,FALSE,False,2.0,Female
+940GZZLUSWC,tube,jubilee,940GZZLUSWC,Swiss Cottage,2,,True,,False,0.0,,,,,
+940GZZLUSWF,tube,central,940GZZLUSWF,South Woodford,4,,True,,True,4.0,,,,,
+940GZZLUSWK,tube,jubilee,940GZZLUSWK,Southwark,1,,True,,False,0.0,,,,,
+940GZZLUSWN,tube,northern,940GZZLUSWN,South Wimbledon,3|4,,True,,False,0.0,,,,,
+940GZZLUTAW,tube,northern,940GZZLUTAW,Totteridge & Whetstone,4,,True,,False,0.0,940GZZLUTAW,FALSE,False,1.0,Male
+940GZZLUTAW,tube,northern,940GZZLUTAW,Totteridge & Whetstone,4,,True,,False,0.0,940GZZLUTAW,FALSE,False,2.0,Female
+940GZZLUTBC,tube,northern,940GZZLUTBC,Tooting Bec,3,,True,,False,0.0,,,,,
+940GZZLUTBY,tube,northern,940GZZLUTBY,Tooting Broadway,3,,True,,False,0.0,,,,,
+940GZZLUTCR,tube,central,,,,,,,,,,,,,
+940GZZLUTCR,tube,northern,,,,,,,,,,,,,
+910GTOTCTRD,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZLUTFP,tube,northern,940GZZLUTFP,Tufnell Park,2,,True,,False,0.0,,,,,
+940GZZLUTHB,tube,central,940GZZLUTHB,Theydon Bois,6,,True,,True,3.0,940GZZLUTHB,FALSE,False,1.0,Male
+940GZZLUTHB,tube,central,940GZZLUTHB,Theydon Bois,6,,True,,True,3.0,940GZZLUTHB,FALSE,False,2.0,Female
+940GZZLUTMP,tube,circle,940GZZLUTMP,Temple,1,,True,,False,0.0,,,,,
+940GZZLUTMP,tube,district,940GZZLUTMP,Temple,1,,True,,False,0.0,,,,,
+940GZZLUTNG,tube,district,940GZZLUTNG,Turnham Green,2|3,,True,,False,0.0,,,,,
+940GZZLUTNG,tube,piccadilly,940GZZLUTNG,Turnham Green,2|3,,True,,False,0.0,,,,,
+940GZZLUTPN,tube,piccadilly,940GZZLUTPN,Turnpike Lane,3,,True,,False,0.0,,,,,
+940GZZLUTWH,tube,circle,940GZZLUTWH,Tower Hill,1,,True,,False,0.0,,,,,
+940GZZLUTWH,tube,district,940GZZLUTWH,Tower Hill,1,,True,,False,0.0,,,,,
+940GZZLUUPB,tube,district,940GZZLUUPB,Upminster Bridge,6,,True,,False,0.0,940GZZLUUPB,FALSE,False,1.0,Male
+940GZZLUUPB,tube,district,940GZZLUUPB,Upminster Bridge,6,,True,,False,0.0,940GZZLUUPB,FALSE,False,2.0,Female
+940GZZLUUPK,tube,district,940GZZLUUPK,Upton Park,3,,True,,False,0.0,,,,,
+940GZZLUUPK,tube,hammersmith-city,940GZZLUUPK,Upton Park,3,,True,,False,0.0,,,,,
+940GZZLUUPY,tube,district,940GZZLUUPY,Upney,4,,True,,False,0.0,940GZZLUUPY,FALSE,False,1.0,Male
+940GZZLUUPY,tube,district,940GZZLUUPY,Upney,4,,True,,False,0.0,940GZZLUUPY,FALSE,False,2.0,Female
+940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,FALSE,False,1.0,Male
+940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,FALSE,False,2.0,Female
+940GZZLUUXB,tube,metropolitan,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,TRUE,False,3.0,Unisex
+940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,FALSE,False,1.0,Male
+940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,FALSE,False,2.0,Female
+940GZZLUUXB,tube,piccadilly,940GZZLUUXB,Uxbridge,6,,True,,False,0.0,940GZZLUUXB,TRUE,False,3.0,Unisex
+940GZZLUWAF,tube,metropolitan,940GZZLUWAF,Watford,7,,False,,False,0.0,940GZZLUWAF,FALSE,False,1.0,Male
+940GZZLUWAF,tube,metropolitan,940GZZLUWAF,Watford,7,,False,,False,0.0,940GZZLUWAF,FALSE,False,2.0,Female
+940GZZLUWCY,tube,central,940GZZLUWCY,White City,2,,True,,False,0.0,940GZZLUWCY,FALSE,False,1.0,Male
+940GZZLUWCY,tube,central,940GZZLUWCY,White City,2,,True,,False,0.0,940GZZLUWCY,FALSE,False,2.0,Female
+940GZZLUWFN,tube,northern,940GZZLUWFN,West Finchley,4,,True,,False,0.0,940GZZLUWFN,FALSE,False,1.0,Male
+940GZZLUWFN,tube,northern,940GZZLUWFN,West Finchley,4,,True,,False,0.0,940GZZLUWFN,FALSE,False,2.0,Female
+940GZZLUWHP,tube,jubilee,940GZZLUWHP,West Hampstead,2,HUBWHD,True,,False,0.0,,,,,
+940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,0.0,940GZZLUWHW,FALSE,False,1.0,Male
+940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,0.0,940GZZLUWHW,FALSE,False,2.0,Female
+940GZZLUWHW,tube,metropolitan,940GZZLUWHW,West Harrow,5,,True,,False,0.0,940GZZLUWHW,TRUE,False,3.0,Unisex
+940GZZLUWIG,tube,metropolitan,940GZZLUWIG,Willesden Green,2|3,,True,,False,0.0,940GZZLUWIG,FALSE,False,1.0,Female
+940GZZLUWIG,tube,metropolitan,940GZZLUWIG,Willesden Green,2|3,,True,,False,0.0,940GZZLUWIG,TRUE,False,2.0,Unisex
+940GZZLUWIG,tube,jubilee,940GZZLUWIG,Willesden Green,2|3,,True,,False,0.0,940GZZLUWIG,FALSE,False,1.0,Female
+940GZZLUWIG,tube,jubilee,940GZZLUWIG,Willesden Green,2|3,,True,,False,0.0,940GZZLUWIG,TRUE,False,2.0,Unisex
+940GZZLUWIP,tube,district,940GZZLUWIP,Wimbledon Park,3,,True,,False,0.0,,,,,
+940GZZLUWKA,tube,bakerloo,940GZZLUWKA,Warwick Avenue,2,,True,,False,0.0,,,,,
+940GZZLUWKN,tube,district,940GZZLUWKN,West Kensington,2,,True,,False,0.0,,,,,
+940GZZLUWLA,tube,circle,940GZZLUWLA,Wood Lane,2,,True,,False,0.0,940GZZLUWLA,TRUE,False,1.0,Unisex
+940GZZLUWLA,tube,hammersmith-city,940GZZLUWLA,Wood Lane,2,,True,,False,0.0,940GZZLUWLA,TRUE,False,1.0,Unisex
+940GZZLUWOF,tube,central,940GZZLUWOF,Woodford,4,,True,,True,10.0,940GZZLUWOF,FALSE,False,1.0,Male
+940GZZLUWOF,tube,central,940GZZLUWOF,Woodford,4,,True,,True,10.0,940GZZLUWOF,FALSE,False,2.0,Female
+940GZZLUWOG,tube,piccadilly,940GZZLUWOG,Wood Green,3,,True,,False,0.0,,,,,
+940GZZLUWOP,tube,northern,940GZZLUWOP,Woodside Park,4,,True,,True,5.0,940GZZLUWOP,FALSE,False,1.0,Male
+940GZZLUWOP,tube,northern,940GZZLUWOP,Woodside Park,4,,True,,True,5.0,940GZZLUWOP,FALSE,False,2.0,Female
+940GZZLUWRR,tube,northern,940GZZLUWRR,Warren Street,1,,True,,False,0.0,,,,,
+940GZZLUWRR,tube,victoria,940GZZLUWRR,Warren Street,1,,True,,False,0.0,,,,,
+940GZZLUWSD,tube,central,940GZZLUWSD,Wanstead,4,,True,,False,0.0,,,,,
+940GZZLUWSP,tube,circle,940GZZLUWSP,Westbourne Park,2,,True,,False,0.0,,,,,
+940GZZLUWSP,tube,hammersmith-city,940GZZLUWSP,Westbourne Park,2,,True,,False,0.0,,,,,
+940GZZLUWTA,tube,central,940GZZLUWTA,West Acton,3,,True,,False,0.0,940GZZLUWTA,FALSE,False,1.0,Male
+940GZZLUWTA,tube,central,940GZZLUWTA,West Acton,3,,True,,False,0.0,940GZZLUWTA,FALSE,False,2.0,Female
+940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,1.0,Male
+940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,2.0,Female
+940GZZLUWYP,tube,metropolitan,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,TRUE,False,3.0,Unisex
+940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,1.0,Male
+940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,FALSE,False,2.0,Female
+940GZZLUWYP,tube,jubilee,940GZZLUWYP,Wembley Park,4,,True,,True,6.0,940GZZLUWYP,TRUE,False,3.0,Unisex
+940GZZLUAMS,tube,metropolitan,,,,,,,,,,,,,
+910GAMERSHM,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUBLM,tube,northern,,,,,,,,,,,,,
+910GBALHAM,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUBNK,tube,northern,,,,,,,,,,,,,
+940GZZLUBNK,tube,central,,,,,,,,,,,,,
+940GZZLUBNK,tube,waterloo-city,,,,,,,,,,,,,
+940GZZDLBNK,dlr,dlr,,,,,,,,,,,,,
+940GZZCRBEK,tram,tram,,,,,,,,,,,,,
+910GBCKNHMJ,nationalRail,national-rail,,,,,,,,,,,,,
+910GBLFR,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUBKF,tube,circle,,,,,,,,,,,,,
+940GZZLUBKF,tube,district,,,,,,,,,,,,,
+940GZZLUBLR,tube,victoria,,,,,,,,,,,,,
+910GBLCHSRD,overground,suffragette,,,,,,,,,,,,,
+940GZZCRBIR,tram,tram,,,,,,,,,,,,,
+910GBIRKBCK,nationalRail,national-rail,,,,,,,,,,,,,
+910GBARKING,overground,suffragette,,,,,,,,,,,,,
+940GZZLUBKG,tube,district,,,,,,,,,,,,,
+940GZZLUBKG,tube,hammersmith-city,,,,,,,,,,,,,
+910GBARKING,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUBXN,tube,victoria,,,,,,,,,,,,,
+910GBRIXTON,nationalRail,national-rail,,,,,,,,,,,,,
+910GBUSHEY,overground,lioness,,,,,,,,,,,,,
+910GBUSHEY,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLCGT,dlr,dlr,,,,,,,,,,,,,
+940GZZLUCGT,tube,jubilee,,,,,,,,,,,,,
+940GZZDLCAN,dlr,dlr,,,,,,,,,,,,,
+940GZZLUCYF,tube,jubilee,,,,,,,,,,,,,
+910GCANWHRF,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZLUCAL,tube,metropolitan,,,,,,,,,,,,,
+910GCHLFNAL,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUCHX,tube,bakerloo,,,,,,,,,,,,,
+940GZZLUCHX,tube,northern,,,,,,,,,,,,,
+910GCHRX,nationalRail,national-rail,,,,,,,,,,,,,
+910GCLPHMJ1,overground,mildmay,,,,,,,,,,,,,
+910GCLPHMJ1,overground,windrush,,,,,,,,,,,,,
+940GZZLUCYD,tube,metropolitan,,,,,,,,,,,,,
+910GCHRW,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUCST,tube,circle,,,,,,,,,,,,,
+940GZZLUCST,tube,district,,,,,,,,,,,,,
+910GCANONST,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLCUT,dlr,dlr,,,,,,,,,,,,,
+910GCRYSTLP,overground,windrush,,,,,,,,,,,,,
+910GEALINGB,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GEALINGB,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUEBY,tube,central,,,,,,,,,,,,,
+940GZZLUEBY,tube,district,,,,,,,,,,,,,
+940GZZCRECR,tram,tram,,,,,,,,,,,,,
+910GECROYDN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZCRELM,tram,tram,,,,,,,,,,,,,
+940GZZLUEAC,tube,northern,,,,,,,,,,,,,
+910GELPHNAC,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUEAC,tube,bakerloo,,,,,,,,,,,,,
+940GZZLUEUS,tube,northern,,,,,,,,,,,,,
+940GZZLUEUS,tube,victoria,,,,,,,,,,,,,
+910GEUSTON,overground,lioness,,,,,,,,,,,,,
+910GEUSTON,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUFPK,tube,piccadilly,,,,,,,,,,,,,
+940GZZLUFPK,tube,victoria,,,,,,,,,,,,,
+910GFNPK,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUGFD,tube,central,,,,,,,,,,,,,
+910GGFORD,nationalRail,national-rail,,,,,,,,,,,,,
+910GGNWH,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLGRE,dlr,dlr,,,,,,,,,,,,,
+940GZZLUGBY,tube,district,,,,,,,,,,,,,
+910GGNRSBRY,overground,mildmay,,,,,,,,,,,,,
+940GZZLUHRC,tube,piccadilly,,,,,,,,,,,,,
+910GHTRWAPT,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GHTRWAPT,nationalRail,national-rail,,,,,,,,,,,,,
+910GHARLSDN,overground,lioness,,,,,,,,,,,,,
+940GZZLUHSN,tube,bakerloo,,,,,,,,,,,,,
+910GHGHI,overground,windrush,,,,,,,,,,,,,
+940GZZLUHAI,tube,victoria,,,,,,,,,,,,,
+910GHGHI,overground,mildmay,,,,,,,,,,,,,
+940GZZLUHSC,tube,circle,,,,,,,,,,,,,
+940GZZLUHSC,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZLUHSD,tube,district,,,,,,,,,,,,,
+940GZZLUHSD,tube,piccadilly,,,,,,,,,,,,,
+940GZZLUHOH,tube,metropolitan,,,,,,,,,,,,,
+910GHAROOTH,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUHAW,tube,bakerloo,,,,,,,,,,,,,
+910GHROW,overground,lioness,,,,,,,,,,,,,
+910GHTRWTM4,elizabeth-line,elizabeth,,,,,,,,,,,,,
+9400GZLUHR41,tube,piccadilly,,,,,,,,,,,,,
+910GHTRWTM5,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GHTRWTM6,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUHR5,tube,piccadilly,,,,,,,,,,,,,
+910GCSEAH,overground,mildmay,,,,,,,,,,,,,
+910GCSEAH,nationalRail,national-rail,,,,,,,,,,,,,
+910GKNGX,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUKSX,tube,circle,,,,,,,,,,,,,
+940GZZLUKSX,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZLUKSX,tube,metropolitan,,,,,,,,,,,,,
+940GZZLUKSX,tube,victoria,,,,,,,,,,,,,
+940GZZLUKSX,tube,piccadilly,,,,,,,,,,,,,
+940GZZLUKSX,tube,northern,,,,,,,,,,,,,
+940GZZLUKSL,tube,bakerloo,,,,,,,,,,,,,
+910GKENSLG,overground,lioness,,,,,,,,,,,,,
+940GZZLUKEN,tube,bakerloo,,,,,,,,,,,,,
+910GKTON,overground,lioness,,,,,,,,,,,,,
+940GZZLUKOY,tube,district,,,,,,,,,,,,,
+910GKENOLYM,overground,mildmay,,,,,,,,,,,,,
+910GKENOLYM,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUKSH,tube,northern,,,,,,,,,,,,,
+910GKNTSHTN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUKWG,tube,district,,,,,,,,,,,,,
+910GKEWGRDN,overground,mildmay,,,,,,,,,,,,,
+940GZZLULNB,tube,northern,,,,,,,,,,,,,
+940GZZLULNB,tube,jubilee,,,,,,,,,,,,,
+910GLNDNBDC,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLLCA,dlr,dlr,,,,,,,,,,,,,
+940GZZDLLEW,dlr,dlr,,,,,,,,,,,,,
+940GZZDLLIM,dlr,dlr,,,,,,,,,,,,,
+940GZZLULVT,tube,circle,,,,,,,,,,,,,
+940GZZLULVT,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZLULVT,tube,metropolitan,,,,,,,,,,,,,
+910GLIVST,overground,weaver,,,,,,,,,,,,,
+910GLIVST,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLULVT,tube,central,,,,,,,,,,,,,
+910GLIVST,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GLIVSTLL,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZCRMJT,tram,tram,,,,,,,,,,,,,
+910GMITCHMJ,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUMYB,tube,bakerloo,,,,,,,,,,,,,
+910GMARYLBN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUNWY,tube,bakerloo,,,,,,,,,,,,,
+910GNWEMBLY,overground,lioness,,,,,,,,,,,,,
+910GNORWDJ,overground,windrush,,,,,,,,,,,,,
+910GNORWDJ,nationalRail,national-rail,,,,,,,,,,,,,
+910GNWCRELL,overground,windrush,,,,,,,,,,,,,
+910GNEWXGTE,overground,windrush,,,,,,,,,,,,,
+940GZZLUODS,tube,northern,,,,,,,,,,,,,
+910GOLDST,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUPAC,tube,circle,,,,,,,,,,,,,
+940GZZLUPAC,tube,district,,,,,,,,,,,,,
+940GZZLUPAC,tube,bakerloo,,,,,,,,,,,,,
+910GPADTON,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GPADTON,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUPAH,tube,circle,,,,,,,,,,,,,
+940GZZLUPAH,tube,hammersmith-city,,,,,,,,,,,,,
+910GPADTLL,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GQPRK,overground,lioness,,,,,,,,,,,,,
+940GZZLUQPS,tube,bakerloo,,,,,,,,,,,,,
+940GZZLURKW,tube,metropolitan,,,,,,,,,,,,,
+910GRCKMNSW,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLURMD,tube,district,,,,,,,,,,,,,
+910GRICHMND,overground,mildmay,,,,,,,,,,,,,
+940GZZLUSGP,tube,bakerloo,,,,,,,,,,,,,
+910GSTNBGPK,overground,lioness,,,,,,,,,,,,,
+940GZZDLSHA,dlr,dlr,,,,,,,,,,,,,
+910GSHADWEL,overground,windrush,,,,,,,,,,,,,
+940GZZLUSKT,tube,bakerloo,,,,,,,,,,,,,
+910GSKENTON,overground,lioness,,,,,,,,,,,,,
+910GSHPDSB,overground,mildmay,,,,,,,,,,,,,
+910GSHPDSB,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUSBC,tube,central,,,,,,,,,,,,,
+910GSTFD,overground,mildmay,,,,,,,,,,,,,
+940GZZLUSTD,tube,central,,,,,,,,,,,,,
+910GSTFD,elizabeth-line,elizabeth,,,,,,,,,,,,,
+910GSTFD,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUSTD,tube,jubilee,,,,,,,,,,,,,
+940GZZDLSTD,dlr,dlr,,,,,,,,,,,,,
+940GZZLUSRP,tube,central,,,,,,,,,,,,,
+910GSEVNSIS,overground,weaver,,,,,,,,,,,,,
+910GSEVNSIS,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUSVS,tube,victoria,,,,,,,,,,,,,
+910GSYDENHM,overground,windrush,,,,,,,,,,,,,
+910GSYDENHM,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLTWG,dlr,dlr,,,,,,,,,,,,,
+940GZZLUTMH,tube,victoria,,,,,,,,,,,,,
+940GZZLUUPM,tube,district,,,,,,,,,,,,,
+910GUPMNSTR,overground,liberty,,,,,,,,,,,,,
+940GZZLUVIC,tube,circle,,,,,,,,,,,,,
+940GZZLUVIC,tube,district,,,,,,,,,,,,,
+940GZZLUVIC,tube,victoria,,,,,,,,,,,,,
+940GZZLUVXL,tube,victoria,,,,,,,,,,,,,
+940GZZLUWLO,tube,northern,,,,,,,,,,,,,
+940GZZLUWLO,tube,bakerloo,,,,,,,,,,,,,
+940GZZLUWLO,tube,jubilee,,,,,,,,,,,,,
+940GZZLUWLO,tube,waterloo-city,,,,,,,,,,,,,
+940GZZLUWBN,tube,district,,,,,,,,,,,,,
+910GWBRMPTN,overground,mildmay,,,,,,,,,,,,,
+910GWBRMPTN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZCRWCR,tram,tram,,,,,,,,,,,,,
+910GWCROYDN,overground,windrush,,,,,,,,,,,,,
+910GWCROYDN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUWHM,tube,district,,,,,,,,,,,,,
+940GZZLUWHM,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZDLWHM,dlr,dlr,,,,,,,,,,,,,
+940GZZLUWHM,tube,jubilee,,,,,,,,,,,,,
+910GWHAMHL,nationalRail,national-rail,,,,,,,,,,,,,
+910GWATFDJ,overground,lioness,,,,,,,,,,,,,
+910GWLTWCEN,overground,weaver,,,,,,,,,,,,,
+940GZZLUWWL,tube,victoria,,,,,,,,,,,,,
+940GZZLUWJN,tube,bakerloo,,,,,,,,,,,,,
+910GWLSDJHL,overground,lioness,,,,,,,,,,,,,
+910GWLSDJHL,overground,mildmay,,,,,,,,,,,,,
+940GZZCRWMB,tram,tram,,,,,,,,,,,,,
+940GZZLUWIM,tube,district,,,,,,,,,,,,,
+910GWIMBLDN,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUWYC,tube,bakerloo,,,,,,,,,,,,,
+910GWMBY,overground,lioness,,,,,,,,,,,,,
+910GWMBY,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUWRP,tube,central,,,,,,,,,,,,,
+940GZZLUWSM,tube,circle,,,,,,,,,,,,,
+940GZZLUWSM,tube,district,,,,,,,,,,,,,
+940GZZLUWSM,tube,jubilee,,,,,,,,,,,,,
+910GWOLWCHA,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZDLWLA,dlr,dlr,,,,,,,,,,,,,
+940GZZLUCWR,tube,jubilee,,,,,,,,,,,,,
+910GCNDAW,overground,windrush,,,,,,,,,,,,,
+940GZZLUFCN,tube,circle,,,,,,,,,,,,,
+940GZZLUFCN,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZLUFCN,tube,metropolitan,,,,,,,,,,,,,
+910GFRNDNLT,nationalRail,national-rail,,,,,,,,,,,,,
+910GFRNDXR,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZLUMGT,tube,circle,,,,,,,,,,,,,
+940GZZLUMGT,tube,hammersmith-city,,,,,,,,,,,,,
+940GZZLUMGT,tube,metropolitan,,,,,,,,,,,,,
+940GZZLUMGT,tube,northern,,,,,,,,,,,,,
+910GMGRT,nationalRail,national-rail,,,,,,,,,,,,,
+940GZZLUWPL,tube,district,,,,,,,,,,,,,
+940GZZLUWPL,tube,hammersmith-city,,,,,,,,,,,,,
+910GWCHAPEL,overground,windrush,,,,,,,,,,,,,
+910GWCHAPXR,elizabeth-line,elizabeth,,,,,,,,,,,,,
+940GZZBPSUST,tube,northern,940GZZBPSUST,Battersea Power Station,1,,True,,False,0.0,940GZZBPSUST,TRUE,False,1.0,Unisex
+940GZZNEUGST,tube,northern,940GZZNEUGST,Nine Elms,1,,True,,False,0.0,940GZZNEUGST,TRUE,False,1.0,Unisex
+910GBKRVS,overground,suffragette,910GBKRVS,Barking Riverside,4,910GBKRVS,True,,False,0.0,910GBKRVS,TRUE,False,1.0,Unisex

@@ -1,231 +1,231 @@
 date,event_type,event_name,affected_lines,expected_attendance
 2023-01-02,Festivo,New Year’s Day (sustituto),General,
-2023-02-14,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
-2023-02-15,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
-2023-02-19,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
-2023-02-20,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
-2023-03-22,Concierto masivo,King Gizzard & the Lizard Wizard,Victoria,
-2023-03-23,Concierto masivo,King Gizzard & the Lizard Wizard,Victoria,
-2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),National Rail,83000.0
-2023-04-06,Festivo,Semana Santa,Jubilee,
-2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Central,83000.0
-2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Bakerloo,83000.0
-2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Metropolitan,83000.0
 2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Jubilee,83000.0
-2023-04-06,Festivo,Semana Santa,Central,
-2023-04-06,Festivo,Semana Santa,Piccadilly,
+2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Metropolitan,83000.0
+2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Bakerloo,83000.0
+2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Central,83000.0
 2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),Overground,83000.0
-2023-04-06,Festivo,Semana Santa,District,
+2023-04-06,Evento deportivo,Women's Finalissima (Inglaterra vs Brasil),National Rail,83000.0
 2023-04-07,Festivo,Good Friday,General,
 2023-04-10,Festivo,Easter Monday,General,
-2023-04-12,Concierto masivo,Elton John - Farewell Tour,Jubilee,
-2023-04-20,Concierto masivo,Bloc Party - This Is Why Tour,Jubilee,
-2023-04-23,Concierto masivo,Bloc Party - This Is Why Tour,Jubilee,
 2023-04-23,Evento deportivo,London Marathon,Piccadilly,48000.0
 2023-04-23,Evento deportivo,London Marathon,Jubilee,48000.0
 2023-04-23,Evento deportivo,London Marathon,Circle & District,48000.0
 2023-05-01,Festivo,Early May Bank Holiday,General,
-2023-05-06,Evento cultural,Coronación Rey Carlos III,Circle,
-2023-05-06,Evento cultural,Coronación Rey Carlos III,District,
-2023-05-06,Evento cultural,Coronación Rey Carlos III,Piccadilly,
-2023-05-06,Evento cultural,Coronación Rey Carlos III,Jubilee,
-2023-05-06,Evento cultural,Coronación Rey Carlos III,Victoria,
-2023-05-14,Concierto masivo,Olivia Rodrigo - Guts World Tour,Jubilee,
-2023-05-18,Concierto masivo,Olivia Rodrigo - Guts World Tour,Jubilee,
-2023-05-29,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
-2023-05-29,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
+2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Jubilee,50000.0
+2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Central,50000.0
+2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Overground,50000.0
+2023-07-23,Evento deportivo,Anniversary Games (Diamond League),DLR,50000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Jubilee,81000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Metropolitan,81000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Bakerloo,81000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Central,81000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Overground,81000.0
+2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),National Rail,81000.0
+2023-08-28,Evento cultural,Notting Hill Carnival,Central,2000000.0
+2023-08-28,Evento cultural,Notting Hill Carnival,Circle & District,2000000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Jubilee,72000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Metropolitan,72000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Bakerloo,72000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Central,72000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Overground,72000.0
+2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),National Rail,72000.0
+2023-08-28,Festivo,Summer Bank Holiday,General,
+2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Jubilee,62000.0
+2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Central,62000.0
+2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,DLR,62000.0
+2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Overground,62000.0
+2023-12-25,Festivo,Christmas Day,General,
+2023-12-26,Festivo,Boxing Day,General,
 2023-05-29,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
-2023-05-29,Festivo,Spring Bank Holiday,Central,
-2023-05-29,Festivo,Spring Bank Holiday,District,
-2023-05-29,Festivo,Spring Bank Holiday,Jubilee,
-2023-05-29,Festivo,Spring Bank Holiday,Piccadilly,
-2023-05-30,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
+2023-05-29,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
+2023-05-29,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
 2023-05-30,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
 2023-05-30,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
+2023-05-30,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
+2023-06-01,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
 2023-06-01,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
 2023-06-01,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
-2023-06-01,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
 2023-06-02,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
 2023-06-02,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
 2023-06-02,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
 2023-06-04,Concierto masivo,Beyoncé – Renaissance World Tour,Victoria,48000.0
 2023-06-04,Concierto masivo,Beyoncé – Renaissance World Tour,Overground,48000.0
 2023-06-04,Concierto masivo,Beyoncé – Renaissance World Tour,National Rail,48000.0
-2023-06-16,Concierto masivo,Arctic Monkeys,Overground,
-2023-06-16,Concierto masivo,Arctic Monkeys,Piccadilly,
-2023-06-16,Concierto masivo,Arctic Monkeys,Victoria,
-2023-06-17,Evento cultural,Trooping the Colour,Victoria,
-2023-06-17,Evento cultural,Trooping the Colour,Jubilee,
-2023-06-17,Concierto masivo,Lorde - Dreamworld Tour,Jubilee,
-2023-06-17,Concierto masivo,Arctic Monkeys,Overground,
-2023-06-17,Concierto masivo,Arctic Monkeys,Piccadilly,
-2023-06-17,Evento cultural,Trooping the Colour,Circle,
-2023-06-17,Evento cultural,Trooping the Colour,District,
-2023-06-17,Concierto masivo,Lorde - Dreamworld Tour,Metropolitan,
-2023-06-17,Concierto masivo,Arctic Monkeys,Victoria,
-2023-06-18,Concierto masivo,Arctic Monkeys,Piccadilly,
-2023-06-18,Concierto masivo,Arctic Monkeys,Victoria,
-2023-06-18,Concierto masivo,Arctic Monkeys,Overground,
-2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,District,
-2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,Piccadilly,
-2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,Hammersmith & City,
-2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
 2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
 2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
 2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
 2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
 2023-06-21,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
 2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
 2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-06-22,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
 2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
 2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
 2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
 2023-06-23,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
+2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
+2023-04-12,Concierto masivo,Elton John - Farewell Tour,Jubilee,
+2023-04-20,Concierto masivo,Bloc Party - This Is Why Tour,Jubilee,
+2023-04-23,Concierto masivo,Bloc Party - This Is Why Tour,Jubilee,
+2023-03-22,Concierto masivo,King Gizzard & the Lizard Wizard,Victoria,
+2023-03-23,Concierto masivo,King Gizzard & the Lizard Wizard,Victoria,
+2023-05-14,Concierto masivo,Olivia Rodrigo - Guts World Tour,Jubilee,
+2023-05-18,Concierto masivo,Olivia Rodrigo - Guts World Tour,Jubilee,
+2023-11-17,Concierto masivo,Jessie Ware - That! Feels Good! Tour,Piccadilly,
+2023-11-17,Concierto masivo,Jessie Ware - That! Feels Good! Tour,National Rail,
+2023-11-18,Concierto masivo,Jessie Ware - That! Feels Good! Tour,Piccadilly,
+2023-11-18,Concierto masivo,Jessie Ware - That! Feels Good! Tour,National Rail,
+2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,Piccadilly,
+2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,District,
+2023-06-19,Concierto masivo,Lana del Rey - Tour 2023,Hammersmith & City,
+2023-06-17,Concierto masivo,Lorde - Dreamworld Tour,Jubilee,
+2023-06-17,Concierto masivo,Lorde - Dreamworld Tour,Metropolitan,
 2023-06-24,Concierto masivo,BST Hyde Park - Summer Carnival,Jubilee,65000.0
 2023-06-24,Concierto masivo,BST Hyde Park - Summer Carnival,Piccadilly,65000.0
 2023-06-24,Concierto masivo,BST Hyde Park - Summer Carnival,Victoria,65000.0
 2023-06-24,Concierto masivo,BST Hyde Park - Summer Carnival,Central,65000.0
-2023-06-24,Evento deportivo,Wimbledon Championships,District,
-2023-06-24,Evento deportivo,Wimbledon Championships,Jubilee,
-2023-06-24,Evento deportivo,Wimbledon Championships,Piccadilly,
-2023-06-24,Evento deportivo,Wimbledon Championships,Victoria,
 2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Jubilee,65000.0
-2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Central,65000.0
-2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Victoria,65000.0
 2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Piccadilly,65000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
-2023-06-28,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
-2023-06-29,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
-2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Piccadilly,
-2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Jubilee,
-2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Victoria,
-2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Central,
-2023-07-01,Evento cultural,Pride in London 2023,Jubilee,1000000.0
-2023-07-01,Evento cultural,Pride in London 2023,Central,1000000.0
-2023-07-01,Evento cultural,Pride in London 2023,Piccadilly,1000000.0
-2023-07-01,Evento cultural,Pride in London 2023,Victoria,1000000.0
-2023-07-07,Concierto masivo,Black Eyed Peas,Central,65000.0
+2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Victoria,65000.0
+2023-06-25,Concierto masivo,BST Hyde Park - Summer Carnival,Central,65000.0
 2023-07-07,Concierto masivo,Black Eyed Peas,Jubilee,65000.0
 2023-07-07,Concierto masivo,Black Eyed Peas,Piccadilly,65000.0
 2023-07-07,Concierto masivo,Black Eyed Peas,Victoria,65000.0
-2023-07-09,Concierto masivo,Blur,National Rail,94000.0
-2023-07-09,Concierto masivo,Blur,Overground,94000.0
-2023-07-09,Concierto masivo,Blur,Bakerloo,94000.0
-2023-07-09,Concierto masivo,Blur,Metropolitan,94000.0
-2023-07-09,Concierto masivo,Blur,Central,94000.0
+2023-07-07,Concierto masivo,Black Eyed Peas,Central,65000.0
 2023-07-09,Concierto masivo,Blur,Jubilee,94000.0
-2023-07-21,Concierto masivo,Red Hot Chili Peppers,Overground,48000.0
+2023-07-09,Concierto masivo,Blur,Metropolitan,94000.0
+2023-07-09,Concierto masivo,Blur,Bakerloo,94000.0
+2023-07-09,Concierto masivo,Blur,Central,94000.0
+2023-07-09,Concierto masivo,Blur,Overground,94000.0
+2023-07-09,Concierto masivo,Blur,National Rail,94000.0
 2023-07-21,Concierto masivo,Red Hot Chili Peppers,Victoria,48000.0
+2023-07-21,Concierto masivo,Red Hot Chili Peppers,Overground,48000.0
 2023-07-21,Concierto masivo,Red Hot Chili Peppers,National Rail,48000.0
-2023-07-23,Evento deportivo,Anniversary Games (Diamond League),DLR,50000.0
-2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Overground,50000.0
-2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Central,50000.0
-2023-07-23,Evento deportivo,Anniversary Games (Diamond League),Jubilee,50000.0
-2023-07-29,Evento deportivo,Formula E London ePrix,DLR,
-2023-07-29,Evento deportivo,Formula E London ePrix,Jubilee,
-2023-07-29,Evento deportivo,Formula E London ePrix,Overground,
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Jubilee,81000.0
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),National Rail,81000.0
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Overground,81000.0
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Central,81000.0
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Bakerloo,81000.0
-2023-08-06,Evento deportivo,FA Community Shield (Arsenal vs Man City),Metropolitan,81000.0
-2023-08-11,Festival/Evento al aire libre,N-Dubz,Piccadilly,
-2023-08-11,Festival/Evento al aire libre,N-Dubz,Overground,
-2023-08-11,Festival/Evento al aire libre,N-Dubz,District,
-2023-08-12,Festival/Evento al aire libre,McFly - Pub In The Park,District,
-2023-08-12,Festival/Evento al aire libre,McFly - Pub In The Park,Overground,
-2023-08-13,Festival/Evento al aire libre,Craig David - South Facing Concert Series,National Rail,
-2023-08-13,Festival/Evento al aire libre,Craig David - South Facing Concert Series,Overground,
 2023-08-13,Concierto masivo,Limp Bizkit,Victoria,
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
-2023-08-15,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
-2023-08-16,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Overground,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Central,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Metropolitan,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Jubilee,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,National Rail,94000.0
-2023-08-17,Concierto masivo,Taylor Swift – The Eras Tour,Bakerloo,94000.0
-2023-08-18,Concierto masivo,The Weeknd,Bakerloo,94000.0
-2023-08-18,Concierto masivo,The Weeknd,National Rail,94000.0
-2023-08-18,Concierto masivo,The Weeknd,Overground,94000.0
-2023-08-18,Concierto masivo,The Weeknd,Central,94000.0
 2023-08-18,Concierto masivo,The Weeknd,Jubilee,94000.0
 2023-08-18,Concierto masivo,The Weeknd,Metropolitan,94000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Jubilee,72000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Overground,72000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Central,72000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Bakerloo,72000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),Metropolitan,72000.0
-2023-08-27,Evento deportivo/espectáculo,AEW All In: London (lucha libre),National Rail,72000.0
-2023-08-28,Evento cultural,Notting Hill Carnival,Circle & District,2000000.0
-2023-08-28,Evento cultural,Notting Hill Carnival,Central,2000000.0
-2023-08-28,Festivo,Summer Bank Holiday,General,
-2023-08-31,Concierto masivo,The Walkmen,Northern,
-2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Overground,62000.0
-2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,DLR,62000.0
-2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Central,62000.0
-2023-09-09,Evento deportivo/benéfico,Sidemen Charity Match,Jubilee,62000.0
+2023-08-18,Concierto masivo,The Weeknd,Bakerloo,94000.0
+2023-08-18,Concierto masivo,The Weeknd,Central,94000.0
+2023-08-18,Concierto masivo,The Weeknd,Overground,94000.0
+2023-08-18,Concierto masivo,The Weeknd,National Rail,94000.0
+2023-10-17,Concierto masivo,Madonna - Celebration Tour,Jubilee,
+2023-11-04,Concierto masivo,The Chemical Brothers,Jubilee,
+2023-11-11,Concierto masivo,50 Cent - Final Lap Tour,Jubilee,
+2023-12-07,Concierto masivo,The View,Northern,
+2023-02-14,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
+2023-02-15,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
+2023-02-19,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
+2023-02-20,Concierto masivo,Chris Brown - Under the Influence Tour,Jubilee,
+2023-08-12,Festival/Evento al aire libre,McFly - Pub In The Park,District,
+2023-08-12,Festival/Evento al aire libre,McFly - Pub In The Park,Overground,
 2023-09-23,Concierto masivo,The National,Piccadilly,
 2023-09-23,Concierto masivo,The National,National Rail,
 2023-10-11,Concierto masivo,Blink-182,Jubilee,
 2023-10-12,Concierto masivo,Blink-182,Jubilee,
-2023-10-17,Concierto masivo,Madonna - Celebration Tour,Jubilee,
-2023-10-24,Concierto masivo,Ellie Goulding,Northern,
-2023-10-28,Concierto masivo,S Club 7,Jubilee,
+2023-11-17,Concierto masivo,Louis Tomlinson,Jubilee,
 2023-11-03,Concierto masivo,Maisie Peters,Piccadilly,
 2023-11-03,Concierto masivo,Maisie Peters,District,
 2023-11-03,Concierto masivo,Maisie Peters,Hammersmith & City,
-2023-11-04,Concierto masivo,The Chemical Brothers,Jubilee,
-2023-11-08,Concierto masivo,Cliff Richard,Hammersmith & City,
-2023-11-08,Concierto masivo,Cliff Richard,District,
-2023-11-08,Concierto masivo,Cliff Richard,Piccadilly,
-2023-11-11,Concierto masivo,50 Cent - Final Lap Tour,Jubilee,
-2023-11-11,Concierto masivo,Norah Jones,Central,
-2023-11-11,Concierto masivo,Norah Jones,Bakerloo,
-2023-11-11,Concierto masivo,Norah Jones,Victoria,
-2023-11-17,Concierto masivo,Jessie Ware - That! Feels Good! Tour,Piccadilly,
-2023-11-17,Concierto masivo,Louis Tomlinson,Jubilee,
-2023-11-17,Concierto masivo,Jessie Ware - That! Feels Good! Tour,National Rail,
-2023-11-18,Concierto masivo,Jessie Ware - That! Feels Good! Tour,Piccadilly,
-2023-11-18,Concierto masivo,Jessie Ware - That! Feels Good! Tour,National Rail,
 2023-11-27,Concierto masivo,Cian Ducrot,Piccadilly,
-2023-11-27,Concierto masivo,Cian Ducrot,Hammersmith & City,
 2023-11-27,Concierto masivo,Cian Ducrot,District,
-2023-12-07,Concierto masivo,The View,Northern,
-2023-12-08,Concierto masivo,Jamie Cullum,Piccadilly,
-2023-12-08,Concierto masivo,Jamie Cullum,Circle,
-2023-12-08,Concierto masivo,Jamie Cullum,District,
+2023-11-27,Concierto masivo,Cian Ducrot,Hammersmith & City,
+2023-08-13,Festival/Evento al aire libre,Craig David - South Facing Concert Series,Overground,
+2023-08-13,Festival/Evento al aire libre,Craig David - South Facing Concert Series,National Rail,
+2023-08-31,Concierto masivo,The Walkmen,Northern,
+2023-08-11,Festival/Evento al aire libre,N-Dubz,Piccadilly,
+2023-08-11,Festival/Evento al aire libre,N-Dubz,District,
+2023-08-11,Festival/Evento al aire libre,N-Dubz,Overground,
+2023-10-24,Concierto masivo,Ellie Goulding,Northern,
+2023-10-28,Concierto masivo,S Club 7,Jubilee,
+2023-11-11,Concierto masivo,Norah Jones,Victoria,
+2023-11-11,Concierto masivo,Norah Jones,Bakerloo,
+2023-11-11,Concierto masivo,Norah Jones,Central,
+2023-11-08,Concierto masivo,Cliff Richard,Piccadilly,
+2023-11-08,Concierto masivo,Cliff Richard,District,
+2023-11-08,Concierto masivo,Cliff Richard,Hammersmith & City,
 2023-12-12,Concierto masivo,Leona Lewis,Piccadilly,
 2023-12-12,Concierto masivo,Leona Lewis,District,
 2023-12-12,Concierto masivo,Leona Lewis,Hammersmith & City,
-2023-12-25,Festivo,Christmas Day,General,
-2023-12-26,Festivo,Boxing Day,General,
+2023-12-08,Concierto masivo,Jamie Cullum,Piccadilly,
+2023-12-08,Concierto masivo,Jamie Cullum,Circle,
+2023-12-08,Concierto masivo,Jamie Cullum,District,
+2023-06-16,Concierto masivo,Arctic Monkeys,Piccadilly,
+2023-06-16,Concierto masivo,Arctic Monkeys,Victoria,
+2023-06-16,Concierto masivo,Arctic Monkeys,Overground,
+2023-06-17,Concierto masivo,Arctic Monkeys,Piccadilly,
+2023-06-17,Concierto masivo,Arctic Monkeys,Victoria,
+2023-06-17,Concierto masivo,Arctic Monkeys,Overground,
+2023-06-18,Concierto masivo,Arctic Monkeys,Piccadilly,
+2023-06-18,Concierto masivo,Arctic Monkeys,Victoria,
+2023-06-18,Concierto masivo,Arctic Monkeys,Overground,
+2023-04-06,Festivo,Semana Santa,Central,
+2023-04-06,Festivo,Semana Santa,Piccadilly,
+2023-04-06,Festivo,Semana Santa,Jubilee,
+2023-04-06,Festivo,Semana Santa,District,
+2023-05-06,Evento cultural,Coronación Rey Carlos III,Victoria,
+2023-05-06,Evento cultural,Coronación Rey Carlos III,Jubilee,
+2023-05-06,Evento cultural,Coronación Rey Carlos III,Piccadilly,
+2023-05-06,Evento cultural,Coronación Rey Carlos III,District,
+2023-05-06,Evento cultural,Coronación Rey Carlos III,Circle,
+2023-05-29,Festivo,Spring Bank Holiday,Central,
+2023-05-29,Festivo,Spring Bank Holiday,Piccadilly,
+2023-05-29,Festivo,Spring Bank Holiday,Jubilee,
+2023-05-29,Festivo,Spring Bank Holiday,District,
+2023-06-17,Evento cultural,Trooping the Colour,Victoria,
+2023-06-17,Evento cultural,Trooping the Colour,Jubilee,
+2023-06-17,Evento cultural,Trooping the Colour,District,
+2023-06-17,Evento cultural,Trooping the Colour,Circle,
+2023-06-24,Evento deportivo,Wimbledon Championships,District,
+2023-06-24,Evento deportivo,Wimbledon Championships,Jubilee,
+2023-06-24,Evento deportivo,Wimbledon Championships,Piccadilly,
+2023-06-24,Evento deportivo,Wimbledon Championships,Victoria,
+2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Jubilee,
+2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Piccadilly,
+2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Victoria,
+2023-06-30,Festival/Evento al aire libre,BST Hyde Park 2023,Central,
+2023-07-01,Evento cultural,Pride in London 2023,Central,1000000.0
+2023-07-01,Evento cultural,Pride in London 2023,Jubilee,1000000.0
+2023-07-01,Evento cultural,Pride in London 2023,Victoria,1000000.0
+2023-07-01,Evento cultural,Pride in London 2023,Piccadilly,1000000.0
+2023-07-29,Evento deportivo,Formula E London ePrix,Jubilee,
+2023-07-29,Evento deportivo,Formula E London ePrix,DLR,
+2023-07-29,Evento deportivo,Formula E London ePrix,Overground,
 2023-12-31,Festivo,Año Nuevo (fuegos artificiales),Jubilee,
 2023-12-31,Festivo,Año Nuevo (fuegos artificiales),District,
 2023-12-31,Festivo,Año Nuevo (fuegos artificiales),Circle,

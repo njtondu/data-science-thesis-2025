@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+DATA_DIR = Path(__file__).resolve().parents[2] / "data"
 RAW_DIR = DATA_DIR / "raw-data" / "eda_data"
 PROCESSED_DIR = DATA_DIR / "processed"
 
@@ -24,8 +24,17 @@ def normalize_passengers(df: pd.DataFrame) -> pd.DataFrame:
 def normalize_stations(df: pd.DataFrame) -> pd.DataFrame:
 	df = df.copy()
 	df.columns = df.columns.str.lower().str.replace(' ', '_')
+	print(f"Columns before dropping: {list(df.columns)}")
 	df = df.drop(columns=['stopareanaptancode', 'stationuniqueid'], errors='ignore')
-	df = df.rename(columns={'uniqueid': 'station_uid', 'name': 'station_name'})
+	print(f"Columns after dropping: {list(df.columns)}")
+	df = df.rename(columns={
+		'uniqueid': 'station_uid', 
+		'name': 'station_name',
+		'type': 'toilet_type',
+		'isaccessible': 'toilet_isaccessible',
+		'isfeecharged': 'toilet_isfeecharged'
+	})
+	print(f"Columns after renaming: {list(df.columns)}")
 	return df
 
 
@@ -101,7 +110,7 @@ def run_pipeline() -> Path:
 	event_cols = ['event_type','event_name','expected_attendance']
 	weather_cols = ['max_temp','min_temp','mean_temp','precipitation_amount','relative_humidity','cloud_cover','sunshine_duration','sea_level_pressure']
 	perf_cols = ['service_operated_allweek_pct','service_operated_weekday_pct','service_operated_weekend_pct','kilometres_operated']
-	other_station_cols = ['wifi','airportinterchange','bluebadgecarparking','bluebadgecarparkspaces','isaccessible','isfeecharged','id']
+	other_station_cols = ['wifi','airportinterchange','bluebadgecarparking','bluebadgecarparkspaces','toilet_isaccessible','toilet_isfeecharged','toilet_type']
 
 	ps_e_w_perf = ps_e_w_perf.drop(columns=['traveldate'], errors='ignore')
 	ordered_cols = id_cols + counts_cols + event_cols + weather_cols + perf_cols + other_station_cols
