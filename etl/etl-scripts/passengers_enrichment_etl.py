@@ -35,7 +35,54 @@ def normalize_stations(df: pd.DataFrame) -> pd.DataFrame:
 		'isfeecharged': 'toilet_isfeecharged'
 	})
 	print(f"Columns after renaming: {list(df.columns)}")
-	return df
+	
+	# Handle toilet information aggregation to avoid duplicates
+	# Group by station and aggregate toilet information
+	def aggregate_toilets(group):
+		# Get the first row for non-toilet columns
+		result = group.iloc[0].copy()
+		
+		# Handle toilet information
+		toilet_types = group['toilet_type'].dropna().unique()
+		toilet_accessible = group['toilet_isaccessible'].dropna().unique()
+		toilet_feecharged = group['toilet_isfeecharged'].dropna().unique()
+		
+		# Aggregate toilet information
+		if len(toilet_types) > 0:
+			# If multiple types, concatenate them or use a representative value
+			result['toilet_type'] = ', '.join(sorted([str(t) for t in toilet_types if pd.notna(t)]))
+			if result['toilet_type'] == '':
+				result['toilet_type'] = None
+		else:
+			result['toilet_type'] = None
+			
+		# For accessibility, if any toilet is accessible, mark as accessible
+		if len(toilet_accessible) > 0:
+			accessible_values = [str(v).lower() for v in toilet_accessible if pd.notna(v)]
+			result['toilet_isaccessible'] = 'True' if 'true' in accessible_values else accessible_values[0] if accessible_values else None
+		else:
+			result['toilet_isaccessible'] = None
+			
+		# For fee charged, use the most common value or first non-null
+		if len(toilet_feecharged) > 0:
+			feecharged_values = [str(v).lower() for v in toilet_feecharged if pd.notna(v)]
+			result['toilet_isfeecharged'] = feecharged_values[0] if feecharged_values else None
+		else:
+			result['toilet_isfeecharged'] = None
+		
+		return result
+	
+	# Group by station identifiers and aggregate
+	groupby_cols = ['station_name', 'station_uid', 'mode', 'line']
+	# Only group if we have duplicates, otherwise return as is
+	if df.duplicated(subset=groupby_cols).any():
+		print(f"Found duplicates, aggregating by: {groupby_cols}")
+		df_agg = df.groupby(groupby_cols, as_index=False).apply(aggregate_toilets).reset_index(drop=True)
+		print(f"Shape before aggregation: {df.shape}, after: {df_agg.shape}")
+		return df_agg
+	else:
+		print("No duplicates found, returning original dataframe")
+		return df
 
 
 def normalize_events(df: pd.DataFrame) -> pd.DataFrame:
@@ -57,6 +104,12 @@ def normalize_performance(df: pd.DataFrame) -> pd.DataFrame:
 	df = df.copy()
 	df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
 	df['line_name'] = df['line_name'].replace({'C&H': 'Circle Hammersmith & City'})
+	
+	# Remove duplicates from performance data first
+	print(f"Performance data shape before dedup: {df.shape}")
+	df = df.drop_duplicates(subset=['year', 'month', 'line_name'])
+	print(f"Performance data shape after dedup: {df.shape}")
+	
 	mask = df['line_name'].astype(str).str.lower().str.contains('circle') & df['line_name'].astype(str).str.lower().str.contains('hammersmith')
 	combined = df[mask]
 	if not combined.empty:
@@ -117,6 +170,17 @@ def run_pipeline() -> Path:
 	ordered_cols = [c for c in ordered_cols if c in ps_e_w_perf.columns]
 
 	final_df = ps_e_w_perf[ordered_cols].copy()
+
+	# Final deduplication step to ensure no duplicates remain
+	print(f"Final dataset shape before dedup: {final_df.shape}")
+	duplicates_before = final_df.duplicated(subset=['date', 'station_name', 'line']).sum()
+	print(f"Duplicates before final dedup: {duplicates_before}")
+	
+	if duplicates_before > 0:
+		final_df = final_df.drop_duplicates(subset=['date', 'station_name', 'line'])
+		print(f"Final dataset shape after dedup: {final_df.shape}")
+		duplicates_after = final_df.duplicated(subset=['date', 'station_name', 'line']).sum()
+		print(f"Duplicates after final dedup: {duplicates_after}")
 
 	# Save
 	OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
