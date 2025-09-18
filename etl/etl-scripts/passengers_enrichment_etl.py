@@ -8,8 +8,8 @@ PROCESSED_DIR = DATA_DIR / "processed"
 PASSENGERS_FILE = RAW_DIR / "station_passenger_counts_2023.csv"
 STATIONS_FILE = PROCESSED_DIR / "stations_dimension_table.csv"
 EVENTS_FILE = PROCESSED_DIR / "event_sessions_2023.csv"
-WEATHER_FILE = PROCESSED_DIR / "london_weather_2023_clean.csv"
-PERF_FILE = PROCESSED_DIR / "monthly_tube_performance_2023.csv"
+WEATHER_FILE = PROCESSED_DIR / "dimensions" / "london_weather_2023_clean.csv"
+PERF_FILE = PROCESSED_DIR / "quantitave" / "monthly_tube_performance_2023.csv"
 OUTPUT_FILE = PROCESSED_DIR / "passengers_enriched_2023.csv"
 
 

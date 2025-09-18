@@ -161,7 +161,7 @@ def main():
         stations_dim_df = transform_station_data(dataframes)
         
         # Step 4: Save to CSV in the processed data directory
-        output_path = "/Users/nicoletondu/Desktop/data-science-thesis-2025/data/processed/stations_dimension_table.csv"
+        output_path = "/Users/NTondu/Desktop/data-science-thesis-2025/data/processed/stations_dimension_table.csv"
         save_to_csv(stations_dim_df, output_path)
         
         print("\nETL process completed successfully!")
